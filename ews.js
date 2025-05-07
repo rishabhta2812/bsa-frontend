@@ -68,18 +68,56 @@ function populateEWSCheckboxes() {
     });
 }
 
-async function fetchMobileNumbers() {
+async function fetchAllMobileNumbers() {
     try {
-        console.log('Fetching mobile numbers...');
+        console.log('Fetching all mobile numbers...');
         const response = await fetch('assets/mobile_numbers.json');
         if (!response.ok) throw new Error(`Failed to fetch mobile numbers: ${response.status}`);
         const data = await response.json();
-        console.log('Mobile numbers fetched:', data.mobileNumbers.length);
-        return data.mobileNumbers;
+        console.log('All mobile numbers fetched:', data.mobileNumbers.length);
+        return data.mobileNumbers || [];
     } catch (e) {
         console.error('Error fetching mobile numbers:', e);
         return [];
     }
+}
+
+async function fetchMobileNumbers(group) {
+    if (!group) {
+        console.warn('No group provided for fetching mobile numbers.');
+        return [];
+    }
+
+    const allMobileNumbers = await fetchAllMobileNumbers();
+    if (allMobileNumbers.length === 0) {
+        console.warn('No mobile numbers available in mobile_numbers.json.');
+        return [];
+    }
+
+    console.log(`Filtering mobile numbers for group ${group}...`);
+    const filteredMobileNumbers = [];
+
+    // Check which mobile numbers belong to the selected group and have valid JSON
+    await Promise.all(
+        allMobileNumbers.map(async (mobile) => {
+            try {
+                const response = await fetch(`assets/user_groups_data/${group}/${mobile}_cleaned.json`);
+                if (response.ok) {
+                    // Attempt to parse the JSON to ensure it's valid
+                    const data = await response.json();
+                    if (data) {
+                        filteredMobileNumbers.push(mobile);
+                    }
+                }
+            } catch (e) {
+                // File doesn't exist or JSON is invalid; skip this mobile number
+                console.debug(`Skipping ${mobile} in group ${group}: ${e.message}`);
+            }
+        })
+    );
+
+    console.log(`Filtered mobile numbers for group ${group}:`, filteredMobileNumbers.length);
+    return filteredMobileNumbers.sort(); // Sort for consistency
 }
 
 async function fetchCustomerData(group, mobile) {
@@ -90,7 +128,14 @@ async function fetchCustomerData(group, mobile) {
             console.warn(`No data found for ${mobile} in group ${group}: ${response.status}`);
             return null;
         }
-        const data = await response.json();
+        // Attempt to parse JSON, catch parsing errors
+        let data;
+        try {
+            data = await response.json();
+        } catch (e) {
+            console.warn(`Invalid JSON for ${mobile} in group ${group}: ${e.message}`);
+            return null;
+        }
         console.log(`Data fetched for ${mobile}`);
         return data;
     } catch (e) {
@@ -513,7 +558,7 @@ async function applyEWS() {
         return;
     }
 
-    const mobileNumbers = await fetchMobileNumbers();
+    const mobileNumbers = await fetchMobileNumbers(selectedGroup);
     if (mobileNumbers.length === 0) {
         displayWarnings([], true);
         spinner.classList.add('hidden');
@@ -611,7 +656,7 @@ function displayWarnings(warnings, noDataFetched = false) {
 
     if (noDataFetched) {
         const row = document.createElement('tr');
-        row.innerHTML = `<td colspan="6" class="py-3 px-4 text-center text-red-500">Failed to fetch customer data. Please ensure the data files (e.g., assets/mobile_numbers.json, assets/user_groups_data/${selectedGroup}/[mobile]_cleaned.json) are available and accessible.</td>`;
+        row.innerHTML = `<td colspan="6" class="py-3 px-4 text-center text-red-500">Failed to fetch customer data. Please ensure the data files (e.g., assets/mobile_numbers.json, assets/user_groups_data/${selectedGroup}/[mobile]_cleaned.json) are accessible and contain valid JSON.</td>`;
         tbody.appendChild(row);
         return;
     }
@@ -641,31 +686,24 @@ function displayWarnings(warnings, noDataFetched = false) {
 function setupFilters(warnings) {
     console.log('Setting up filters...');
     const severityFilter = document.getElementById('severity-filter');
-    const groupFilter = document.getElementById('group-filter');
 
-    if (!severityFilter || !groupFilter) {
-        console.error('Severity or group filter not found!');
+    if (!severityFilter) {
+        console.error('Severity filter not found!');
         return;
     }
 
     function filterWarnings() {
         let filteredWarnings = [...allWarnings];
         const severity = severityFilter.value;
-        const group = groupFilter.value;
 
         if (severity !== 'all') {
             filteredWarnings = filteredWarnings.filter(warning => warning.severity === severity);
-        }
-
-        if (group !== 'all') {
-            filteredWarnings = filteredWarnings.filter(warning => warning.group === group);
         }
 
         displayWarnings(filteredWarnings);
     }
 
     severityFilter.addEventListener('change', filterWarnings);
-    groupFilter.addEventListener('change', filterWarnings);
 
     filterWarnings();
 }

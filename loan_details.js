@@ -1,18 +1,56 @@
 let selectedGroup = null;
 let selectedCustomer = null;
 
-async function fetchMobileNumbers() {
+async function fetchAllMobileNumbers() {
     try {
-        console.log('Fetching mobile numbers...');
+        console.log('Fetching all mobile numbers...');
         const response = await fetch('assets/mobile_numbers.json');
         if (!response.ok) throw new Error(`Failed to fetch mobile numbers: ${response.status}`);
         const data = await response.json();
-        console.log('Mobile numbers fetched:', data.mobileNumbers.length);
+        console.log('All mobile numbers fetched:', data.mobileNumbers.length);
         return data.mobileNumbers || [];
     } catch (e) {
         console.error('Error fetching mobile numbers:', e);
         return [];
     }
+}
+
+async function fetchMobileNumbers(group) {
+    if (!group) {
+        console.warn('No group provided for fetching mobile numbers.');
+        return [];
+    }
+
+    const allMobileNumbers = await fetchAllMobileNumbers();
+    if (allMobileNumbers.length === 0) {
+        console.warn('No mobile numbers available in mobile_numbers.json.');
+        return [];
+    }
+
+    console.log(`Filtering mobile numbers for group ${group}...`);
+    const filteredMobileNumbers = [];
+
+    // Check which mobile numbers belong to the selected group and have valid JSON
+    await Promise.all(
+        allMobileNumbers.map(async (mobile) => {
+            try {
+                const response = await fetch(`assets/user_groups_data/${group}/${mobile}_cleaned.json`);
+                if (response.ok) {
+                    // Attempt to parse the JSON to ensure it's valid
+                    const data = await response.json();
+                    if (data) {
+                        filteredMobileNumbers.push(mobile);
+                    }
+                }
+            } catch (e) {
+                // File doesn't exist or JSON is invalid; skip this mobile number
+                console.debug(`Skipping ${mobile} in group ${group}: ${e.message}`);
+            }
+        })
+    );
+
+    console.log(`Filtered mobile numbers for group ${group}:`, filteredMobileNumbers.length);
+    return filteredMobileNumbers.sort(); // Sort for consistency
 }
 
 async function fetchCustomerData(group, mobile) {
@@ -23,7 +61,14 @@ async function fetchCustomerData(group, mobile) {
             console.warn(`No data found for ${mobile} in group ${group}: ${response.status}`);
             return null;
         }
-        const data = await response.json();
+        // Attempt to parse JSON, catch parsing errors
+        let data;
+        try {
+            data = await response.json();
+        } catch (e) {
+            console.warn(`Invalid JSON for ${mobile} in group ${group}: ${e.message}`);
+            return null;
+        }
         console.log(`Data fetched for ${mobile}`);
         return data;
     } catch (e) {
@@ -141,7 +186,7 @@ async function fetchAndDisplayLoanDetails() {
         spinner.classList.add('hidden');
         const tableBody = document.getElementById('loan-table-body');
         if (tableBody) {
-            tableBody.innerHTML = `<tr><td colspan="5" class="py-2 px-3 text-center text-red-500">No data found for mobile ${mobile} in group ${group}. Please ensure the data file exists.</td></tr>`;
+            tableBody.innerHTML = `<tr><td colspan="5" class="py-2 px-3 text-center text-red-500">No data found for mobile ${mobile} in group ${group}. Please ensure the data file exists and contains valid JSON.</td></tr>`;
         }
         document.getElementById('loan-details')?.classList.add('hidden');
         document.getElementById('nach-warnings')?.classList.add('hidden');
@@ -740,7 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        const mobileNumbers = await fetchMobileNumbers();
+        const mobileNumbers = await fetchMobileNumbers(selectGroup.value);
         populateMobileDropdown(mobileNumbers);
     });
 

@@ -11,7 +11,7 @@
 <body>
     <div class="flex min-h-screen">
         <aside class="sidebar w-64 text-white py-6 px-4 fixed h-full z-50">
-            <h1 class="text-3xl font-bold mb-6 text-center animate-fade-in">Loan Dashboard</h1>
+            <h1 class="text-3xl font-bold mb-6 text-center animate-fade-in">Loan Monitoring Dashboard</h1>
             <nav class="flex flex-col gap-4">
                 <a href="index.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-tachometer-alt mr-3"></i>Loan Monitoring</a>
                 <a href="customers.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-users mr-3"></i>Customers</a>
@@ -43,7 +43,7 @@
                             </select>
                         </div>
                         <div id="ews-checkboxes" class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6"></div>
-                        <button id="apply-ews" class="px-4 py-2 bg-orange-500 text-white rounded-lg hover:bg-gold-500 hover:text-gray-900 flex items-center z-10">
+                        <button id="apply-ews" class="px-4 py-2 bg-orange-500 text-black rounded-lg hover:bg-gold-500 hover:text-gray-900 flex items-center z-10">
                             <i class="fas fa-play mr-2"></i>Apply EWS
                         </button>
                     </div>
@@ -56,13 +56,6 @@
                                     <option value="Low">Low</option>
                                     <option value="Medium">Medium</option>
                                     <option value="High">High</option>
-                                </select>
-                                <select id="group-filter" class="px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-orange-500">
-                                    <option value="all">All Groups</option>
-                                    <option value="0-30">0-30 Days</option>
-                                    <option value="31-60">31-60 Days</option>
-                                    <option value="61-90">61-90 Days</option>
-                                    <option value="net_npa">Net NPA</option>
                                 </select>
                             </div>
                         </div>
