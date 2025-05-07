@@ -1,0 +1,272 @@
+{
+    "accountNo": "XXXXXX5559",
+    "customerName": "JYOTI   .",
+    "periodAnalyzed": "2024-08 to 2025-01",
+    "ewsDetected": [
+        {
+            "signal": "Frequent Low or Near-Zero Balances",
+            "severity": "High",
+            "evidence": "Found 24 transactions with balance <= \u20b9100.0: ['TXN_1006', 'TXN_1014', 'TXN_1192', 'TXN_1193', 'TXN_1285']",
+            "recommendation": "Engage customer to assess liquidity issues and offer repayment restructuring.",
+            "events": [
+                {
+                    "txnid": "TXN_1006",
+                    "date": "2024-08-04",
+                    "balance": 83.31
+                },
+                {
+                    "txnid": "TXN_1014",
+                    "date": "2024-08-06",
+                    "balance": 1.0
+                },
+                {
+                    "txnid": "TXN_1192",
+                    "date": "2024-08-25",
+                    "balance": 35.25
+                },
+                {
+                    "txnid": "TXN_1193",
+                    "date": "2024-08-27",
+                    "balance": 15.25
+                },
+                {
+                    "txnid": "TXN_1285",
+                    "date": "2024-09-09",
+                    "balance": 55.91
+                },
+                {
+                    "txnid": "TXN_1286",
+                    "date": "2024-09-09",
+                    "balance": 1.0
+                },
+                {
+                    "txnid": "TXN_1289",
+                    "date": "2024-09-11",
+                    "balance": 85.0
+                },
+                {
+                    "txnid": "TXN_1290",
+                    "date": "2024-09-11",
+                    "balance": 35.0
+                },
+                {
+                    "txnid": "TXN_1300",
+                    "date": "2024-09-12",
+                    "balance": 87.65
+                },
+                {
+                    "txnid": "TXN_1302",
+                    "date": "2024-09-12",
+                    "balance": 87.65
+                },
+                {
+                    "txnid": "TXN_1470",
+                    "date": "2024-10-10",
+                    "balance": 48.8
+                },
+                {
+                    "txnid": "TXN_1471",
+                    "date": "2024-10-11",
+                    "balance": 49.8
+                },
+                {
+                    "txnid": "TXN_1498",
+                    "date": "2024-10-15",
+                    "balance": 35.6
+                },
+                {
+                    "txnid": "TXN_1701",
+                    "date": "2024-11-18",
+                    "balance": 15.94
+                },
+                {
+                    "txnid": "TXN_1702",
+                    "date": "2024-11-18",
+                    "balance": 5.94
+                },
+                {
+                    "txnid": "TXN_1703",
+                    "date": "2024-11-18",
+                    "balance": 9.94
+                },
+                {
+                    "txnid": "TXN_1706",
+                    "date": "2024-11-20",
+                    "balance": 90.94
+                },
+                {
+                    "txnid": "TXN_1707",
+                    "date": "2024-11-21",
+                    "balance": 30.94
+                },
+                {
+                    "txnid": "TXN_1740",
+                    "date": "2024-11-26",
+                    "balance": 15.72
+                },
+                {
+                    "txnid": "TXN_1742",
+                    "date": "2024-11-27",
+                    "balance": 15.72
+                },
+                {
+                    "txnid": "TXN_1775",
+                    "date": "2024-12-05",
+                    "balance": 91.9
+                },
+                {
+                    "txnid": "TXN_1776",
+                    "date": "2024-12-05",
+                    "balance": 11.9
+                },
+                {
+                    "txnid": "TXN_1777",
+                    "date": "2024-12-06",
+                    "balance": 1.0
+                },
+                {
+                    "txnid": "TXN_1779",
+                    "date": "2024-12-07",
+                    "balance": 1.0
+                }
+            ]
+        },
+        {
+            "signal": "High Transaction Volume with Small-Value Transfers",
+            "severity": "Medium",
+            "evidence": "Months with >30 small transactions (<=\u20b9500): ['2024-08', '2024-09', '2024-10', '2024-11', '2024-12', '2025-01']",
+            "recommendation": "Investigate purpose of small transfers to rule out fund diversion.",
+            "events": []
+        },
+        {
+            "signal": "Significant Fund Transfers Post-Salary Credits",
+            "severity": "High",
+            "evidence": "Found 5 large debits post-salary: ['TXN_1711', 'TXN_1721', 'TXN_1736', 'TXN_1742', 'TXN_1826']",
+            "recommendation": "Monitor salary inflows and enforce EMI prioritization.",
+            "events": [
+                {
+                    "txnid": "TXN_1711",
+                    "date": "2024-11-23",
+                    "amount": -15000.0
+                },
+                {
+                    "txnid": "TXN_1721",
+                    "date": "2024-11-23",
+                    "amount": -14000.0
+                },
+                {
+                    "txnid": "TXN_1736",
+                    "date": "2024-11-25",
+                    "amount": -14300.0
+                },
+                {
+                    "txnid": "TXN_1742",
+                    "date": "2024-11-27",
+                    "amount": -14900.0
+                },
+                {
+                    "txnid": "TXN_1826",
+                    "date": "2024-12-13",
+                    "amount": -12631.71
+                }
+            ]
+        },
+        {
+            "signal": "Inconsistent Salary Credits",
+            "severity": "Medium",
+            "evidence": "Found 1 salaries deviating >20.0% from mean \u20b912803.00: ['TXN_1833']",
+            "recommendation": "Verify income stability with employer.",
+            "events": [
+                {
+                    "txnid": "TXN_1833",
+                    "date": "2024-12-15",
+                    "amount": 8500.0
+                }
+            ]
+        },
+        {
+            "signal": "High Debit-to-Credit Ratio",
+            "severity": "Medium",
+            "evidence": "Debit/Credit amount ratio: 0.99, count ratio: 5.16",
+            "recommendation": "Analyze spending patterns and reduce discretionary debits.",
+            "events": []
+        },
+        {
+            "signal": "Potential Informal Borrowing or Lending",
+            "severity": "Medium",
+            "evidence": "Frequent large transfers (>=\u20b910000) to: {'10': ['TXN_1009', 'TXN_1245', 'TXN_1425', 'TXN_1769', 'TXN_1978']}",
+            "recommendation": "Investigate relationships with frequent transferees.",
+            "events": [
+                {
+                    "txnid": "TXN_1009",
+                    "date": "2024-08-05",
+                    "amount": 11118.0
+                },
+                {
+                    "txnid": "TXN_1245",
+                    "date": "2024-09-02",
+                    "amount": 13230.0
+                },
+                {
+                    "txnid": "TXN_1425",
+                    "date": "2024-10-02",
+                    "amount": 13230.0
+                },
+                {
+                    "txnid": "TXN_1769",
+                    "date": "2024-12-02",
+                    "amount": 13230.0
+                },
+                {
+                    "txnid": "TXN_1978",
+                    "date": "2025-01-02",
+                    "amount": 13230.0
+                }
+            ]
+        },
+        {
+            "signal": "Limited Loan Repayment Activity",
+            "severity": "Medium",
+            "evidence": "Loan disbursals: \u20b9348632.27, EMI issues: \u20b90, ratio: 0.0000",
+            "recommendation": "Verify loan repayment status and monitor EMIs.",
+            "events": []
+        },
+        {
+            "signal": "High Volatility in Account Balance",
+            "severity": "Medium",
+            "evidence": "Balance volatility (std/mean): 1.27, mean: \u20b924053.90",
+            "recommendation": "Educate customer on maintaining stable balances.",
+            "events": []
+        },
+        {
+            "signal": "Sporadic Large Credits",
+            "severity": "Medium",
+            "evidence": "Large credits (>=\u20b950000) in months: {'2024-09': ['TXN_1322', 'TXN_1397'], '2024-12': ['TXN_1927', 'TXN_1928']}",
+            "recommendation": "Investigate source of large credits.",
+            "events": [
+                {
+                    "txnid": "TXN_1322",
+                    "date": "2024-09-19",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1397",
+                    "date": "2024-09-30",
+                    "amount": 80385.0
+                },
+                {
+                    "txnid": "TXN_1927",
+                    "date": "2024-12-28",
+                    "amount": 80000.0
+                },
+                {
+                    "txnid": "TXN_1928",
+                    "date": "2024-12-28",
+                    "amount": 80000.0
+                }
+            ]
+        }
+    ],
+    "totalSignals": 9,
+    "timestamp": "2025-04-29T19:02:31.635427"
+}

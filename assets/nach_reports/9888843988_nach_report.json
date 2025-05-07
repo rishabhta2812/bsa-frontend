@@ -1,0 +1,33 @@
+{
+    "accountNo": "XXXXXXXXXX4121",
+    "customerName": "JOGINDER PAL SINGH",
+    "alerts": [
+        "INFO: Analysis period (6 months): ['2024-07', '2024-08', '2024-09', '2024-10', '2024-11', '2024-12']",
+        "INFO: 12 EMI transaction(s) found in the last 6 months.",
+        "INFO: Total EMI amount paid in the last 6 months is 195480.00",
+        "WARNING: Overpayment in 2024-07. Actual: 32580.00, Expected: 16290.00",
+        "WARNING: Overpayment in 2024-08. Actual: 32580.00, Expected: 16290.00",
+        "WARNING: Overpayment in 2024-09. Actual: 32580.00, Expected: 16290.00",
+        "WARNING: Overpayment in 2024-10. Actual: 32580.00, Expected: 16290.00",
+        "WARNING: Overpayment in 2024-11. Actual: 32580.00, Expected: 16290.00",
+        "WARNING: Overpayment in 2024-12. Actual: 32580.00, Expected: 16290.00",
+        "INFO: Average payment gap is 13.9 days.",
+        "INFO: Regular EMI pattern detected: Amount 16290.00 in 12 months, due on day 6.",
+        "INFO: Payment on 2024-07-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-07-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-08-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-08-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-09-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-09-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-10-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-10-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-11-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-11-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-12-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Payment on 2024-12-06 for 16290.00 (Narration: ACH D- CARS24 FINANCIAL SER-1000555419) is on time.",
+        "INFO: Next expected EMI payment for 16290.00 is predicted on 2025-01-06.",
+        "INFO: Latest balance (20741.30) is sufficient for EMI 16290.00.",
+        "INFO: Latest balance (20741.30) is sufficient for total EMIs (16290.00)."
+    ],
+    "timestamp": "2025-04-29T19:02:38.719597"
+}

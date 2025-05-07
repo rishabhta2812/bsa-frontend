@@ -1,0 +1,563 @@
+{
+  "borrowerInfo": {
+    "name": "MR.ABHIJEET SINGH RATHORE",
+    "address": "NA",
+    "landline": "NA",
+    "mobile": "9929748849",
+    "email": "ABHIJEETRXXXXXXXX@GMAIL.COM",
+    "pan": "BBXXXXXX8C",
+    "custId": "9929748849@finvu",
+    "bank": "ICICI Bank",
+    "fip_id": "ICICI-FIP",
+    "dob": "1952-02-29",
+    "marital_status": "NA",
+    "ckycCompliance": "false",
+    "consent_id": "767e1e74-14a9-44ae-8848-cc5fc227a8b9",
+    "session_id": "f07b615e-1385-4441-bd74-d660e346ab8c",
+    "accountRef": "ae25b9dc-5620-4a8d-b7ca-94becfa14d12"
+  },
+  "derivedMonthlyFeatures": [
+    {
+      "monthName": "Aug-24",
+      "net_monthly_inflow": -95502.48999999999,
+      "monthly_balance_delta": -96203.48999999999,
+      "credit_debit_ratio": 0.7764206173771807,
+      "avg_daily_inflow": -3183.416333333333,
+      "liquidity_ratio": 0.11153599970820724,
+      "expense_income_ratio": 1.2879616764661541,
+      "account_turnover_ratio": 0.001889054565970823,
+      "cash_buffer_days": 3.3460799912462176
+    },
+    {
+      "monthName": "Sep-24",
+      "net_monthly_inflow": -304462.14,
+      "monthly_balance_delta": 13407.86,
+      "credit_debit_ratio": 0.3961745908261783,
+      "avg_daily_inflow": -10148.738000000001,
+      "liquidity_ratio": 0.26347579660028414,
+      "expense_income_ratio": 2.5241396676011214,
+      "account_turnover_ratio": 0.0007753085746945455,
+      "cash_buffer_days": 7.904273898008524
+    },
+    {
+      "monthName": "Oct-24",
+      "net_monthly_inflow": -126391.41999999998,
+      "monthly_balance_delta": -42392.42,
+      "credit_debit_ratio": 0.607196340760665,
+      "avg_daily_inflow": -4213.047333333333,
+      "liquidity_ratio": 0.095623727225087,
+      "expense_income_ratio": 1.6469137458029643,
+      "account_turnover_ratio": 0.0023725486372470636,
+      "cash_buffer_days": 2.8687118167526093
+    },
+    {
+      "monthName": "Nov-24",
+      "net_monthly_inflow": 21070.67,
+      "monthly_balance_delta": 22070.670000000002,
+      "credit_debit_ratio": 1.2643272545852169,
+      "avg_daily_inflow": 702.3556666666666,
+      "liquidity_ratio": 0.26081621710927005,
+      "expense_income_ratio": 0.7909344644540358,
+      "account_turnover_ratio": 0.0030782861064923457,
+      "cash_buffer_days": 7.824486513278103
+    },
+    {
+      "monthName": "Dec-24",
+      "net_monthly_inflow": -13999.840000000084,
+      "monthly_balance_delta": -9099.840000000004,
+      "credit_debit_ratio": 0.9898424903410411,
+      "avg_daily_inflow": -466.66133333333613,
+      "liquidity_ratio": 0.039330189035446654,
+      "expense_income_ratio": 1.0102617434168333,
+      "account_turnover_ratio": 0.003099184416415273,
+      "cash_buffer_days": 1.1799056710633995
+    },
+    {
+      "monthName": "Jan-25",
+      "net_monthly_inflow": 16299.920000000013,
+      "monthly_balance_delta": 2636.9200000000055,
+      "credit_debit_ratio": 1.0810828019647802,
+      "avg_daily_inflow": 543.3306666666671,
+      "liquidity_ratio": 0.05806721130699751,
+      "expense_income_ratio": 0.9249985275712287,
+      "account_turnover_ratio": 0.004626004656844688,
+      "cash_buffer_days": 1.7420163392099253
+    }
+  ],
+  "overallMetrics": {
+    "net_inflow_monthly_pct_change": [
+      {
+        "monthName": "Aug-24",
+        "net_inflow_pct_change": null
+      },
+      {
+        "monthName": "Sep-24",
+        "net_inflow_pct_change": 218.80021138715864
+      },
+      {
+        "monthName": "Oct-24",
+        "net_inflow_pct_change": -58.486982979230206
+      },
+      {
+        "monthName": "Nov-24",
+        "net_inflow_pct_change": -116.6709654816759
+      },
+      {
+        "monthName": "Dec-24",
+        "net_inflow_pct_change": -166.4423105672486
+      },
+      {
+        "monthName": "Jan-25",
+        "net_inflow_pct_change": -216.4293306209208
+      }
+    ],
+    "net_inflow_cv": 1.475823341320189,
+    "max_consecutive_negative_months": 3
+  },
+  "salary_vs_credit_correlation": null,
+  "additionalAdvancedFeatures": {
+    "recent_net_inflow_trend": {
+      "last_3_month_avg": 7790.25,
+      "previous_3_month_avg": -175452.02,
+      "difference": 183242.27,
+      "pct_change": -104.44
+    },
+    "latest_balAvg_moving_avg": 28890.58,
+    "avg_credit_amt_by_month": [
+      {
+        "monthName": "Aug-24",
+        "avg_credit_amt": 30150.0
+      },
+      {
+        "monthName": "Sep-24",
+        "avg_credit_amt": 18160.0
+      },
+      {
+        "monthName": "Oct-24",
+        "avg_credit_amt": 21708.44
+      },
+      {
+        "monthName": "Nov-24",
+        "avg_credit_amt": 12598.12
+      },
+      {
+        "monthName": "Dec-24",
+        "avg_credit_amt": 62012.5
+      },
+      {
+        "monthName": "Jan-25",
+        "avg_credit_amt": 16717.54
+      }
+    ],
+    "avg_debit_amt_by_month": [
+      {
+        "monthName": "Aug-24",
+        "avg_debit_amt": 5406.99
+      },
+      {
+        "monthName": "Sep-24",
+        "avg_debit_amt": 5480.68
+      },
+      {
+        "monthName": "Oct-24",
+        "avg_debit_amt": 5027.62
+      },
+      {
+        "monthName": "Nov-24",
+        "avg_debit_amt": 1423.47
+      },
+      {
+        "monthName": "Dec-24",
+        "avg_debit_amt": 9440.24
+      },
+      {
+        "monthName": "Jan-25",
+        "avg_debit_amt": 4903.12
+      }
+    ],
+    "txn_frequency_trend": [
+      {
+        "monthName": "Aug-24",
+        "total_txns": 90,
+        "txn_freq_pct_change": -2.1739130434782608
+      },
+      {
+        "monthName": "Sep-24",
+        "total_txns": 103,
+        "txn_freq_pct_change": 11.956521739130435
+      },
+      {
+        "monthName": "Oct-24",
+        "total_txns": 73,
+        "txn_freq_pct_change": -20.652173913043477
+      },
+      {
+        "monthName": "Nov-24",
+        "total_txns": 64,
+        "txn_freq_pct_change": -30.434782608695656
+      },
+      {
+        "monthName": "Dec-24",
+        "total_txns": 168,
+        "txn_freq_pct_change": 82.6086956521739
+      },
+      {
+        "monthName": "Jan-25",
+        "total_txns": 54,
+        "txn_freq_pct_change": -41.30434782608695
+      }
+    ],
+    "recent_net_inflow_variability": {
+      "recent_3_month_avg": 7790.25,
+      "recent_3_month_std": 19020.94,
+      "recent_3_month_cv": 2.44
+    },
+    "debt_repayment_ratio": "Not computed",
+    "monthly_emi_payments": [
+      {
+        "monthName": "Aug-24",
+        "emi_total": 0.0
+      },
+      {
+        "monthName": "Sep-24",
+        "emi_total": 0.0
+      },
+      {
+        "monthName": "Oct-24",
+        "emi_total": 0.0
+      },
+      {
+        "monthName": "Nov-24",
+        "emi_total": 0.0
+      },
+      {
+        "monthName": "Dec-24",
+        "emi_total": 0.0
+      },
+      {
+        "monthName": "Jan-25",
+        "emi_total": 0.0
+      }
+    ],
+    "emi_to_income_ratio": [
+      {
+        "monthName": "Aug-24",
+        "emi_to_income_ratio": 0.0
+      },
+      {
+        "monthName": "Sep-24",
+        "emi_to_income_ratio": 0.0
+      },
+      {
+        "monthName": "Oct-24",
+        "emi_to_income_ratio": 0.0
+      },
+      {
+        "monthName": "Nov-24",
+        "emi_to_income_ratio": 0.0
+      },
+      {
+        "monthName": "Dec-24",
+        "emi_to_income_ratio": 0.0
+      },
+      {
+        "monthName": "Jan-25",
+        "emi_to_income_ratio": 0.0
+      }
+    ],
+    "missed_emis": 6,
+    "loan_to_balance_ratio": [
+      {
+        "monthName": "Aug-24",
+        "loan_to_balance_ratio": null
+      },
+      {
+        "monthName": "Sep-24",
+        "loan_to_balance_ratio": null
+      },
+      {
+        "monthName": "Oct-24",
+        "loan_to_balance_ratio": null
+      },
+      {
+        "monthName": "Nov-24",
+        "loan_to_balance_ratio": null
+      },
+      {
+        "monthName": "Dec-24",
+        "loan_to_balance_ratio": null
+      },
+      {
+        "monthName": "Jan-25",
+        "loan_to_balance_ratio": null
+      }
+    ]
+  },
+  "thresholdReport": {
+    "monthly_thresholds": [
+      {
+        "month": "Aug-24",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": -95502.49,
+            "threshold": "> 0",
+            "pass": false
+          },
+          "monthly_balance_delta": {
+            "value": -0.65,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 0.78,
+            "threshold": "> 1.0",
+            "pass": false
+          },
+          "liquidity_ratio": {
+            "value": 0.11,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 1.29,
+            "threshold": "< 0.85",
+            "pass": false
+          },
+          "account_turnover_ratio": {
+            "value": 0.0019,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 3.35,
+            "threshold": ">= 7 days",
+            "pass": false
+          }
+        }
+      },
+      {
+        "month": "Sep-24",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": -304462.14,
+            "threshold": "> 0",
+            "pass": false
+          },
+          "monthly_balance_delta": {
+            "value": 0.26,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 0.4,
+            "threshold": "> 1.0",
+            "pass": false
+          },
+          "liquidity_ratio": {
+            "value": 0.26,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 2.52,
+            "threshold": "< 0.85",
+            "pass": false
+          },
+          "account_turnover_ratio": {
+            "value": 0.0008,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 7.9,
+            "threshold": ">= 7 days",
+            "pass": true
+          }
+        }
+      },
+      {
+        "month": "Oct-24",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": -126391.42,
+            "threshold": "> 0",
+            "pass": false
+          },
+          "monthly_balance_delta": {
+            "value": -0.65,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 0.61,
+            "threshold": "> 1.0",
+            "pass": false
+          },
+          "liquidity_ratio": {
+            "value": 0.1,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 1.65,
+            "threshold": "< 0.85",
+            "pass": false
+          },
+          "account_turnover_ratio": {
+            "value": 0.0024,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 2.87,
+            "threshold": ">= 7 days",
+            "pass": false
+          }
+        }
+      },
+      {
+        "month": "Nov-24",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": 21070.67,
+            "threshold": "> 0",
+            "pass": true
+          },
+          "monthly_balance_delta": {
+            "value": 0.95,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 1.26,
+            "threshold": "> 1.0",
+            "pass": true
+          },
+          "liquidity_ratio": {
+            "value": 0.26,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 0.79,
+            "threshold": "< 0.85",
+            "pass": true
+          },
+          "account_turnover_ratio": {
+            "value": 0.0031,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 7.82,
+            "threshold": ">= 7 days",
+            "pass": true
+          }
+        }
+      },
+      {
+        "month": "Dec-24",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": -13999.84,
+            "threshold": "> 0",
+            "pass": false
+          },
+          "monthly_balance_delta": {
+            "value": -0.2,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 0.99,
+            "threshold": "> 1.0",
+            "pass": false
+          },
+          "liquidity_ratio": {
+            "value": 0.04,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 1.01,
+            "threshold": "< 0.85",
+            "pass": false
+          },
+          "account_turnover_ratio": {
+            "value": 0.0031,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 1.18,
+            "threshold": ">= 7 days",
+            "pass": false
+          }
+        }
+      },
+      {
+        "month": "Jan-25",
+        "threshold_checks": {
+          "net_monthly_inflow": {
+            "value": 16299.92,
+            "threshold": "> 0",
+            "pass": true
+          },
+          "monthly_balance_delta": {
+            "value": 0.07,
+            "threshold": "Decline < 15% or increase",
+            "pass": true
+          },
+          "credit_debit_ratio": {
+            "value": 1.08,
+            "threshold": "> 1.0",
+            "pass": true
+          },
+          "liquidity_ratio": {
+            "value": 0.06,
+            "threshold": ">= 0.3",
+            "pass": false
+          },
+          "expense_income_ratio": {
+            "value": 0.92,
+            "threshold": "< 0.85",
+            "pass": false
+          },
+          "account_turnover_ratio": {
+            "value": 0.0046,
+            "threshold": "< 4",
+            "pass": true
+          },
+          "cash_buffer_days": {
+            "value": 1.74,
+            "threshold": ">= 7 days",
+            "pass": false
+          }
+        }
+      }
+    ],
+    "overall_thresholds": {
+      "net_inflow_cv": {
+        "value": 1.48,
+        "threshold": "< 0.5",
+        "pass": false
+      },
+      "max_consecutive_negative_months": {
+        "value": 3,
+        "threshold": "< 3",
+        "pass": false
+      },
+      "worst_monthly_net_inflow_pct_change": {
+        "value": -216.43,
+        "threshold": "Decline <= 50%",
+        "pass": false
+      },
+      "salary_vs_credit_correlation": {
+        "value": null,
+        "threshold": ">= 0.75",
+        "pass": false
+      }
+    }
+  },
+  "plotFile": "features\\9929748849_cleaned_trends.png"
+}

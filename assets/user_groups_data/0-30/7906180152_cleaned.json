@@ -1,0 +1,4460 @@
+{
+    "accountXns": [
+        {
+            "accountNo": "XXXXXXXXXXX7952",
+            "accountType": "SAVINGS",
+            "ifscCode": "UTIB0002688",
+            "location": "MODINAGAR,,ASIFPUR UJAIRA, ,GHAZIABAD,UTTAR PRADESH,INDIA,201204",
+            "micrCode": "",
+            "xns": [
+                {
+                    "amount": -1.0,
+                    "balance": 0.0,
+                    "category": "bank_charges",
+                    "date": "2024-04-20",
+                    "narration": "Debit card Chrgs Incl GST",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_0"
+                },
+                {
+                    "amount": 10000.0,
+                    "balance": 10000.0,
+                    "category": "cash_deposit",
+                    "date": "2024-11-25",
+                    "narration": "SAK/CASH DEP/SAK419209867/2688/SELF",
+                    "sub_category": "cash_deposit",
+                    "txnid": "TXN_1"
+                },
+                {
+                    "amount": 100.0,
+                    "balance": 10100.0,
+                    "category": "transfer",
+                    "date": "2024-11-26",
+                    "narration": "UPI/P2A/433258195275/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_2"
+                },
+                {
+                    "amount": -354.0,
+                    "balance": 9746.0,
+                    "category": "bank_charges",
+                    "date": "2024-11-26",
+                    "narration": "Avgbal chgs Sep24 Incl GST",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_3"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 29746.0,
+                    "category": "transfer",
+                    "date": "2024-11-28",
+                    "narration": "UPI/P2A/433431415132/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_4"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 49746.0,
+                    "category": "transfer",
+                    "date": "2024-11-30",
+                    "narration": "UPI/P2A/433613538883/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_5"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 48746.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-06",
+                    "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/071224",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_6"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 45746.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-10",
+                    "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/111224",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_7"
+                },
+                {
+                    "amount": -354.0,
+                    "balance": 45392.0,
+                    "category": "bank_charges",
+                    "date": "2024-12-10",
+                    "narration": "Avgbal chgs Oct24 Incl GST",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_8"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 40392.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-12",
+                    "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/131224",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_9"
+                },
+                {
+                    "amount": -9500.0,
+                    "balance": 30892.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-18",
+                    "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/191224",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_10"
+                },
+                {
+                    "amount": -499.0,
+                    "balance": 30393.0,
+                    "category": "bank_charges",
+                    "date": "2024-12-21",
+                    "narration": "Debit card Chrgs Incl GST",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_11"
+                },
+                {
+                    "amount": 80000.0,
+                    "balance": 110393.0,
+                    "category": "transfer",
+                    "date": "2024-12-27",
+                    "narration": "UPI/P2A/436388517946/Mr MANVEE/CENTRAL B/Sent usi/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_12"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 100393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3150/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_13"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 90393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3151/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_14"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 80393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3152/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_15"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 70393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3153/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_16"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 60393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3154/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_17"
+                },
+                {
+                    "amount": 10000.0,
+                    "balance": 70393.0,
+                    "category": "reversal",
+                    "date": "2024-12-30",
+                    "narration": "CASH-AXIS-RVSL/311224/09:29",
+                    "sub_category": "reversal",
+                    "txnid": "TXN_18"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 60393.0,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-30",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/3156/311224/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_19"
+                },
+                {
+                    "amount": 130.0,
+                    "balance": 60523.0,
+                    "category": "income_interest",
+                    "date": "2024-12-31",
+                    "narration": "SB:924010005807952:Int.Pd:01-10-2024 to 31-12-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_20"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 55523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-01",
+                    "narration": "ATM-CASH/2ND ATM, BARUT BRA/BAGPAT/020125",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_21"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 50523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-03",
+                    "narration": "ATM-CASH/AMINAGAR SARAI/BAGHPAT/040125",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_22"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-05",
+                    "narration": "ATM-CASH/AMIT KUMAR/BARAUT/060125",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_23"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 35523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-05",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/4532/060125/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_24"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 30523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-08",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/4937/090125/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_25"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 20523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-11",
+                    "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/120125",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_26"
+                },
+                {
+                    "amount": 15000.0,
+                    "balance": 35523.0,
+                    "category": "transfer",
+                    "date": "2025-01-20",
+                    "narration": "UPI/P2A/502164191157/MOHAMMAD /AXIS BANK/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_27"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 30523.0,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-21",
+                    "narration": "ATM-CASH-AXIS/TPAN268803/5715/220125/BAGHPAT",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_28"
+                },
+                {
+                    "amount": -29.0,
+                    "balance": 30494.0,
+                    "category": "utility_others",
+                    "date": "2025-01-21",
+                    "narration": "UPI/P2M/502216022589/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_29"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 29494.0,
+                    "category": "transfer",
+                    "date": "2025-01-22",
+                    "narration": "UPI/P2A/502306449208/MANOJ  KUMAR         /Sent u/State Bank Of India",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_30"
+                },
+                {
+                    "amount": -742.0,
+                    "balance": 28752.0,
+                    "category": "transfer",
+                    "date": "2025-01-22",
+                    "narration": "UPI/P2M/502356629560/Krishna Gail  Gas Sta/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_31"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 23752.0,
+                    "category": "transfer",
+                    "date": "2025-01-23",
+                    "narration": "UPI/P2A/502418086677/SURAJ                /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_32"
+                },
+                {
+                    "amount": -1450.0,
+                    "balance": 22302.0,
+                    "category": "transfer",
+                    "date": "2025-01-23",
+                    "narration": "UPI/P2M/502418501731/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_33"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 22252.0,
+                    "category": "transfer",
+                    "date": "2025-01-24",
+                    "narration": "UPI/P2M/502568697167/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_34"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 22192.0,
+                    "category": "transfer",
+                    "date": "2025-01-24",
+                    "narration": "UPI/P2M/502538908571/HOME SHOPPING MART   /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_35"
+                },
+                {
+                    "amount": -73.16,
+                    "balance": 22118.84,
+                    "category": "bank_charges",
+                    "date": "2025-01-24",
+                    "narration": "ATM W/D Chrgs Incl GST",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_36"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 21618.84,
+                    "category": "transfer",
+                    "date": "2025-01-24",
+                    "narration": "UPI/P2M/502569410136/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_37"
+                },
+                {
+                    "amount": -29.0,
+                    "balance": 21589.84,
+                    "category": "utility_others",
+                    "date": "2025-01-24",
+                    "narration": "UPI/P2M/502559698082/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_38"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 20589.84,
+                    "category": "transfer",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2A/502650005950/SONIYA               /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_39"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 20549.84,
+                    "category": "transfer",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2M/502640111548/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_40"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 20509.84,
+                    "category": "transfer",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2M/502650326843/HOME SHOPPING MART   /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_41"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 20459.84,
+                    "category": "transfer",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2M/502650843988/KAVITA               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_42"
+                },
+                {
+                    "amount": -26.0,
+                    "balance": 20433.84,
+                    "category": "utility_others",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2M/502641281590/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_43"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 20414.84,
+                    "category": "utility_others",
+                    "date": "2025-01-25",
+                    "narration": "UPI/P2M/502641297971/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_44"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 19914.84,
+                    "category": "expenses_travel",
+                    "date": "2025-01-26",
+                    "narration": "UPI/P2M/502761485929/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_travel",
+                    "txnid": "TXN_45"
+                },
+                {
+                    "amount": -8000.0,
+                    "balance": 11914.84,
+                    "category": "transfer",
+                    "date": "2025-01-26",
+                    "narration": "UPI/P2A/502711795990/SONIYA               /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_46"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 9914.84,
+                    "category": "transfer",
+                    "date": "2025-01-26",
+                    "narration": "UPI/P2A/502712001289/DEEPAK KUMAR S/O RANV/Sent u/Punjab National Bank",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_47"
+                },
+                {
+                    "amount": -670.0,
+                    "balance": 9244.84,
+                    "category": "transfer",
+                    "date": "2025-01-26",
+                    "narration": "UPI/P2M/502722052766/Krishna Gail  Gas Sta/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_48"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 9144.84,
+                    "category": "expenses_travel",
+                    "date": "2025-01-27",
+                    "narration": "UPI/P2M/502803268737/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_travel",
+                    "txnid": "TXN_49"
+                },
+                {
+                    "amount": -771.0,
+                    "balance": 8373.84,
+                    "category": "transfer",
+                    "date": "2025-01-27",
+                    "narration": "UPI/P2M/502823261956/YASHVEER SINGH FILLIN/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_50"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 8354.84,
+                    "category": "utility_others",
+                    "date": "2025-01-27",
+                    "narration": "UPI/P2M/502824075963/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_51"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 8294.84,
+                    "category": "transfer",
+                    "date": "2025-01-28",
+                    "narration": "UPI/P2M/502914624342/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_52"
+                },
+                {
+                    "amount": -1060.0,
+                    "balance": 7234.84,
+                    "category": "transfer",
+                    "date": "2025-01-28",
+                    "narration": "UPI/P2M/502914810464/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_53"
+                },
+                {
+                    "amount": -132.0,
+                    "balance": 7102.84,
+                    "category": "transfer",
+                    "date": "2025-01-28",
+                    "narration": "UPI/P2A/502915220084/AMIT KUMAR           /Sent u/AXIS BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_54"
+                },
+                {
+                    "amount": -101.0,
+                    "balance": 7001.84,
+                    "category": "transfer",
+                    "date": "2025-01-29",
+                    "narration": "UPI/P2A/503035956067/VIPIN  KUMAR         /Sent u/State Bank Of India",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_55"
+                },
+                {
+                    "amount": -29.0,
+                    "balance": 6972.84,
+                    "category": "utility_others",
+                    "date": "2025-01-29",
+                    "narration": "UPI/P2M/503076207738/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_56"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 6953.84,
+                    "category": "utility_others",
+                    "date": "2025-01-29",
+                    "narration": "UPI/P2M/503056728028/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_57"
+                },
+                {
+                    "amount": -550.0,
+                    "balance": 6403.84,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "UPI/P2M/503117094577/BharatPe Merchant    /Pay To/YesBank_Yespay",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_58"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 6383.84,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "UPI/P2M/503107293993/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_59"
+                },
+                {
+                    "amount": -33.0,
+                    "balance": 6350.84,
+                    "category": "utility_others",
+                    "date": "2025-01-30",
+                    "narration": "UPI/P2M/503107616435/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_60"
+                },
+                {
+                    "amount": -2600.0,
+                    "balance": 3750.84,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "UPI/P2A/503167733838/ANAS                 /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_61"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 3731.84,
+                    "category": "utility_others",
+                    "date": "2025-01-30",
+                    "narration": "UPI/P2M/503108051672/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_62"
+                },
+                {
+                    "amount": 2000.0,
+                    "balance": 5731.84,
+                    "category": "transfer",
+                    "date": "2025-01-31",
+                    "narration": "UPI/P2A/503238448654/MOHD SUHA/AXIS BANK/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_63"
+                },
+                {
+                    "amount": -29.0,
+                    "balance": 5702.84,
+                    "category": "utility_others",
+                    "date": "2025-01-31",
+                    "narration": "UPI/P2M/503258718237/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_64"
+                },
+                {
+                    "amount": -22.0,
+                    "balance": 5680.84,
+                    "category": "utility_others",
+                    "date": "2025-01-31",
+                    "narration": "UPI/P2M/503219377152/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_65"
+                },
+                {
+                    "amount": -300.8,
+                    "balance": 5380.04,
+                    "category": "utility_others",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2M/503349670988/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_66"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 4380.04,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2A/503349925088/SONIYA               /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_67"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 3380.04,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2A/503349925816/MOHAMMAD SHARIQ      /NA/IDBI BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_68"
+                },
+                {
+                    "amount": -55.0,
+                    "balance": 3325.04,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2M/503339987528/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_69"
+                },
+                {
+                    "amount": -150.0,
+                    "balance": 3175.04,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2A/503330525987/ROHIT                /Sent u/INDIA POST PAYMENTS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_70"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 3135.04,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/P2M/503300579517/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_71"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 3085.04,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/P2M/503441189188/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_72"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 3055.04,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/P2M/503401319302/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_73"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 3035.04,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/P2M/503441638982/RAHUL PANWAR         /Sent u/AXIS BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_74"
+                },
+                {
+                    "amount": -320.8,
+                    "balance": 2714.24,
+                    "category": "utility_others",
+                    "date": "2025-02-02",
+                    "narration": "UPI/P2M/503461979718/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_75"
+                },
+                {
+                    "amount": -250.8,
+                    "balance": 2463.44,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/P2M/503421992150/Vi                   /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_76"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 2423.44,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503572659869/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_77"
+                },
+                {
+                    "amount": -200.8,
+                    "balance": 2222.64,
+                    "category": "utility_others",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503502787385/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_78"
+                },
+                {
+                    "amount": 200.8,
+                    "balance": 2423.44,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2A/503514571964/Paytm Mob/YES BANK /express/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_79"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 2383.44,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503532797097/SAURABH              /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_80"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 2343.44,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503562819427/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_81"
+                },
+                {
+                    "amount": -200.8,
+                    "balance": 2142.64,
+                    "category": "utility_others",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503572872420/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_82"
+                },
+                {
+                    "amount": 13999.0,
+                    "balance": 16141.64,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2A/320012181937/MOHD SUHA/AXIS BANK/Payment/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_83"
+                },
+                {
+                    "amount": -13999.0,
+                    "balance": 2142.64,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503573160241/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_84"
+                },
+                {
+                    "amount": 12950.0,
+                    "balance": 15092.64,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2A/111633102489/DEEPAK VE/Punjab Na/Payment/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_85"
+                },
+                {
+                    "amount": -22.0,
+                    "balance": 15070.64,
+                    "category": "utility_others",
+                    "date": "2025-02-03",
+                    "narration": "UPI/P2M/503503462507/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_86"
+                },
+                {
+                    "amount": -150.0,
+                    "balance": 14920.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503673844774/DEEPAK YADAV         /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_87"
+                },
+                {
+                    "amount": -900.0,
+                    "balance": 14020.64,
+                    "category": "expenses_fuel",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503673888166/Gyandeep Filling Stat/NA/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_88"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 13020.64,
+                    "category": "expenses_travel",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503633923852/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_travel",
+                    "txnid": "TXN_89"
+                },
+                {
+                    "amount": -498.0,
+                    "balance": 12522.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503614006625/IGL COCO EXPRESSWAY D/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_90"
+                },
+                {
+                    "amount": -350.0,
+                    "balance": 12172.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503614177971/VISHAL MITTAL        /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_91"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 10172.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2A/503624228657/SONIYA               /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_92"
+                },
+                {
+                    "amount": -180.0,
+                    "balance": 9992.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503664683764/SHREE RAM MOBILE GAL /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_93"
+                },
+                {
+                    "amount": -180.0,
+                    "balance": 9812.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503604849321/GANPATI TOURIST DHABA/NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_94"
+                },
+                {
+                    "amount": -245.0,
+                    "balance": 9567.64,
+                    "category": "transfer",
+                    "date": "2025-02-04",
+                    "narration": "UPI/P2M/503634849454/GANPATI TOURIST DHABA/NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_95"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 4567.64,
+                    "category": "cash_withdrawal",
+                    "date": "2025-02-04",
+                    "narration": "ATM-CASH-AXIS/DWRO499901/8378/050225/DEHRADUN",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_96"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 3567.64,
+                    "category": "expenses_fuel",
+                    "date": "2025-02-05",
+                    "narration": "UPI/P2M/503775202984/Yashree Petroleum    /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_97"
+                },
+                {
+                    "amount": -590.0,
+                    "balance": 2977.64,
+                    "category": "bank_charges",
+                    "date": "2025-02-05",
+                    "narration": "Dr Card Charges GST ANNUAL 5443XXXXXXXX6700",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_98"
+                },
+                {
+                    "amount": -29.0,
+                    "balance": 2948.64,
+                    "category": "utility_others",
+                    "date": "2025-02-06",
+                    "narration": "UPI/P2M/503826989781/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_99"
+                },
+                {
+                    "amount": 2000.0,
+                    "balance": 4948.64,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "UPI/P2A/503870223934/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_100"
+                },
+                {
+                    "amount": 7500.0,
+                    "balance": 12448.64,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "UPI/P2A/503837032899/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_101"
+                },
+                {
+                    "amount": -350.8,
+                    "balance": 12097.84,
+                    "category": "utility_others",
+                    "date": "2025-02-07",
+                    "narration": "UPI/P2M/503947907398/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_102"
+                },
+                {
+                    "amount": -255.0,
+                    "balance": 11842.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504079249906/LALIT GARG           /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_103"
+                },
+                {
+                    "amount": -140.0,
+                    "balance": 11702.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504079294751/SAKIB                /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_104"
+                },
+                {
+                    "amount": -353.0,
+                    "balance": 11349.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504019334947/CARS24 Services Priva/Payvia/AXIS BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_105"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 11309.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504079411250/SARIKA               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_106"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 1309.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2A/504059463157/ANITA                /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_107"
+                },
+                {
+                    "amount": -467.0,
+                    "balance": 842.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504059585989/M/S.ASPIRE PRIVATE LI/Sent u/ICICI Bank",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_108"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 742.84,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504019750252/AAJAD                /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_109"
+                },
+                {
+                    "amount": -22.0,
+                    "balance": 720.84,
+                    "category": "utility_others",
+                    "date": "2025-02-08",
+                    "narration": "UPI/P2M/504060048567/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_110"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 220.84,
+                    "category": "expenses_travel",
+                    "date": "2025-02-09",
+                    "narration": "UPI/P2M/504160577613/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_travel",
+                    "txnid": "TXN_111"
+                },
+                {
+                    "amount": -22.0,
+                    "balance": 198.84,
+                    "category": "transfer",
+                    "date": "2025-02-09",
+                    "narration": "UPI/P2M/504161436507/Vi                   /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_112"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 138.84,
+                    "category": "transfer",
+                    "date": "2025-02-10",
+                    "narration": "UPI/P2M/504252766475/LAXMI THAPA          /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_113"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 38.84,
+                    "category": "transfer",
+                    "date": "2025-02-11",
+                    "narration": "UPI/P2M/504343504756/RAKESH KUMAR         /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_114"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 18.84,
+                    "category": "transfer",
+                    "date": "2025-02-13",
+                    "narration": "UPI/P2M/504516110940/GEETA                /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_115"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 20018.84,
+                    "category": "transfer",
+                    "date": "2025-02-17",
+                    "narration": "UPI/P2A/504972014441/MOHAMMAD /IDBI BANK/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_116"
+                },
+                {
+                    "amount": 5000.0,
+                    "balance": 25018.84,
+                    "category": "transfer",
+                    "date": "2025-02-17",
+                    "narration": "UPI/P2A/504972071542/MOHAMMAD /IDBI BANK/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_117"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 20018.84,
+                    "category": "cash_withdrawal",
+                    "date": "2025-02-18",
+                    "narration": "ATM-CASH/RAGHUNATHPUR/MEERUT/190225",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_118"
+                },
+                {
+                    "amount": 5000.0,
+                    "balance": 25018.84,
+                    "category": "transfer",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2A/505174925102/MOHAMMAD /IDBI BANK/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_119"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 15018.84,
+                    "category": "transfer",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2A/505165058428/JATIN SIROHI         /NA/HDFC BANK LTD",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_120"
+                },
+                {
+                    "amount": -33.0,
+                    "balance": 14985.84,
+                    "category": "utility_others",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2M/505145197589/Airtel               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_121"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 14935.84,
+                    "category": "transfer",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2A/505155376618/GAGAN DAIRY          /NA/Punjab and Sind Bank",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_122"
+                },
+                {
+                    "amount": 50.0,
+                    "balance": 14985.84,
+                    "category": "transfer",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2A/505155376618/924010005807952/200225/Punjab and Sind Bank",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_123"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 14935.84,
+                    "category": "transfer",
+                    "date": "2025-02-19",
+                    "narration": "UPI/P2A/505115363003/GAGAN DAIRY          /NA/Punjab and Sind Bank",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_124"
+                },
+                {
+                    "amount": -4000.0,
+                    "balance": 10935.84,
+                    "category": "transfer",
+                    "date": "2025-02-20",
+                    "narration": "UPI/P2A/505276057258/SURAJ                /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_125"
+                },
+                {
+                    "amount": -354.0,
+                    "balance": 10581.84,
+                    "category": "transfer",
+                    "date": "2025-02-20",
+                    "narration": "UPI/P2M/505256588461/RAJ SHREE FUELS HPCL /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_126"
+                },
+                {
+                    "amount": -400.0,
+                    "balance": 10181.84,
+                    "category": "expenses_travel",
+                    "date": "2025-02-20",
+                    "narration": "UPI/P2M/505256598538/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_travel",
+                    "txnid": "TXN_127"
+                },
+                {
+                    "amount": -1400.0,
+                    "balance": 8781.84,
+                    "category": "transfer",
+                    "date": "2025-02-21",
+                    "narration": "UPI/P2M/505317860531/Malik apparel        /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_128"
+                },
+                {
+                    "amount": 3000.0,
+                    "balance": 11781.84,
+                    "category": "transfer",
+                    "date": "2025-02-21",
+                    "narration": "UPI/P2A/505373336066/ANKUR JAI/CANARA BA/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_129"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 11761.84,
+                    "category": "transfer",
+                    "date": "2025-02-22",
+                    "narration": "UPI/P2M/505478827408/GAURAV KUMAR         /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_130"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 11742.84,
+                    "category": "utility_others",
+                    "date": "2025-02-22",
+                    "narration": "UPI/P2M/505429111125/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_131"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 11692.84,
+                    "category": "transfer",
+                    "date": "2025-02-22",
+                    "narration": "UPI/P2A/505429242506/ROHIT                /Sent u/INDIA POST PAYMENTS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_132"
+                },
+                {
+                    "amount": -70.0,
+                    "balance": 11622.84,
+                    "category": "transfer",
+                    "date": "2025-02-22",
+                    "narration": "UPI/P2M/505449391741/HOME SHOPPING MART   /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_133"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 10622.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2A/505549844030/SONIYA               /NA/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_134"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 10572.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505519890055/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_135"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 10532.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505570002426/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_136"
+                },
+                {
+                    "amount": -138.0,
+                    "balance": 10394.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505510129977/HOME SHOPPING MART   /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_137"
+                },
+                {
+                    "amount": 5000.0,
+                    "balance": 15394.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2A/100522594976/HARSHIT M/HDFC BANK/UPI/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_138"
+                },
+                {
+                    "amount": -1020.0,
+                    "balance": 14374.84,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505560450941/Vikas Tayar House    /Sent u/AXIS BANK",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_139"
+                },
+                {
+                    "amount": -285.0,
+                    "balance": 14089.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505500620391/RAJ SHREE FUELS HPCL /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_140"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 13889.84,
+                    "category": "transfer",
+                    "date": "2025-02-23",
+                    "narration": "UPI/P2M/505550964247/ARORA CONFECTIONERS A/Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_141"
+                },
+                {
+                    "amount": -651.0,
+                    "balance": 13238.84,
+                    "category": "transfer",
+                    "date": "2025-02-24",
+                    "narration": "UPI/P2M/505611117188/Shree Siddhi Vinayak /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_142"
+                },
+                {
+                    "amount": -260.0,
+                    "balance": 12978.84,
+                    "category": "transfer",
+                    "date": "2025-02-24",
+                    "narration": "UPI/P2M/505641150353/ZISHAN               /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_143"
+                },
+                {
+                    "amount": -4161.0,
+                    "balance": 8817.84,
+                    "category": "transfer",
+                    "date": "2025-02-24",
+                    "narration": "UPI/P2M/505621230305/Magma HDI General Ins/UPIInt/INDUSIND BANK LIMITE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_144"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 8798.84,
+                    "category": "utility_others",
+                    "date": "2025-02-24",
+                    "narration": "UPI/P2M/505672121534/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_145"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 8758.84,
+                    "category": "transfer",
+                    "date": "2025-02-25",
+                    "narration": "UPI/P2M/505732718918/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_146"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 8718.84,
+                    "category": "transfer",
+                    "date": "2025-02-25",
+                    "narration": "UPI/P2A/505752824692/RAKESH KUMAR  JAIN   /Sent u/State Bank Of India",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_147"
+                },
+                {
+                    "amount": -80.0,
+                    "balance": 8638.84,
+                    "category": "transfer",
+                    "date": "2025-02-25",
+                    "narration": "UPI/P2M/505762824967/SUNIL                /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_148"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 8619.84,
+                    "category": "utility_others",
+                    "date": "2025-02-25",
+                    "narration": "UPI/P2M/505703398008/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_149"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 8600.84,
+                    "category": "utility_others",
+                    "date": "2025-02-25",
+                    "narration": "UPI/P2M/505743673077/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_150"
+                },
+                {
+                    "amount": -150.0,
+                    "balance": 8450.84,
+                    "category": "transfer",
+                    "date": "2025-02-26",
+                    "narration": "UPI/P2M/505863897437/DEEPAK YADAV         /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_151"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 6450.84,
+                    "category": "cash_withdrawal",
+                    "date": "2025-02-26",
+                    "narration": "ATM-CASH/MODINAGAR/MODINAGAR/270225",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_152"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 1450.84,
+                    "category": "cash_withdrawal",
+                    "date": "2025-02-27",
+                    "narration": "ATM-CASH/RAGHUNATHPUR/MEERUT/280225",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_153"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 1250.84,
+                    "category": "transfer",
+                    "date": "2025-02-27",
+                    "narration": "UPI/P2M/505906208455/HOME SHOPPING MART   /Sent u/CANARA BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_154"
+                },
+                {
+                    "amount": -350.8,
+                    "balance": 900.04,
+                    "category": "utility_others",
+                    "date": "2025-02-27",
+                    "narration": "UPI/P2M/505976456947/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_155"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 400.04,
+                    "category": "expenses_fuel",
+                    "date": "2025-02-28",
+                    "narration": "UPI/P2M/506076676608/JAINSONS CNG STATION /NA/YES BANK LIMITED YBS",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_156"
+                },
+                {
+                    "amount": -80.0,
+                    "balance": 320.04,
+                    "category": "transfer",
+                    "date": "2025-02-28",
+                    "narration": "UPI/P2M/506056814877/LAXMI THAPA          /NA/YES BANK LIMITED YBS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_157"
+                },
+                {
+                    "amount": -150.0,
+                    "balance": 170.04,
+                    "category": "transfer",
+                    "date": "2025-02-28",
+                    "narration": "UPI/P2M/506056819796/Love Departmental Sto/Sent u/AXIS BANK",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_158"
+                },
+                {
+                    "amount": 60.0,
+                    "balance": 230.04,
+                    "category": "transfer",
+                    "date": "2025-02-28",
+                    "narration": "UPI/P2A/506046929142/Mr MANVEE/CENTRAL B/NA/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_159"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 211.04,
+                    "category": "utility_others",
+                    "date": "2025-02-28",
+                    "narration": "UPI/P2M/506027556685/Jio                  /Sent u/YES BANK LIMITED YBS",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_160"
+                }
+            ]
+        }
+    ],
+    "bouncedOrPenalXns": [
+        {
+            "amount": -1.0,
+            "balance": 0.0,
+            "category": "BANK_CHARGES",
+            "date": "2024-04-20",
+            "narration": "Debit card Chrgs Incl GST",
+            "txnid": "TXN_0"
+        },
+        {
+            "amount": -354.0,
+            "balance": 9746.0,
+            "category": "BANK_CHARGES",
+            "date": "2024-11-26",
+            "narration": "Avgbal chgs Sep24 Incl GST",
+            "txnid": "TXN_3"
+        },
+        {
+            "amount": -354.0,
+            "balance": 45392.0,
+            "category": "BANK_CHARGES",
+            "date": "2024-12-10",
+            "narration": "Avgbal chgs Oct24 Incl GST",
+            "txnid": "TXN_8"
+        },
+        {
+            "amount": -499.0,
+            "balance": 30393.0,
+            "category": "BANK_CHARGES",
+            "date": "2024-12-21",
+            "narration": "Debit card Chrgs Incl GST",
+            "txnid": "TXN_11"
+        },
+        {
+            "amount": -73.16,
+            "balance": 22118.84,
+            "category": "BANK_CHARGES",
+            "date": "2025-01-24",
+            "narration": "ATM W/D Chrgs Incl GST",
+            "txnid": "TXN_36"
+        },
+        {
+            "amount": -590.0,
+            "balance": 2977.64,
+            "category": "BANK_CHARGES",
+            "date": "2025-02-05",
+            "narration": "Dr Card Charges GST ANNUAL 5443XXXXXXXX6700",
+            "txnid": "TXN_98"
+        }
+    ],
+    "customerInfo": {
+        "accountRef": "bceb6d29-691d-4dd7-8056-d6ae0fa93c1c",
+        "address": "MODINAGAR,,ASIFPUR UJAIRA, ,GHAZIABAD,UTTAR PRADESH,INDIA,201204",
+        "bank": "Axis Bank",
+        "ckycCompliance": "false",
+        "consent_id": "1e95ca02-e578-48e7-9b5a-2bab04affcb5",
+        "custId": "7906180152@finvu",
+        "dob": "1996-03-10",
+        "email": "VIKASHK42063@GMAIL.COM",
+        "fip_id": "AXIS001",
+        "landline": "NA",
+        "marital_status": "NA",
+        "mobile": "7906180152",
+        "name": "VIKAS",
+        "pan": "AWJPV8136H",
+        "session_id": "f5ebcb18-554d-44d1-a1c6-717830a78c91"
+    },
+    "eMIECSLOANXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "eODBalances": [
+        {
+            "balance": 0.0,
+            "date": "2024-04-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-04-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-31"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-07-31"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-31"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-10-31"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-01"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-11-24"
+        },
+        {
+            "balance": 10000.0,
+            "date": "2024-11-25"
+        },
+        {
+            "balance": 9746.0,
+            "date": "2024-11-26"
+        },
+        {
+            "balance": 9746.0,
+            "date": "2024-11-27"
+        },
+        {
+            "balance": 29746.0,
+            "date": "2024-11-28"
+        },
+        {
+            "balance": 29746.0,
+            "date": "2024-11-29"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-11-30"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-12-01"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-12-02"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-12-03"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-12-04"
+        },
+        {
+            "balance": 49746.0,
+            "date": "2024-12-05"
+        },
+        {
+            "balance": 48746.0,
+            "date": "2024-12-06"
+        },
+        {
+            "balance": 48746.0,
+            "date": "2024-12-07"
+        },
+        {
+            "balance": 48746.0,
+            "date": "2024-12-08"
+        },
+        {
+            "balance": 48746.0,
+            "date": "2024-12-09"
+        },
+        {
+            "balance": 45392.0,
+            "date": "2024-12-10"
+        },
+        {
+            "balance": 45392.0,
+            "date": "2024-12-11"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-12"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-13"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-14"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-15"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-16"
+        },
+        {
+            "balance": 40392.0,
+            "date": "2024-12-17"
+        },
+        {
+            "balance": 30892.0,
+            "date": "2024-12-18"
+        },
+        {
+            "balance": 30892.0,
+            "date": "2024-12-19"
+        },
+        {
+            "balance": 30892.0,
+            "date": "2024-12-20"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-21"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-22"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-23"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-24"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-25"
+        },
+        {
+            "balance": 30393.0,
+            "date": "2024-12-26"
+        },
+        {
+            "balance": 110393.0,
+            "date": "2024-12-27"
+        },
+        {
+            "balance": 110393.0,
+            "date": "2024-12-28"
+        },
+        {
+            "balance": 110393.0,
+            "date": "2024-12-29"
+        },
+        {
+            "balance": 60393.0,
+            "date": "2024-12-30"
+        },
+        {
+            "balance": 60523.0,
+            "date": "2024-12-31"
+        },
+        {
+            "balance": 55523.0,
+            "date": "2025-01-01"
+        },
+        {
+            "balance": 55523.0,
+            "date": "2025-01-02"
+        },
+        {
+            "balance": 50523.0,
+            "date": "2025-01-03"
+        },
+        {
+            "balance": 50523.0,
+            "date": "2025-01-04"
+        },
+        {
+            "balance": 35523.0,
+            "date": "2025-01-05"
+        },
+        {
+            "balance": 35523.0,
+            "date": "2025-01-06"
+        },
+        {
+            "balance": 35523.0,
+            "date": "2025-01-07"
+        },
+        {
+            "balance": 30523.0,
+            "date": "2025-01-08"
+        },
+        {
+            "balance": 30523.0,
+            "date": "2025-01-09"
+        },
+        {
+            "balance": 30523.0,
+            "date": "2025-01-10"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-11"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-12"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-13"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-14"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-15"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-16"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-17"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-18"
+        },
+        {
+            "balance": 20523.0,
+            "date": "2025-01-19"
+        },
+        {
+            "balance": 35523.0,
+            "date": "2025-01-20"
+        },
+        {
+            "balance": 30494.0,
+            "date": "2025-01-21"
+        },
+        {
+            "balance": 28752.0,
+            "date": "2025-01-22"
+        },
+        {
+            "balance": 22302.0,
+            "date": "2025-01-23"
+        },
+        {
+            "balance": 21589.84,
+            "date": "2025-01-24"
+        },
+        {
+            "balance": 20414.84,
+            "date": "2025-01-25"
+        },
+        {
+            "balance": 9244.84,
+            "date": "2025-01-26"
+        },
+        {
+            "balance": 8354.84,
+            "date": "2025-01-27"
+        },
+        {
+            "balance": 7102.84,
+            "date": "2025-01-28"
+        },
+        {
+            "balance": 6953.84,
+            "date": "2025-01-29"
+        },
+        {
+            "balance": 3731.84,
+            "date": "2025-01-30"
+        },
+        {
+            "balance": 5680.84,
+            "date": "2025-01-31"
+        },
+        {
+            "balance": 3135.04,
+            "date": "2025-02-01"
+        },
+        {
+            "balance": 2463.44,
+            "date": "2025-02-02"
+        },
+        {
+            "balance": 15070.64,
+            "date": "2025-02-03"
+        },
+        {
+            "balance": 4567.64,
+            "date": "2025-02-04"
+        },
+        {
+            "balance": 2977.64,
+            "date": "2025-02-05"
+        },
+        {
+            "balance": 12448.64,
+            "date": "2025-02-06"
+        },
+        {
+            "balance": 12097.84,
+            "date": "2025-02-07"
+        },
+        {
+            "balance": 720.84,
+            "date": "2025-02-08"
+        },
+        {
+            "balance": 198.84,
+            "date": "2025-02-09"
+        },
+        {
+            "balance": 138.84,
+            "date": "2025-02-10"
+        },
+        {
+            "balance": 38.84,
+            "date": "2025-02-11"
+        },
+        {
+            "balance": 38.84,
+            "date": "2025-02-12"
+        },
+        {
+            "balance": 18.84,
+            "date": "2025-02-13"
+        },
+        {
+            "balance": 18.84,
+            "date": "2025-02-14"
+        },
+        {
+            "balance": 18.84,
+            "date": "2025-02-15"
+        },
+        {
+            "balance": 18.84,
+            "date": "2025-02-16"
+        },
+        {
+            "balance": 25018.84,
+            "date": "2025-02-17"
+        },
+        {
+            "balance": 20018.84,
+            "date": "2025-02-18"
+        },
+        {
+            "balance": 14935.84,
+            "date": "2025-02-19"
+        },
+        {
+            "balance": 10181.84,
+            "date": "2025-02-20"
+        },
+        {
+            "balance": 11781.84,
+            "date": "2025-02-21"
+        },
+        {
+            "balance": 11622.84,
+            "date": "2025-02-22"
+        },
+        {
+            "balance": 13889.84,
+            "date": "2025-02-23"
+        },
+        {
+            "balance": 8798.84,
+            "date": "2025-02-24"
+        },
+        {
+            "balance": 8600.84,
+            "date": "2025-02-25"
+        },
+        {
+            "balance": 6450.84,
+            "date": "2025-02-26"
+        },
+        {
+            "balance": 900.04,
+            "date": "2025-02-27"
+        },
+        {
+            "balance": 211.04,
+            "date": "2025-02-28"
+        }
+    ],
+    "fCUAnalysis": {
+        "behaviouralTransactionalIndicators": {
+            "bigDebitAfterSalaryXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "discontinuityInCredits": {
+                "status": "false"
+            },
+            "equalCreditDebitXns": {
+                "status": "false"
+            },
+            "highCashDepositXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularInterestDebitXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularSalaryCreditXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "irregularTransferToPartiesXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "negativeEODBalanceXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "partiesInCreditsAndDebits": {
+                "partyName": "NA"
+            },
+            "salaryAmountNotVaryingXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "taxPaymentXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            }
+        },
+        "possibleFraudIndicators": {
+            "amountBalanceMismatchXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "lowAccountVintage": {
+                "status": "false"
+            },
+            "salaryOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "suspiciousATMXns": [],
+            "suspiciousRTGSXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "transactionOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ]
+        }
+    },
+    "highValueCreditXns": [
+        {
+            "amount": 80000.0,
+            "balance": 110393.0,
+            "category": "NA",
+            "date": "2024-12-27",
+            "narration": "UPI/P2A/436388517946/Mr MANVEE/CENTRAL B/Sent usi/",
+            "txnid": ""
+        }
+    ],
+    "highValueDebitXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "inwEMIBounceXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "loanDisbursalXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "monthlyDetails": [
+        {
+            "balAvg": 0.63,
+            "balLast": 0.0,
+            "balMax": 1.0,
+            "balMin": 0.0,
+            "balOpen": 1.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 0,
+            "creditsAPS": 0,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 1,
+            "debitsAPS": 1,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Apr-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-04-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 0.0,
+            "totalCreditAPS": 0.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 1.0,
+            "totalDebitAPS": 1.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 1.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 4624.33,
+            "balLast": 49746.0,
+            "balMax": 49746.0,
+            "balMin": 0.0,
+            "balOpen": 0.0,
+            "cashDeposits": 1,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 1,
+            "debitsAPS": 1,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Nov-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-11-01",
+            "totalCashDeposit": 10000.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 50100.0,
+            "totalCreditAPS": 50100.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 354.0,
+            "totalDebitAPS": 354.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 354.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 48515.45,
+            "balLast": 60523.0,
+            "balMax": 110393.0,
+            "balMin": 30393.0,
+            "balOpen": 49746.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 10,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 11,
+            "debitsAPS": 12,
+            "debitsRev": 1,
+            "debitsSC": 2,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Dec-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-12-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 78500.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 90130.0,
+            "totalCreditAPS": 90130.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 69353.0,
+            "totalDebitAPS": 79353.0,
+            "totalDebitRev": 10000.0,
+            "totalDebitSC": 853.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 25647.8,
+            "balLast": 5680.84,
+            "balMax": 55523.0,
+            "balMin": 3731.84,
+            "balOpen": 60523.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 7,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 43,
+            "debitsAPS": 43,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jan-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2025-01-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 45000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 17000.0,
+            "totalCreditAPS": 17000.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 71842.16,
+            "totalDebitAPS": 71842.16,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 73.16,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 6656.57,
+            "balLast": 211.04,
+            "balMax": 25018.84,
+            "balMin": 18.84,
+            "balOpen": 5680.84,
+            "cashDeposits": 0,
+            "cashWithdrawals": 4,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 12,
+            "creditsAPS": 12,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 82,
+            "debitsAPS": 83,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Feb-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2025-02-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 17000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 74759.8,
+            "totalCreditAPS": 74759.8,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 79209.6,
+            "totalDebitAPS": 80229.6,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 590.0,
+            "totalDebitSelf": 1020.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        }
+    ],
+    "regularCredits": [
+        {
+            "amount": 20000.0,
+            "balance": 20018.84,
+            "category": "transfer",
+            "date": "2025-02-17",
+            "group": 1,
+            "narration": "UPI/P2A/504972014441/MOHAMMAD /IDBI BANK/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 25018.84,
+            "category": "transfer",
+            "date": "2025-02-17",
+            "group": 1,
+            "narration": "UPI/P2A/504972071542/MOHAMMAD /IDBI BANK/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 25018.84,
+            "category": "transfer",
+            "date": "2025-02-19",
+            "group": 1,
+            "narration": "UPI/P2A/505174925102/MOHAMMAD /IDBI BANK/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 100.0,
+            "balance": 10100.0,
+            "category": "transfer",
+            "date": "2024-11-26",
+            "group": 2,
+            "narration": "UPI/P2A/433258195275/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 20000.0,
+            "balance": 29746.0,
+            "category": "transfer",
+            "date": "2024-11-28",
+            "group": 2,
+            "narration": "UPI/P2A/433431415132/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 20000.0,
+            "balance": 49746.0,
+            "category": "transfer",
+            "date": "2024-11-30",
+            "group": 2,
+            "narration": "UPI/P2A/433613538883/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 2000.0,
+            "balance": 4948.64,
+            "category": "transfer",
+            "date": "2025-02-06",
+            "group": 2,
+            "narration": "UPI/P2A/503870223934/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 7500.0,
+            "balance": 12448.64,
+            "category": "transfer",
+            "date": "2025-02-06",
+            "group": 2,
+            "narration": "UPI/P2A/503837032899/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        },
+        {
+            "amount": 60.0,
+            "balance": 230.04,
+            "category": "transfer",
+            "date": "2025-02-28",
+            "group": 2,
+            "narration": "UPI/P2A/506046929142/Mr MANVEE/CENTRAL B/NA/",
+            "txnid": ""
+        }
+    ],
+    "regularDebits": [
+        {
+            "amount": 10000.0,
+            "balance": 100393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3150/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 90393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3151/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 80393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3152/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 70393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3153/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 60393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3154/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 60393.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-30",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/3156/311224/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 35523.0,
+            "category": "cash_withdrawal",
+            "date": "2025-01-05",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/4532/060125/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 30523.0,
+            "category": "cash_withdrawal",
+            "date": "2025-01-08",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/4937/090125/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 30523.0,
+            "category": "cash_withdrawal",
+            "date": "2025-01-21",
+            "group": 1,
+            "narration": "ATM-CASH-AXIS/TPAN268803/5715/220125/BAGHPAT",
+            "txnid": ""
+        },
+        {
+            "amount": 1000.0,
+            "balance": 48746.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-06",
+            "group": 2,
+            "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/071224",
+            "txnid": ""
+        },
+        {
+            "amount": 3000.0,
+            "balance": 45746.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-10",
+            "group": 2,
+            "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/111224",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 40392.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-12",
+            "group": 2,
+            "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/131224",
+            "txnid": ""
+        },
+        {
+            "amount": 9500.0,
+            "balance": 30892.0,
+            "category": "cash_withdrawal",
+            "date": "2024-12-18",
+            "group": 2,
+            "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/191224",
+            "txnid": ""
+        },
+        {
+            "amount": 10000.0,
+            "balance": 20523.0,
+            "category": "cash_withdrawal",
+            "date": "2025-01-11",
+            "group": 2,
+            "narration": "ATM-CASH/NR JANTA VAIDIK CL/BARAUT/120125",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 20018.84,
+            "category": "cash_withdrawal",
+            "date": "2025-02-18",
+            "group": 3,
+            "narration": "ATM-CASH/RAGHUNATHPUR/MEERUT/190225",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 1450.84,
+            "category": "cash_withdrawal",
+            "date": "2025-02-27",
+            "group": 3,
+            "narration": "ATM-CASH/RAGHUNATHPUR/MEERUT/280225",
+            "txnid": ""
+        },
+        {
+            "amount": 1.0,
+            "balance": 0.0,
+            "category": "bank_charges",
+            "date": "2024-04-20",
+            "group": 4,
+            "narration": "Debit card Chrgs Incl GST",
+            "txnid": ""
+        },
+        {
+            "amount": 499.0,
+            "balance": 30393.0,
+            "category": "bank_charges",
+            "date": "2024-12-21",
+            "group": 4,
+            "narration": "Debit card Chrgs Incl GST",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 14935.84,
+            "category": "transfer",
+            "date": "2025-02-19",
+            "group": 5,
+            "narration": "UPI/P2A/505155376618/GAGAN DAIRY          /NA/Punjab and Sind Bank",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 14935.84,
+            "category": "transfer",
+            "date": "2025-02-19",
+            "group": 5,
+            "narration": "UPI/P2A/505115363003/GAGAN DAIRY          /NA/Punjab and Sind Bank",
+            "txnid": ""
+        },
+        {
+            "amount": 150.0,
+            "balance": 3175.04,
+            "category": "transfer",
+            "date": "2025-02-01",
+            "group": 6,
+            "narration": "UPI/P2A/503330525987/ROHIT                /Sent u/INDIA POST PAYMENTS",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 11692.84,
+            "category": "transfer",
+            "date": "2025-02-22",
+            "group": 6,
+            "narration": "UPI/P2A/505429242506/ROHIT                /Sent u/INDIA POST PAYMENTS",
+            "txnid": ""
+        },
+        {
+            "amount": 1000.0,
+            "balance": 20589.84,
+            "category": "transfer",
+            "date": "2025-01-25",
+            "group": 7,
+            "narration": "UPI/P2A/502650005950/SONIYA               /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 8000.0,
+            "balance": 11914.84,
+            "category": "transfer",
+            "date": "2025-01-26",
+            "group": 7,
+            "narration": "UPI/P2A/502711795990/SONIYA               /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 1000.0,
+            "balance": 4380.04,
+            "category": "transfer",
+            "date": "2025-02-01",
+            "group": 7,
+            "narration": "UPI/P2A/503349925088/SONIYA               /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 2000.0,
+            "balance": 10172.64,
+            "category": "transfer",
+            "date": "2025-02-04",
+            "group": 7,
+            "narration": "UPI/P2A/503624228657/SONIYA               /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 1000.0,
+            "balance": 10622.84,
+            "category": "transfer",
+            "date": "2025-02-23",
+            "group": 7,
+            "narration": "UPI/P2A/505549844030/SONIYA               /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 5000.0,
+            "balance": 23752.0,
+            "category": "transfer",
+            "date": "2025-01-23",
+            "group": 8,
+            "narration": "UPI/P2A/502418086677/SURAJ                /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 4000.0,
+            "balance": 10935.84,
+            "category": "transfer",
+            "date": "2025-02-20",
+            "group": 8,
+            "narration": "UPI/P2A/505276057258/SURAJ                /NA/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 26.0,
+            "balance": 20433.84,
+            "category": "utility_others",
+            "date": "2025-01-25",
+            "group": 9,
+            "narration": "UPI/P2M/502641281590/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 33.0,
+            "balance": 6350.84,
+            "category": "utility_others",
+            "date": "2025-01-30",
+            "group": 9,
+            "narration": "UPI/P2M/503107616435/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 22.0,
+            "balance": 5680.84,
+            "category": "utility_others",
+            "date": "2025-01-31",
+            "group": 9,
+            "narration": "UPI/P2M/503219377152/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 300.8,
+            "balance": 5380.04,
+            "category": "utility_others",
+            "date": "2025-02-01",
+            "group": 9,
+            "narration": "UPI/P2M/503349670988/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 200.8,
+            "balance": 2222.64,
+            "category": "utility_others",
+            "date": "2025-02-03",
+            "group": 9,
+            "narration": "UPI/P2M/503502787385/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 200.8,
+            "balance": 2142.64,
+            "category": "utility_others",
+            "date": "2025-02-03",
+            "group": 9,
+            "narration": "UPI/P2M/503572872420/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 22.0,
+            "balance": 15070.64,
+            "category": "utility_others",
+            "date": "2025-02-03",
+            "group": 9,
+            "narration": "UPI/P2M/503503462507/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 350.8,
+            "balance": 12097.84,
+            "category": "utility_others",
+            "date": "2025-02-07",
+            "group": 9,
+            "narration": "UPI/P2M/503947907398/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 22.0,
+            "balance": 720.84,
+            "category": "utility_others",
+            "date": "2025-02-08",
+            "group": 9,
+            "narration": "UPI/P2M/504060048567/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 33.0,
+            "balance": 14985.84,
+            "category": "utility_others",
+            "date": "2025-02-19",
+            "group": 9,
+            "narration": "UPI/P2M/505145197589/Airtel               /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 20549.84,
+            "category": "transfer",
+            "date": "2025-01-25",
+            "group": 10,
+            "narration": "UPI/P2M/502640111548/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 60.0,
+            "balance": 8294.84,
+            "category": "transfer",
+            "date": "2025-01-28",
+            "group": 10,
+            "narration": "UPI/P2M/502914624342/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 55.0,
+            "balance": 3325.04,
+            "category": "transfer",
+            "date": "2025-02-01",
+            "group": 10,
+            "narration": "UPI/P2M/503339987528/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 2423.44,
+            "category": "transfer",
+            "date": "2025-02-03",
+            "group": 10,
+            "narration": "UPI/P2M/503572659869/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 10532.84,
+            "category": "transfer",
+            "date": "2025-02-23",
+            "group": 10,
+            "narration": "UPI/P2M/505570002426/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 8758.84,
+            "category": "transfer",
+            "date": "2025-02-25",
+            "group": 10,
+            "narration": "UPI/P2M/505732718918/ASHISH JAIN SO BRIJE /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 150.0,
+            "balance": 14920.64,
+            "category": "transfer",
+            "date": "2025-02-04",
+            "group": 11,
+            "narration": "UPI/P2M/503673844774/DEEPAK YADAV         /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 150.0,
+            "balance": 8450.84,
+            "category": "transfer",
+            "date": "2025-02-26",
+            "group": 11,
+            "narration": "UPI/P2M/505863897437/DEEPAK YADAV         /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 180.0,
+            "balance": 9812.64,
+            "category": "transfer",
+            "date": "2025-02-04",
+            "group": 12,
+            "narration": "UPI/P2M/503604849321/GANPATI TOURIST DHABA/NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 245.0,
+            "balance": 9567.64,
+            "category": "transfer",
+            "date": "2025-02-04",
+            "group": 12,
+            "narration": "UPI/P2M/503634849454/GANPATI TOURIST DHABA/NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 1060.0,
+            "balance": 7234.84,
+            "category": "transfer",
+            "date": "2025-01-28",
+            "group": 13,
+            "narration": "UPI/P2M/502914810464/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 20.0,
+            "balance": 6383.84,
+            "category": "transfer",
+            "date": "2025-01-30",
+            "group": 13,
+            "narration": "UPI/P2M/503107293993/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 3135.04,
+            "category": "transfer",
+            "date": "2025-02-01",
+            "group": 13,
+            "narration": "UPI/P2M/503300579517/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 30.0,
+            "balance": 3055.04,
+            "category": "transfer",
+            "date": "2025-02-02",
+            "group": 13,
+            "narration": "UPI/P2M/503401319302/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 2343.44,
+            "category": "transfer",
+            "date": "2025-02-03",
+            "group": 13,
+            "narration": "UPI/P2M/503562819427/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 20.0,
+            "balance": 11761.84,
+            "category": "transfer",
+            "date": "2025-02-22",
+            "group": 13,
+            "narration": "UPI/P2M/505478827408/GAURAV KUMAR         /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 60.0,
+            "balance": 22192.0,
+            "category": "transfer",
+            "date": "2025-01-24",
+            "group": 14,
+            "narration": "UPI/P2M/502538908571/HOME SHOPPING MART   /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 40.0,
+            "balance": 20509.84,
+            "category": "transfer",
+            "date": "2025-01-25",
+            "group": 14,
+            "narration": "UPI/P2M/502650326843/HOME SHOPPING MART   /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 70.0,
+            "balance": 11622.84,
+            "category": "transfer",
+            "date": "2025-02-22",
+            "group": 14,
+            "narration": "UPI/P2M/505449391741/HOME SHOPPING MART   /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 138.0,
+            "balance": 10394.84,
+            "category": "transfer",
+            "date": "2025-02-23",
+            "group": 14,
+            "narration": "UPI/P2M/505510129977/HOME SHOPPING MART   /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 200.0,
+            "balance": 1250.84,
+            "category": "transfer",
+            "date": "2025-02-27",
+            "group": 14,
+            "narration": "UPI/P2M/505906208455/HOME SHOPPING MART   /Sent u/CANARA BANK",
+            "txnid": ""
+        },
+        {
+            "amount": 29.0,
+            "balance": 30494.0,
+            "category": "utility_others",
+            "date": "2025-01-21",
+            "group": 15,
+            "narration": "UPI/P2M/502216022589/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 29.0,
+            "balance": 21589.84,
+            "category": "utility_others",
+            "date": "2025-01-24",
+            "group": 15,
+            "narration": "UPI/P2M/502559698082/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 20414.84,
+            "category": "utility_others",
+            "date": "2025-01-25",
+            "group": 15,
+            "narration": "UPI/P2M/502641297971/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 8354.84,
+            "category": "utility_others",
+            "date": "2025-01-27",
+            "group": 15,
+            "narration": "UPI/P2M/502824075963/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 29.0,
+            "balance": 6972.84,
+            "category": "utility_others",
+            "date": "2025-01-29",
+            "group": 15,
+            "narration": "UPI/P2M/503076207738/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 6953.84,
+            "category": "utility_others",
+            "date": "2025-01-29",
+            "group": 15,
+            "narration": "UPI/P2M/503056728028/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 3731.84,
+            "category": "utility_others",
+            "date": "2025-01-30",
+            "group": 15,
+            "narration": "UPI/P2M/503108051672/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 29.0,
+            "balance": 5702.84,
+            "category": "utility_others",
+            "date": "2025-01-31",
+            "group": 15,
+            "narration": "UPI/P2M/503258718237/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 320.8,
+            "balance": 2714.24,
+            "category": "utility_others",
+            "date": "2025-02-02",
+            "group": 15,
+            "narration": "UPI/P2M/503461979718/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 29.0,
+            "balance": 2948.64,
+            "category": "utility_others",
+            "date": "2025-02-06",
+            "group": 15,
+            "narration": "UPI/P2M/503826989781/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 11742.84,
+            "category": "utility_others",
+            "date": "2025-02-22",
+            "group": 15,
+            "narration": "UPI/P2M/505429111125/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 8798.84,
+            "category": "utility_others",
+            "date": "2025-02-24",
+            "group": 15,
+            "narration": "UPI/P2M/505672121534/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 8619.84,
+            "category": "utility_others",
+            "date": "2025-02-25",
+            "group": 15,
+            "narration": "UPI/P2M/505703398008/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 8600.84,
+            "category": "utility_others",
+            "date": "2025-02-25",
+            "group": 15,
+            "narration": "UPI/P2M/505743673077/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 350.8,
+            "balance": 900.04,
+            "category": "utility_others",
+            "date": "2025-02-27",
+            "group": 15,
+            "narration": "UPI/P2M/505976456947/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 19.0,
+            "balance": 211.04,
+            "category": "utility_others",
+            "date": "2025-02-28",
+            "group": 15,
+            "narration": "UPI/P2M/506027556685/Jio                  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 742.0,
+            "balance": 28752.0,
+            "category": "transfer",
+            "date": "2025-01-22",
+            "group": 16,
+            "narration": "UPI/P2M/502356629560/Krishna Gail  Gas Sta/Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 670.0,
+            "balance": 9244.84,
+            "category": "transfer",
+            "date": "2025-01-26",
+            "group": 16,
+            "narration": "UPI/P2M/502722052766/Krishna Gail  Gas Sta/Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 60.0,
+            "balance": 138.84,
+            "category": "transfer",
+            "date": "2025-02-10",
+            "group": 17,
+            "narration": "UPI/P2M/504252766475/LAXMI THAPA          /NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 80.0,
+            "balance": 320.04,
+            "category": "transfer",
+            "date": "2025-02-28",
+            "group": 17,
+            "narration": "UPI/P2M/506056814877/LAXMI THAPA          /NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 1450.0,
+            "balance": 22302.0,
+            "category": "transfer",
+            "date": "2025-01-23",
+            "group": 18,
+            "narration": "UPI/P2M/502418501731/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 500.0,
+            "balance": 21618.84,
+            "category": "transfer",
+            "date": "2025-01-24",
+            "group": 18,
+            "narration": "UPI/P2M/502569410136/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 13999.0,
+            "balance": 2142.64,
+            "category": "transfer",
+            "date": "2025-02-03",
+            "group": 18,
+            "narration": "UPI/P2M/503573160241/Mohd Suhail          /NA/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 354.0,
+            "balance": 10581.84,
+            "category": "transfer",
+            "date": "2025-02-20",
+            "group": 19,
+            "narration": "UPI/P2M/505256588461/RAJ SHREE FUELS HPCL /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 285.0,
+            "balance": 14089.84,
+            "category": "transfer",
+            "date": "2025-02-23",
+            "group": 19,
+            "narration": "UPI/P2M/505500620391/RAJ SHREE FUELS HPCL /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 22252.0,
+            "category": "transfer",
+            "date": "2025-01-24",
+            "group": 20,
+            "narration": "UPI/P2M/502568697167/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 3085.04,
+            "category": "transfer",
+            "date": "2025-02-02",
+            "group": 20,
+            "narration": "UPI/P2M/503441189188/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 50.0,
+            "balance": 10572.84,
+            "category": "transfer",
+            "date": "2025-02-23",
+            "group": 20,
+            "narration": "UPI/P2M/505519890055/RENUKA DO HARVEER SIN/Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 500.0,
+            "balance": 19914.84,
+            "category": "expenses_travel",
+            "date": "2025-01-26",
+            "group": 21,
+            "narration": "UPI/P2M/502761485929/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 100.0,
+            "balance": 9144.84,
+            "category": "expenses_travel",
+            "date": "2025-01-27",
+            "group": 21,
+            "narration": "UPI/P2M/502803268737/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 1000.0,
+            "balance": 13020.64,
+            "category": "expenses_travel",
+            "date": "2025-02-04",
+            "group": 21,
+            "narration": "UPI/P2M/503633923852/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 500.0,
+            "balance": 220.84,
+            "category": "expenses_travel",
+            "date": "2025-02-09",
+            "group": 21,
+            "narration": "UPI/P2M/504160577613/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 400.0,
+            "balance": 10181.84,
+            "category": "expenses_travel",
+            "date": "2025-02-20",
+            "group": 21,
+            "narration": "UPI/P2M/505256598538/SBI FASTag Recharge  /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 250.8,
+            "balance": 2463.44,
+            "category": "transfer",
+            "date": "2025-02-02",
+            "group": 22,
+            "narration": "UPI/P2M/503421992150/Vi                   /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        },
+        {
+            "amount": 22.0,
+            "balance": 198.84,
+            "category": "transfer",
+            "date": "2025-02-09",
+            "group": 22,
+            "narration": "UPI/P2M/504161436507/Vi                   /Sent u/YES BANK LIMITED YBS",
+            "txnid": ""
+        }
+    ],
+    "salaryXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "statementdetails": [
+        {
+            "customerInfo": {
+                "address": "MODINAGAR,,ASIFPUR UJAIRA, ,GHAZIABAD,UTTAR PRADESH,INDIA,201204",
+                "bank": "Axis Bank",
+                "email": "VIKASHK42063@GMAIL.COM",
+                "landline": "NA",
+                "mobile": "7906180152",
+                "name": "VIKAS",
+                "pan": "AWJPV8136H"
+            },
+            "statementAccounts": [
+                {
+                    "Pending_amount": "NA",
+                    "accType": "SAVINGS",
+                    "accountNo": "XXXXXXXXXXX7952",
+                    "accountType": "Bank",
+                    "balanceDateTime": "2025-03-15T04:40:27.562+00:00",
+                    "branch": "BARAUT BRT UP",
+                    "currency": "INR",
+                    "currentODLimit": "NA",
+                    "drawingLimit": "0",
+                    "facility": "NA",
+                    "xnsEndDate": "2025-03-15",
+                    "xnsStartDate": "2024-03-01"
+                }
+            ]
+        }
+    ],
+    "summaryInfo": {
+        "accNo": "XXXXXXXXXXX7952",
+        "accType": "SAVINGS",
+        "average": {
+            "balAvg": 17088.96,
+            "balLast": 23232.18,
+            "balMax": 48136.37,
+            "balMin": 6828.74,
+            "balOpen": 23190.17,
+            "cashDeposits": 0.0,
+            "cashWithdrawals": 4.0,
+            "chqDeposits": 0.0,
+            "chqIssues": 0.0,
+            "credits": 4.0,
+            "creditsAPS": 4.0,
+            "creditsRev": 0.0,
+            "creditsSC": 0.0,
+            "creditsSelf": 0.0,
+            "debits": 28.0,
+            "debitsAPS": 28.0,
+            "debitsRev": 0.0,
+            "debitsSC": 1.0,
+            "debitsSelf": 0.2,
+            "emiEcsLoanIssues": 0.0,
+            "invIncomes": 0.0,
+            "inwBounces": 0.0,
+            "inwChqBounceNonTechnical": 0.0,
+            "inwEMIBounces": 0.0,
+            "loanDisbursals": 0.0,
+            "outwBounces": 0.0,
+            "salaries": 0.0,
+            "totalCashDeposit": 2000.0,
+            "totalCashWithdrawal": 28100.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0.0,
+            "totalCredit": 46397.96,
+            "totalCreditAPS": 46397.96,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0.0,
+            "totalCreditSelf": 0.0,
+            "totalDebit": 44151.95,
+            "totalDebitAPS": 46355.95,
+            "totalDebitRev": 2000.0,
+            "totalDebitSC": 374.23,
+            "totalDebitSelf": 204.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0
+        },
+        "fullMonthCount": 12,
+        "instName": "Axis Bank, India",
+        "total": {
+            "balAvg": 85444.78,
+            "balLast": 116160.88,
+            "balMax": 240681.84,
+            "balMin": 34143.68,
+            "balOpen": 115950.84,
+            "cashDeposits": 1,
+            "cashWithdrawals": 21,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "credits": 21,
+            "creditsAPS": 21,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 138,
+            "debitsAPS": 140,
+            "debitsRev": 1,
+            "debitsSC": 6,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "outwBounces": 0,
+            "salaries": 0,
+            "totalCashDeposit": 10000.0,
+            "totalCashWithdrawal": 140500.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 231989.8,
+            "totalCreditAPS": 231989.8,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 220759.76,
+            "totalDebitAPS": 231779.76,
+            "totalDebitRev": 10000.0,
+            "totalDebitSC": 1871.1599999999999,
+            "totalDebitSelf": 1020.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0
+        }
+    },
+    "top5FundsReceived": [
+        {
+            "amount": 80000.0,
+            "category": "Upi Pa Mr Manvee Central B Sent Usi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Cash Axis Rvsl",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 130.0,
+            "category": "Sb Int Pd To",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 30000.0,
+            "category": "Upi Pa Mohammad Idbi Bank Na",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 13999.0,
+            "category": "Upi Pa Mohd Suha Axis Bank Payment",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 12950.0,
+            "category": "Upi Pa Deepak Ve Punjab Na Payment",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 9560.0,
+            "category": "Upi Pa Mr Manvee Central B Na",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Upi Pa Harshit M Hdfc Bank Upi",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Pa Mohammad Axis Bank Na",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Upi Pa Mohd Suha Axis Bank Na",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 40100.0,
+            "category": "Upi Pa Mr Manvee Central B Na",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Sak Cash Dep Sak Self",
+            "month": "Nov-24"
+        }
+    ],
+    "top5FundsTransferred": [
+        {
+            "amount": 1.0,
+            "category": "Debit Card Chrgs Incl Gst",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 60000.0,
+            "category": "Atm Cash Axis Tpan Baghpat",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 18500.0,
+            "category": "Atm Cash Nr Janta Vaidik Cl Baraut",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 499.0,
+            "category": "Debit Card Chrgs Incl Gst",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 354.0,
+            "category": "Avgbal Chgs Oct Incl Gst",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 13999.0,
+            "category": "Upi Pm Mohd Suhail Na Yes Bank Limited Ybs",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Atm Cash Raghunathpur Meerut",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Upi Pa Anita Sent U Canara Bank",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Upi Pa Jatin Sirohi Na Hdfc Bank Ltd",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Cash Axis Dwro Dehradun",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Atm Cash Axis Tpan Baghpat",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Atm Cash Amit Kumar Baraut",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Atm Cash Nr Janta Vaidik Cl Baraut",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 9000.0,
+            "category": "Upi Pa Soniya Na Canara Bank",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Cash Aminagar Sarai Baghpat",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 354.0,
+            "category": "Avgbal Chgs Sep Incl Gst",
+            "month": "Nov-24"
+        }
+    ]
+}

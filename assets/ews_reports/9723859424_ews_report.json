@@ -1,0 +1,357 @@
+{
+    "accountNo": "XXXXXXXXXX0560",
+    "customerName": "PANCHAL RAHULKUMAR SURESHKUMAR",
+    "periodAnalyzed": "2024-08 to 2025-01",
+    "ewsDetected": [
+        {
+            "signal": "Frequent Low or Near-Zero Balances",
+            "severity": "High",
+            "evidence": "Found 3 transactions with balance <= \u20b9100.0: ['TXN_388', 'TXN_483', 'TXN_660']",
+            "recommendation": "Engage customer to assess liquidity issues and offer repayment restructuring.",
+            "events": [
+                {
+                    "txnid": "TXN_388",
+                    "date": "2024-09-01",
+                    "balance": 61.21
+                },
+                {
+                    "txnid": "TXN_483",
+                    "date": "2024-10-15",
+                    "balance": -60.65
+                },
+                {
+                    "txnid": "TXN_660",
+                    "date": "2025-01-08",
+                    "balance": 10.17
+                }
+            ]
+        },
+        {
+            "signal": "Significant Fund Transfers Post-Salary Credits",
+            "severity": "High",
+            "evidence": "Found 1 large debits post-salary: ['TXN_471']",
+            "recommendation": "Monitor salary inflows and enforce EMI prioritization.",
+            "events": [
+                {
+                    "txnid": "TXN_471",
+                    "date": "2024-10-06",
+                    "amount": -60000.0
+                }
+            ]
+        },
+        {
+            "signal": "High Debit-to-Credit Ratio",
+            "severity": "Medium",
+            "evidence": "Debit/Credit amount ratio: 0.98, count ratio: 3.59",
+            "recommendation": "Analyze spending patterns and reduce discretionary debits.",
+            "events": []
+        },
+        {
+            "signal": "Potential Informal Borrowing or Lending",
+            "severity": "Medium",
+            "evidence": "Frequent large transfers (>=\u20b910000) to: {'PANCHAL RAHULKUMAR S': ['TXN_338', 'TXN_350', 'TXN_390', 'TXN_406', 'TXN_421'], 'DARSHIKA PANCHAL': ['TXN_339', 'TXN_354', 'TXN_470', 'TXN_498', 'TXN_503'], ' HERO FINCORP LTD': ['TXN_343', 'TXN_394', 'TXN_467', 'TXN_531', 'TXN_582'], 'WORKSHARE SOLUTIONS': ['TXN_346', 'TXN_389', 'TXN_469', 'TXN_534', 'TXN_633'], 'ICIC0000103': ['TXN_356', 'TXN_423', 'TXN_487', 'TXN_549', 'TXN_608'], ' RAZORPAYSOFTWAREPRIV': ['TXN_364', 'TXN_416', 'TXN_417', 'TXN_476', 'TXN_543'], '': ['TXN_380', 'TXN_420', 'TXN_440'], '416021XXXXXX3721': ['TXN_435', 'TXN_480', 'TXN_556', 'TXN_595']}",
+            "recommendation": "Investigate relationships with frequent transferees.",
+            "events": [
+                {
+                    "txnid": "TXN_338",
+                    "date": "2024-08-04",
+                    "amount": 31000.0
+                },
+                {
+                    "txnid": "TXN_350",
+                    "date": "2024-08-06",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_390",
+                    "date": "2024-09-04",
+                    "amount": 31000.0
+                },
+                {
+                    "txnid": "TXN_406",
+                    "date": "2024-09-06",
+                    "amount": 12000.0
+                },
+                {
+                    "txnid": "TXN_421",
+                    "date": "2024-09-09",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_428",
+                    "date": "2024-09-15",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_458",
+                    "date": "2024-10-04",
+                    "amount": 31000.0
+                },
+                {
+                    "txnid": "TXN_471",
+                    "date": "2024-10-06",
+                    "amount": 60000.0
+                },
+                {
+                    "txnid": "TXN_486",
+                    "date": "2024-10-16",
+                    "amount": 15070.0
+                },
+                {
+                    "txnid": "TXN_528",
+                    "date": "2024-11-03",
+                    "amount": 41580.0
+                },
+                {
+                    "txnid": "TXN_580",
+                    "date": "2024-12-04",
+                    "amount": 42000.0
+                },
+                {
+                    "txnid": "TXN_632",
+                    "date": "2025-01-02",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_635",
+                    "date": "2025-01-04",
+                    "amount": 31000.0
+                },
+                {
+                    "txnid": "TXN_339",
+                    "date": "2024-08-04",
+                    "amount": 28460.0
+                },
+                {
+                    "txnid": "TXN_354",
+                    "date": "2024-08-06",
+                    "amount": 18242.0
+                },
+                {
+                    "txnid": "TXN_470",
+                    "date": "2024-10-06",
+                    "amount": 28100.0
+                },
+                {
+                    "txnid": "TXN_498",
+                    "date": "2024-10-23",
+                    "amount": 14000.0
+                },
+                {
+                    "txnid": "TXN_503",
+                    "date": "2024-10-25",
+                    "amount": 14000.0
+                },
+                {
+                    "txnid": "TXN_343",
+                    "date": "2024-08-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_394",
+                    "date": "2024-09-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_467",
+                    "date": "2024-10-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_531",
+                    "date": "2024-11-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_582",
+                    "date": "2024-12-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_637",
+                    "date": "2025-01-05",
+                    "amount": 15441.0
+                },
+                {
+                    "txnid": "TXN_346",
+                    "date": "2024-08-05",
+                    "amount": 103750.0
+                },
+                {
+                    "txnid": "TXN_389",
+                    "date": "2024-09-04",
+                    "amount": 103750.0
+                },
+                {
+                    "txnid": "TXN_469",
+                    "date": "2024-10-05",
+                    "amount": 103750.0
+                },
+                {
+                    "txnid": "TXN_534",
+                    "date": "2024-11-06",
+                    "amount": 103750.0
+                },
+                {
+                    "txnid": "TXN_633",
+                    "date": "2025-01-04",
+                    "amount": 103744.0
+                },
+                {
+                    "txnid": "TXN_356",
+                    "date": "2024-08-06",
+                    "amount": 13550.0
+                },
+                {
+                    "txnid": "TXN_423",
+                    "date": "2024-09-10",
+                    "amount": 14740.0
+                },
+                {
+                    "txnid": "TXN_487",
+                    "date": "2024-10-16",
+                    "amount": 15070.0
+                },
+                {
+                    "txnid": "TXN_549",
+                    "date": "2024-11-11",
+                    "amount": 16530.0
+                },
+                {
+                    "txnid": "TXN_608",
+                    "date": "2024-12-17",
+                    "amount": 15010.0
+                },
+                {
+                    "txnid": "TXN_669",
+                    "date": "2025-01-13",
+                    "amount": 16850.0
+                },
+                {
+                    "txnid": "TXN_364",
+                    "date": "2024-08-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_416",
+                    "date": "2024-09-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_417",
+                    "date": "2024-09-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_476",
+                    "date": "2024-10-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_543",
+                    "date": "2024-11-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_590",
+                    "date": "2024-12-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_653",
+                    "date": "2025-01-07",
+                    "amount": 12456.0
+                },
+                {
+                    "txnid": "TXN_380",
+                    "date": "2024-08-30",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_420",
+                    "date": "2024-09-09",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_440",
+                    "date": "2024-09-20",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_435",
+                    "date": "2024-09-15",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_480",
+                    "date": "2024-10-09",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_556",
+                    "date": "2024-11-15",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_595",
+                    "date": "2024-12-07",
+                    "amount": 10000.0
+                }
+            ]
+        },
+        {
+            "signal": "Limited Loan Repayment Activity",
+            "severity": "Medium",
+            "evidence": "Loan disbursals: \u20b9391166.0, EMI issues: \u20b90, ratio: 0.0000",
+            "recommendation": "Verify loan repayment status and monitor EMIs.",
+            "events": []
+        },
+        {
+            "signal": "High Volatility in Account Balance",
+            "severity": "Medium",
+            "evidence": "Balance volatility (std/mean): 1.88, mean: \u20b953829.61",
+            "recommendation": "Educate customer on maintaining stable balances.",
+            "events": []
+        },
+        {
+            "signal": "Sporadic Large Credits",
+            "severity": "Medium",
+            "evidence": "Large credits (>=\u20b950000) in months: {'2024-10': ['TXN_456', 'TXN_512'], '2024-11': ['TXN_552'], '2024-12': ['TXN_576', 'TXN_578'], '2025-01': ['TXN_679']}",
+            "recommendation": "Investigate source of large credits.",
+            "events": [
+                {
+                    "txnid": "TXN_456",
+                    "date": "2024-10-04",
+                    "amount": 96579.0
+                },
+                {
+                    "txnid": "TXN_512",
+                    "date": "2024-10-28",
+                    "amount": 103950.0
+                },
+                {
+                    "txnid": "TXN_552",
+                    "date": "2024-11-12",
+                    "amount": 94665.0
+                },
+                {
+                    "txnid": "TXN_576",
+                    "date": "2024-12-02",
+                    "amount": 98255.0
+                },
+                {
+                    "txnid": "TXN_578",
+                    "date": "2024-12-04",
+                    "amount": 103750.0
+                },
+                {
+                    "txnid": "TXN_679",
+                    "date": "2025-01-24",
+                    "amount": 698701.0
+                }
+            ]
+        }
+    ],
+    "totalSignals": 7,
+    "timestamp": "2025-04-29T19:02:31.677590"
+}

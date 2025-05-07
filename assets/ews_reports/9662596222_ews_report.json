@@ -1,0 +1,16 @@
+{
+    "accountNo": "Unknown",
+    "customerName": "Unknown",
+    "periodAnalyzed": "Unknown",
+    "ewsDetected": [
+        {
+            "signal": "Processing Error",
+            "severity": "High",
+            "evidence": "Unknown datetime string format, unable to parse: NA, at position 0",
+            "recommendation": "Check data format and transaction details.",
+            "events": []
+        }
+    ],
+    "totalSignals": 1,
+    "timestamp": "2025-04-29T19:02:31.618978"
+}

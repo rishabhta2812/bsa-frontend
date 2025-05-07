@@ -1,0 +1,21 @@
+{
+    "accountNo": "XXXXXXXXXXX2270",
+    "customerName": "MR.SHAURYASINH KARANSINH SANDU",
+    "alerts": [
+        "INFO: Analysis period (6 months): ['2024-08', '2024-09', '2024-10', '2024-11', '2024-12', '2025-01']",
+        "INFO: 8 EMI transaction(s) found in the last 6 months.",
+        "INFO: Total EMI amount paid in the last 6 months is 41183.60",
+        "NOTICE: No repeating EMI amounts expected in 2024-08.",
+        "NOTICE: No repeating EMI amounts expected in 2024-09.",
+        "NOTICE: No repeating EMI amounts expected in 2024-10.",
+        "NOTICE: No repeating EMI amounts expected in 2024-11.",
+        "NOTICE: No repeating EMI amounts expected in 2024-12.",
+        "NOTICE: No repeating EMI amounts expected in 2025-01.",
+        "ALERT: Payment gap of 70 days between 2024-08-17 and 2024-10-26.",
+        "ALERT: Payment gap of 62 days between 2024-11-15 and 2025-01-16.",
+        "INFO: Average payment gap is 23.1 days.",
+        "WARNING: No EMI amount repeated more than once.",
+        "INFO: Latest balance (2678.76) is sufficient for total EMIs (0.00)."
+    ],
+    "timestamp": "2025-04-29T19:02:38.614782"
+}

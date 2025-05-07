@@ -1,0 +1,833 @@
+{
+    "accountXns": [
+        {
+            "accountNo": "XXXXXXXXX9519",
+            "accountType": "SAVINGS",
+            "ifscCode": "CNRB0007771",
+            "location": "",
+            "micrCode": "673015036",
+            "xns": [
+                {
+                    "amount": 88000.0,
+                    "balance": 88000.0,
+                    "category": "cash_deposit",
+                    "date": "2025-02-01",
+                    "narration": "CASH DEPOSIT MHD S THIRUVAMBADY",
+                    "sub_category": "cash_deposit",
+                    "txnid": "TXN_0"
+                },
+                {
+                    "amount": -3500.0,
+                    "balance": 84500.0,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-01",
+                    "narration": "UPI/DR/503289376290/MOHAMED A//**M1959@OKHDFCBANK/-//CANEE64883D10274738B30EC00D9E6F7252/01/02/2025 18:03:12",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_1"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 84000.0,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/DR/503280077267/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDF6DBD6182D0CF4DF18283096F457D614B/01/02/2025 19:18:12",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_2"
+                },
+                {
+                    "amount": -740.0,
+                    "balance": 83156.0,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/DR/503286695678/HIDASH MU/YESB/**70509@YBL/UPI//HDF206E539BB89C419BABEE23E9D68FCC5E/01/02/2025 20:42:15",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_4"
+                },
+                {
+                    "amount": -104.0,
+                    "balance": 83896.0,
+                    "category": "bank_charges",
+                    "date": "2025-02-02",
+                    "narration": "CASH HANDLING CH SB",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_3"
+                },
+                {
+                    "amount": 50000.0,
+                    "balance": 133156.0,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/CR/503396751811/SHAREEF S/FDRL/**HIRAY@OKHDFCBANK/UPI//HDFAEFFD061990540DCA5AE602538F861D3/02/02/2025 07:16:43",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_5"
+                },
+                {
+                    "amount": -1.0,
+                    "balance": 133155.0,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/DR/503300330169/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDF8BB17E6223644DD4B4D2FAD21F83C3F1/02/02/2025 09:23:05",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_6"
+                },
+                {
+                    "amount": 15000.0,
+                    "balance": 148155.0,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/CR/503305892110/ANU  ARSH/ESMF/**D.KZP@OKHDFCBANK/UPI//HDFBD7B6CAC13334F3D804368F6B366E12C/02/02/2025 11:11:38",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_7"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 138155.0,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI/DR/503489835841/THESNEEMM//**M9895@OKSBI/-//CAN4452378AE7CD49D28D1664EE67222D40/03/02/2025 20:10:26",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_8"
+                },
+                {
+                    "amount": -1.0,
+                    "balance": 138154.0,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "MB-IMPS-DR/THARA MARKETING/SIBL/**0232/ /06/02/2025 17:09:20/503717068025",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_9"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 133154.0,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "MB-IMPS-DR/THARA MARKETING/SIBL/**0232/ /06/02/2025 17:16:17/503717070013",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_10"
+                },
+                {
+                    "amount": -3.54,
+                    "balance": 133150.46,
+                    "category": "bank_charges",
+                    "date": "2025-02-06",
+                    "narration": "ATM / IMPS TRANSACTION CHARGES",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_11"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 113150.46,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "UPI/DR/503738762550/MUHAMMED /KLGB/**N1988@OKAXIS/UPI//HDFDCA5891788E54AF8AB8E46F1A5199773/06/02/2025 21:07:29",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_12"
+                },
+                {
+                    "amount": -2389.9,
+                    "balance": 110760.56,
+                    "category": "transfer",
+                    "date": "2025-02-07",
+                    "narration": "UPI/DR/503862157356/GOOGLE IN/ICIC/**HARGE@ICICI/UPI//HDF400105F094C24230886076D0BAA200DA/07/02/2025 13:41:26",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_13"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 60760.56,
+                    "category": "transfer",
+                    "date": "2025-02-07",
+                    "narration": "UPI/DR/503867831576/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDF806C1DE39BA040AABED8896DD96DF789/07/02/2025 15:28:19",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_14"
+                },
+                {
+                    "amount": -15000.0,
+                    "balance": 45760.56,
+                    "category": "transfer",
+                    "date": "2025-02-08",
+                    "narration": "UPI/DR/503924939070/NASSEERA /DLXB/**OZ901@OKHDFCBANK/UPI//HDF8B46F738DB8A4C94ACB609D339E3B879/08/02/2025 16:45:32",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_15"
+                },
+                {
+                    "amount": -40000.0,
+                    "balance": 5760.56,
+                    "category": "transfer",
+                    "date": "2025-02-09",
+                    "narration": "UPI/DR/504079455784/MUHAMMED /KLGB/**N1988@OKAXIS/UPI//HDF7B4EA9E0C58B4D85ADAA4BAD94F1A925/09/02/2025 17:17:48",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_16"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 760.56,
+                    "category": "transfer",
+                    "date": "2025-02-09",
+                    "narration": "UPI/DR/504087417574/MUHAMMED /KLGB/**N1988@OKAXIS/UPI//HDFAF001E07F5A64521A2C9AF0FCAC43284/09/02/2025 19:14:09",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_17"
+                },
+                {
+                    "amount": 15000.0,
+                    "balance": 15760.56,
+                    "category": "transfer",
+                    "date": "2025-02-18",
+                    "narration": "UPI/CR/504924207329/THARA MAR/SIBL/**.SM-1@OKSBI/UPI//SBI7AD90F25A095433FB62B2ADC269E1940/18/02/2025 21:56:38",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_18"
+                },
+                {
+                    "amount": -12000.0,
+                    "balance": 3760.56,
+                    "category": "transfer",
+                    "date": "2025-02-20",
+                    "narration": "UPI/DR/100305606563/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDFDEDECD1265FA4366A4D1FCEC45795F4A/20/02/2025 03:26:23",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_19"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 2760.56,
+                    "category": "transfer",
+                    "date": "2025-02-20",
+                    "narration": "UPI/DR/100305607186/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDF2D306F6D77DE4054BFEA92B7AC0F510B/20/02/2025 03:27:34",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_20"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 2660.56,
+                    "category": "transfer",
+                    "date": "2025-02-21",
+                    "narration": "UPI/DR/100389097863/GOOGLE IN/ICIC/**HARGE@ICICI/UPI//HDF06563D6ADF9A4D0C8904FAE92A1E9E35/21/02/2025 19:46:55",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_21"
+                },
+                {
+                    "amount": -1750.0,
+                    "balance": 910.56,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-25",
+                    "narration": "UPI/DR/100571805631/MOHAMED A/SIBL/**M1959@OKHDFCBANK/UPI//HDF374003DE81DE4381B6CF32CAC565617B/25/02/2025 17:00:01",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_22"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 810.56,
+                    "category": "transfer",
+                    "date": "2025-02-26",
+                    "narration": "UPI/DR/100594760443/GOOGLE IN/UTIB/**HARGE@OKPAYAXIS/UPI//HDFE9856FAD69694A7595D70CDB1688F161/26/02/2025 01:35:49",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_23"
+                },
+                {
+                    "amount": -496.9,
+                    "balance": 313.66,
+                    "category": "transfer",
+                    "date": "2025-02-27",
+                    "narration": "UPI/DR/100687068366/GOOGLE IN/ICIC/**HARGE@ICICI/UPI//HDF2CE8DFD718E6416A8BBACDE5BE684DC0/27/02/2025 22:02:57",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_24"
+                }
+            ]
+        }
+    ],
+    "bouncedOrPenalXns": [
+        {
+            "amount": -104.0,
+            "balance": 83896.0,
+            "category": "BANK_CHARGES",
+            "date": "2025-02-02",
+            "narration": "CASH HANDLING CH SB",
+            "txnid": "TXN_3"
+        },
+        {
+            "amount": -3.54,
+            "balance": 133150.46,
+            "category": "BANK_CHARGES",
+            "date": "2025-02-06",
+            "narration": "ATM / IMPS TRANSACTION CHARGES",
+            "txnid": "TXN_11"
+        }
+    ],
+    "customerInfo": {
+        "accountRef": "c790e2b9-3843-47ec-b262-c1faa6e005d1",
+        "address": "NA",
+        "bank": "Canara Bank",
+        "ckycCompliance": "true",
+        "consent_id": "68d8ad8f-6e28-4ed4-ad20-8c3b40512a98",
+        "custId": "8606174808@finvu",
+        "dob": "1996-09-03",
+        "email": "shihad.sm@gmail.com",
+        "fip_id": "fiplive@canarabank",
+        "landline": "NA",
+        "marital_status": "NA",
+        "mobile": "8606174808",
+        "name": "MohammedShihad",
+        "pan": "MYGPS4668J",
+        "session_id": "3569eeb4-02b6-485a-9ade-cf928afb7d41"
+    },
+    "eMIECSLOANXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "eODBalances": [
+        {
+            "balance": 88000.0,
+            "date": "2025-02-01"
+        },
+        {
+            "balance": 148155.0,
+            "date": "2025-02-02"
+        },
+        {
+            "balance": 138155.0,
+            "date": "2025-02-03"
+        },
+        {
+            "balance": 138155.0,
+            "date": "2025-02-04"
+        },
+        {
+            "balance": 138155.0,
+            "date": "2025-02-05"
+        },
+        {
+            "balance": 133154.0,
+            "date": "2025-02-06"
+        },
+        {
+            "balance": 110760.56,
+            "date": "2025-02-07"
+        },
+        {
+            "balance": 45760.56,
+            "date": "2025-02-08"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-09"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-10"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-11"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-12"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-13"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-14"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-15"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-16"
+        },
+        {
+            "balance": 760.56,
+            "date": "2025-02-17"
+        },
+        {
+            "balance": 15760.56,
+            "date": "2025-02-18"
+        },
+        {
+            "balance": 15760.56,
+            "date": "2025-02-19"
+        },
+        {
+            "balance": 2760.56,
+            "date": "2025-02-20"
+        },
+        {
+            "balance": 2660.56,
+            "date": "2025-02-21"
+        },
+        {
+            "balance": 2660.56,
+            "date": "2025-02-22"
+        },
+        {
+            "balance": 2660.56,
+            "date": "2025-02-23"
+        },
+        {
+            "balance": 2660.56,
+            "date": "2025-02-24"
+        },
+        {
+            "balance": 910.56,
+            "date": "2025-02-25"
+        },
+        {
+            "balance": 810.56,
+            "date": "2025-02-26"
+        },
+        {
+            "balance": 313.66,
+            "date": "2025-02-27"
+        }
+    ],
+    "fCUAnalysis": {
+        "behaviouralTransactionalIndicators": {
+            "bigDebitAfterSalaryXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "discontinuityInCredits": {
+                "status": "false"
+            },
+            "equalCreditDebitXns": {
+                "status": "false"
+            },
+            "highCashDepositXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularInterestDebitXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularSalaryCreditXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "irregularTransferToPartiesXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "negativeEODBalanceXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "partiesInCreditsAndDebits": {
+                "partyName": "NA"
+            },
+            "salaryAmountNotVaryingXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "taxPaymentXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            }
+        },
+        "possibleFraudIndicators": {
+            "amountBalanceMismatchXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "lowAccountVintage": {
+                "status": "false"
+            },
+            "salaryOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "suspiciousATMXns": [],
+            "suspiciousRTGSXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "transactionOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ]
+        }
+    },
+    "highValueCreditXns": [
+        {
+            "amount": 88000.0,
+            "balance": 88000.0,
+            "category": "cash_deposit",
+            "date": "2025-02-01",
+            "narration": "CASH DEPOSIT MHD S THIRUVAMBADY",
+            "txnid": "833806813873"
+        }
+    ],
+    "highValueDebitXns": [
+        {
+            "amount": -50000.0,
+            "balance": 60760.56,
+            "category": "transfer",
+            "date": "2025-02-07",
+            "narration": "UPI/DR/503867831576/THESNEEM /FDRL/**EM957@FEDERAL/UPI//HDF806C1DE39BA040AABED8896DD96DF789/07/02/2025 15:28:19",
+            "txnid": "415461284645"
+        },
+        {
+            "amount": -40000.0,
+            "balance": 5760.56,
+            "category": "transfer",
+            "date": "2025-02-09",
+            "narration": "UPI/DR/504079455784/MUHAMMED /KLGB/**N1988@OKAXIS/UPI//HDF7B4EA9E0C58B4D85ADAA4BAD94F1A925/09/02/2025 17:17:48",
+            "txnid": "103873312021"
+        }
+    ],
+    "inwEMIBounceXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "loanDisbursalXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "monthlyDetails": [
+        {
+            "balAvg": 32841.61,
+            "balLast": 313.66,
+            "balMax": 148155.0,
+            "balMin": 313.66,
+            "balOpen": 0.0,
+            "cashDeposits": 1,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 19,
+            "debitsAPS": 21,
+            "debitsRev": 0,
+            "debitsSC": 2,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Feb-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2025-02-01",
+            "totalCashDeposit": 88000.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 168000.0,
+            "totalCreditAPS": 168000.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 162436.34,
+            "totalDebitAPS": 167686.34,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 107.54,
+            "totalDebitSelf": 5250.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        }
+    ],
+    "regularDebits": [
+        {
+            "amount": 1.0,
+            "balance": 138154.0,
+            "category": "transfer",
+            "date": "2025-02-06",
+            "group": 1,
+            "narration": "MB-IMPS-DR/THARA MARKETING/SIBL/**0232/ /06/02/2025 17:09:20/503717068025",
+            "txnid": "191534794266"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 133154.0,
+            "category": "transfer",
+            "date": "2025-02-06",
+            "group": 1,
+            "narration": "MB-IMPS-DR/THARA MARKETING/SIBL/**0232/ /06/02/2025 17:16:17/503717070013",
+            "txnid": "753835870243"
+        }
+    ],
+    "salaryXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "statementdetails": [
+        {
+            "customerInfo": {
+                "address": "NA",
+                "bank": "Canara Bank",
+                "email": "shihad.sm@gmail.com",
+                "landline": "NA",
+                "mobile": "8606174808",
+                "name": "MohammedShihad",
+                "pan": "MYGPS4668J"
+            },
+            "statementAccounts": [
+                {
+                    "Pending_amount": "NA",
+                    "accType": "SAVINGS",
+                    "accountNo": "XXXXXXXXX9519",
+                    "accountType": "Bank",
+                    "balanceDateTime": "2025-03-13T00:14:50.000+00:00",
+                    "branch": "7771",
+                    "currency": "INR",
+                    "currentODLimit": "NA",
+                    "drawingLimit": "NA",
+                    "facility": "NA",
+                    "xnsEndDate": "2025-03-13",
+                    "xnsStartDate": "2024-03-01"
+                }
+            ]
+        }
+    ],
+    "summaryInfo": {
+        "accNo": "XXXXXXXXX9519",
+        "accType": "SAVINGS",
+        "average": {
+            "balAvg": 32841.61,
+            "balLast": 313.66,
+            "balMax": 148155.0,
+            "balMin": 313.66,
+            "balOpen": 0.0,
+            "cashDeposits": 1.0,
+            "cashWithdrawals": 0.0,
+            "chqDeposits": 0.0,
+            "chqIssues": 0.0,
+            "credits": 4.0,
+            "creditsAPS": 4.0,
+            "creditsRev": 0.0,
+            "creditsSC": 0.0,
+            "creditsSelf": 0.0,
+            "debits": 19.0,
+            "debitsAPS": 21.0,
+            "debitsRev": 0.0,
+            "debitsSC": 2.0,
+            "debitsSelf": 2.0,
+            "emiEcsLoanIssues": 0.0,
+            "invIncomes": 0.0,
+            "inwBounces": 0.0,
+            "inwChqBounceNonTechnical": 0.0,
+            "inwEMIBounces": 0.0,
+            "loanDisbursals": 0.0,
+            "outwBounces": 0.0,
+            "salaries": 0.0,
+            "totalCashDeposit": 88000.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0.0,
+            "totalCredit": 168000.0,
+            "totalCreditAPS": 168000.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0.0,
+            "totalCreditSelf": 0.0,
+            "totalDebit": 162436.34,
+            "totalDebitAPS": 167686.34,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 107.54,
+            "totalDebitSelf": 5250.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0
+        },
+        "fullMonthCount": 12,
+        "instName": "Canara Bank, India",
+        "total": {
+            "balAvg": 32841.61,
+            "balLast": 313.66,
+            "balMax": 148155.0,
+            "balMin": 313.66,
+            "balOpen": 0.0,
+            "cashDeposits": 1,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "credits": 4,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 19,
+            "debitsAPS": 21,
+            "debitsRev": 0,
+            "debitsSC": 2,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "outwBounces": 0,
+            "salaries": 0,
+            "totalCashDeposit": 88000.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 168000.0,
+            "totalCreditAPS": 168000.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 162436.34,
+            "totalDebitAPS": 167686.34,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 107.54,
+            "totalDebitSelf": 5250.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0
+        }
+    },
+    "top5FundsReceived": [
+        {
+            "amount": 88000.0,
+            "category": "Cash Deposit Mhd S Thiruvambady",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 50000.0,
+            "category": "Upi Cr Shareef S Fdrl Hiray Okhdfcbank Upi Hdfaeffddcaaefd",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Cr Anu Arsh Esmf D Kzp Okhdfcbank Upi Hdfbdbcacfdfbec",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Cr Thara Mar Sibl Sm Oksbi Upi Sbiadfafbbadce",
+            "month": "Feb-25"
+        }
+    ],
+    "top5FundsTransferred": [
+        {
+            "amount": 50000.0,
+            "category": "Upi Dr Thesneem Fdrl Em Federal Upi Hdfcdebaaabeddddf",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 40000.0,
+            "category": "Upi Dr Muhammed Klgb N Okaxis Upi Hdfbeaecbdadaabadfa",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Dr Muhammed Klgb N Okaxis Upi Hdfdcaeafabefa",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Dr Nasseera Dlxb Oz Okhdfcbank Upi Hdfbfdbacacbdeb",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 12000.0,
+            "category": "Upi Dr Thesneem Fdrl Em Federal Upi Hdfdedecdfaadfcecfa",
+            "month": "Feb-25"
+        }
+    ]
+}

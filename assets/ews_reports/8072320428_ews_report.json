@@ -1,0 +1,1969 @@
+{
+    "accountNo": "XXXXXXXXXX9726",
+    "customerName": "ATCHAYA ANBAZHAKAN",
+    "periodAnalyzed": "2024-08 to 2025-01",
+    "ewsDetected": [
+        {
+            "signal": "Frequent Low or Near-Zero Balances",
+            "severity": "High",
+            "evidence": "Found 180 transactions with balance <= \u20b9100.0: ['TXN_1304', 'TXN_1324', 'TXN_1330', 'TXN_1332', 'TXN_1355']",
+            "recommendation": "Engage customer to assess liquidity issues and offer repayment restructuring.",
+            "events": [
+                {
+                    "txnid": "TXN_1304",
+                    "date": "2024-08-05",
+                    "balance": 90.85
+                },
+                {
+                    "txnid": "TXN_1324",
+                    "date": "2024-08-07",
+                    "balance": 0.85
+                },
+                {
+                    "txnid": "TXN_1330",
+                    "date": "2024-08-08",
+                    "balance": 40.85
+                },
+                {
+                    "txnid": "TXN_1332",
+                    "date": "2024-08-08",
+                    "balance": 40.85
+                },
+                {
+                    "txnid": "TXN_1355",
+                    "date": "2024-08-13",
+                    "balance": 11.85
+                },
+                {
+                    "txnid": "TXN_1362",
+                    "date": "2024-08-14",
+                    "balance": 3.85
+                },
+                {
+                    "txnid": "TXN_1366",
+                    "date": "2024-08-15",
+                    "balance": 4.85
+                },
+                {
+                    "txnid": "TXN_1385",
+                    "date": "2024-08-17",
+                    "balance": 3.85
+                },
+                {
+                    "txnid": "TXN_1402",
+                    "date": "2024-08-20",
+                    "balance": 0.85
+                },
+                {
+                    "txnid": "TXN_1452",
+                    "date": "2024-08-28",
+                    "balance": 73.45
+                },
+                {
+                    "txnid": "TXN_1477",
+                    "date": "2024-08-31",
+                    "balance": 89.95
+                },
+                {
+                    "txnid": "TXN_1478",
+                    "date": "2024-08-31",
+                    "balance": 40.95
+                },
+                {
+                    "txnid": "TXN_1480",
+                    "date": "2024-09-01",
+                    "balance": 40.95
+                },
+                {
+                    "txnid": "TXN_1481",
+                    "date": "2024-09-01",
+                    "balance": 6.95
+                },
+                {
+                    "txnid": "TXN_1485",
+                    "date": "2024-09-02",
+                    "balance": 19.95
+                },
+                {
+                    "txnid": "TXN_1495",
+                    "date": "2024-09-02",
+                    "balance": 69.95
+                },
+                {
+                    "txnid": "TXN_1496",
+                    "date": "2024-09-02",
+                    "balance": 14.95
+                },
+                {
+                    "txnid": "TXN_1497",
+                    "date": "2024-09-03",
+                    "balance": 0.95
+                },
+                {
+                    "txnid": "TXN_1525",
+                    "date": "2024-09-05",
+                    "balance": 43.81
+                },
+                {
+                    "txnid": "TXN_1526",
+                    "date": "2024-09-05",
+                    "balance": 1.81
+                },
+                {
+                    "txnid": "TXN_1529",
+                    "date": "2024-09-06",
+                    "balance": 51.81
+                },
+                {
+                    "txnid": "TXN_1531",
+                    "date": "2024-09-06",
+                    "balance": 51.81
+                },
+                {
+                    "txnid": "TXN_1580",
+                    "date": "2024-09-12",
+                    "balance": 58.81
+                },
+                {
+                    "txnid": "TXN_1582",
+                    "date": "2024-09-13",
+                    "balance": 58.81
+                },
+                {
+                    "txnid": "TXN_1584",
+                    "date": "2024-09-13",
+                    "balance": 58.81
+                },
+                {
+                    "txnid": "TXN_1585",
+                    "date": "2024-09-13",
+                    "balance": 59.81
+                },
+                {
+                    "txnid": "TXN_1623",
+                    "date": "2024-09-17",
+                    "balance": 5.81
+                },
+                {
+                    "txnid": "TXN_1626",
+                    "date": "2024-09-18",
+                    "balance": 5.81
+                },
+                {
+                    "txnid": "TXN_1628",
+                    "date": "2024-09-18",
+                    "balance": 5.81
+                },
+                {
+                    "txnid": "TXN_1643",
+                    "date": "2024-09-20",
+                    "balance": 60.75
+                },
+                {
+                    "txnid": "TXN_1644",
+                    "date": "2024-09-20",
+                    "balance": 56.61
+                },
+                {
+                    "txnid": "TXN_1645",
+                    "date": "2024-09-20",
+                    "balance": 38.91
+                },
+                {
+                    "txnid": "TXN_1658",
+                    "date": "2024-09-21",
+                    "balance": 4.91
+                },
+                {
+                    "txnid": "TXN_1688",
+                    "date": "2024-09-24",
+                    "balance": 46.35
+                },
+                {
+                    "txnid": "TXN_1690",
+                    "date": "2024-09-25",
+                    "balance": 20.35
+                },
+                {
+                    "txnid": "TXN_1691",
+                    "date": "2024-09-25",
+                    "balance": 18.35
+                },
+                {
+                    "txnid": "TXN_1692",
+                    "date": "2024-09-25",
+                    "balance": 20.35
+                },
+                {
+                    "txnid": "TXN_1694",
+                    "date": "2024-09-25",
+                    "balance": 20.35
+                },
+                {
+                    "txnid": "TXN_1697",
+                    "date": "2024-09-25",
+                    "balance": 20.35
+                },
+                {
+                    "txnid": "TXN_1702",
+                    "date": "2024-09-25",
+                    "balance": 20.35
+                },
+                {
+                    "txnid": "TXN_1703",
+                    "date": "2024-09-26",
+                    "balance": 2.65
+                },
+                {
+                    "txnid": "TXN_1704",
+                    "date": "2024-09-26",
+                    "balance": 0.0
+                },
+                {
+                    "txnid": "TXN_1708",
+                    "date": "2024-09-27",
+                    "balance": -5338.0
+                },
+                {
+                    "txnid": "TXN_1713",
+                    "date": "2024-09-27",
+                    "balance": 76.66
+                },
+                {
+                    "txnid": "TXN_1717",
+                    "date": "2024-09-27",
+                    "balance": 43.66
+                },
+                {
+                    "txnid": "TXN_1718",
+                    "date": "2024-09-27",
+                    "balance": 15.66
+                },
+                {
+                    "txnid": "TXN_1720",
+                    "date": "2024-09-28",
+                    "balance": 65.66
+                },
+                {
+                    "txnid": "TXN_1722",
+                    "date": "2024-09-28",
+                    "balance": 65.66
+                },
+                {
+                    "txnid": "TXN_1723",
+                    "date": "2024-09-28",
+                    "balance": 14.66
+                },
+                {
+                    "txnid": "TXN_1725",
+                    "date": "2024-09-29",
+                    "balance": 64.66
+                },
+                {
+                    "txnid": "TXN_1726",
+                    "date": "2024-09-29",
+                    "balance": 9.66
+                },
+                {
+                    "txnid": "TXN_1730",
+                    "date": "2024-09-29",
+                    "balance": 9.66
+                },
+                {
+                    "txnid": "TXN_1774",
+                    "date": "2024-10-04",
+                    "balance": 0.94
+                },
+                {
+                    "txnid": "TXN_1775",
+                    "date": "2024-10-04",
+                    "balance": 1.94
+                },
+                {
+                    "txnid": "TXN_1777",
+                    "date": "2024-10-04",
+                    "balance": 0.94
+                },
+                {
+                    "txnid": "TXN_1778",
+                    "date": "2024-10-05",
+                    "balance": -1030.06
+                },
+                {
+                    "txnid": "TXN_1779",
+                    "date": "2024-10-05",
+                    "balance": 0.94
+                },
+                {
+                    "txnid": "TXN_1812",
+                    "date": "2024-10-07",
+                    "balance": 48.18
+                },
+                {
+                    "txnid": "TXN_1815",
+                    "date": "2024-10-07",
+                    "balance": 3.18
+                },
+                {
+                    "txnid": "TXN_1820",
+                    "date": "2024-10-08",
+                    "balance": 1.18
+                },
+                {
+                    "txnid": "TXN_1821",
+                    "date": "2024-10-08",
+                    "balance": 4.18
+                },
+                {
+                    "txnid": "TXN_1822",
+                    "date": "2024-10-08",
+                    "balance": 1.18
+                },
+                {
+                    "txnid": "TXN_1839",
+                    "date": "2024-10-10",
+                    "balance": 43.28
+                },
+                {
+                    "txnid": "TXN_1845",
+                    "date": "2024-10-11",
+                    "balance": 16.28
+                },
+                {
+                    "txnid": "TXN_1849",
+                    "date": "2024-10-12",
+                    "balance": 56.28
+                },
+                {
+                    "txnid": "TXN_1853",
+                    "date": "2024-10-13",
+                    "balance": 39.85
+                },
+                {
+                    "txnid": "TXN_1872",
+                    "date": "2024-10-16",
+                    "balance": 52.79
+                },
+                {
+                    "txnid": "TXN_1873",
+                    "date": "2024-10-16",
+                    "balance": 46.89
+                },
+                {
+                    "txnid": "TXN_1874",
+                    "date": "2024-10-16",
+                    "balance": 42.75
+                },
+                {
+                    "txnid": "TXN_1875",
+                    "date": "2024-10-16",
+                    "balance": 36.85
+                },
+                {
+                    "txnid": "TXN_1876",
+                    "date": "2024-10-16",
+                    "balance": 30.95
+                },
+                {
+                    "txnid": "TXN_1877",
+                    "date": "2024-10-16",
+                    "balance": 10.95
+                },
+                {
+                    "txnid": "TXN_1878",
+                    "date": "2024-10-16",
+                    "balance": 0.95
+                },
+                {
+                    "txnid": "TXN_1879",
+                    "date": "2024-10-16",
+                    "balance": 10.95
+                },
+                {
+                    "txnid": "TXN_1880",
+                    "date": "2024-10-16",
+                    "balance": 0.95
+                },
+                {
+                    "txnid": "TXN_1881",
+                    "date": "2024-10-16",
+                    "balance": 50.95
+                },
+                {
+                    "txnid": "TXN_1887",
+                    "date": "2024-10-17",
+                    "balance": 21.95
+                },
+                {
+                    "txnid": "TXN_1889",
+                    "date": "2024-10-17",
+                    "balance": 21.95
+                },
+                {
+                    "txnid": "TXN_1890",
+                    "date": "2024-10-17",
+                    "balance": 1.95
+                },
+                {
+                    "txnid": "TXN_1896",
+                    "date": "2024-10-17",
+                    "balance": 1.95
+                },
+                {
+                    "txnid": "TXN_1898",
+                    "date": "2024-10-18",
+                    "balance": 1.95
+                },
+                {
+                    "txnid": "TXN_1903",
+                    "date": "2024-10-20",
+                    "balance": 51.95
+                },
+                {
+                    "txnid": "TXN_1939",
+                    "date": "2024-10-23",
+                    "balance": 1.45
+                },
+                {
+                    "txnid": "TXN_1941",
+                    "date": "2024-10-23",
+                    "balance": 1.45
+                },
+                {
+                    "txnid": "TXN_1947",
+                    "date": "2024-10-24",
+                    "balance": 53.45
+                },
+                {
+                    "txnid": "TXN_1948",
+                    "date": "2024-10-25",
+                    "balance": 13.45
+                },
+                {
+                    "txnid": "TXN_1950",
+                    "date": "2024-10-25",
+                    "balance": 13.45
+                },
+                {
+                    "txnid": "TXN_1953",
+                    "date": "2024-10-26",
+                    "balance": 13.45
+                },
+                {
+                    "txnid": "TXN_1958",
+                    "date": "2024-10-27",
+                    "balance": 3.45
+                },
+                {
+                    "txnid": "TXN_1960",
+                    "date": "2024-10-27",
+                    "balance": 3.45
+                },
+                {
+                    "txnid": "TXN_1962",
+                    "date": "2024-10-27",
+                    "balance": 3.45
+                },
+                {
+                    "txnid": "TXN_1967",
+                    "date": "2024-10-27",
+                    "balance": -1556.55
+                },
+                {
+                    "txnid": "TXN_1970",
+                    "date": "2024-10-27",
+                    "balance": 1.45
+                },
+                {
+                    "txnid": "TXN_1971",
+                    "date": "2024-10-28",
+                    "balance": -998.55
+                },
+                {
+                    "txnid": "TXN_1972",
+                    "date": "2024-10-28",
+                    "balance": 1.45
+                },
+                {
+                    "txnid": "TXN_1973",
+                    "date": "2024-10-28",
+                    "balance": 0.59
+                },
+                {
+                    "txnid": "TXN_1976",
+                    "date": "2024-10-28",
+                    "balance": 35.59
+                },
+                {
+                    "txnid": "TXN_1977",
+                    "date": "2024-10-29",
+                    "balance": 34.14
+                },
+                {
+                    "txnid": "TXN_1979",
+                    "date": "2024-10-29",
+                    "balance": 34.14
+                },
+                {
+                    "txnid": "TXN_1981",
+                    "date": "2024-10-30",
+                    "balance": 34.14
+                },
+                {
+                    "txnid": "TXN_1994",
+                    "date": "2024-10-30",
+                    "balance": 85.76
+                },
+                {
+                    "txnid": "TXN_2037",
+                    "date": "2024-11-04",
+                    "balance": 88.76
+                },
+                {
+                    "txnid": "TXN_2038",
+                    "date": "2024-11-05",
+                    "balance": 73.38
+                },
+                {
+                    "txnid": "TXN_2039",
+                    "date": "2024-11-05",
+                    "balance": 67.48
+                },
+                {
+                    "txnid": "TXN_2040",
+                    "date": "2024-11-05",
+                    "balance": 61.58
+                },
+                {
+                    "txnid": "TXN_2041",
+                    "date": "2024-11-05",
+                    "balance": 55.68
+                },
+                {
+                    "txnid": "TXN_2043",
+                    "date": "2024-11-05",
+                    "balance": 55.68
+                },
+                {
+                    "txnid": "TXN_2064",
+                    "date": "2024-11-08",
+                    "balance": 94.2
+                },
+                {
+                    "txnid": "TXN_2077",
+                    "date": "2024-11-09",
+                    "balance": 1.2
+                },
+                {
+                    "txnid": "TXN_2088",
+                    "date": "2024-11-12",
+                    "balance": 1.3
+                },
+                {
+                    "txnid": "TXN_2090",
+                    "date": "2024-11-12",
+                    "balance": 30.3
+                },
+                {
+                    "txnid": "TXN_2120",
+                    "date": "2024-11-14",
+                    "balance": 8.3
+                },
+                {
+                    "txnid": "TXN_2121",
+                    "date": "2024-11-14",
+                    "balance": 9.3
+                },
+                {
+                    "txnid": "TXN_2125",
+                    "date": "2024-11-15",
+                    "balance": 50.3
+                },
+                {
+                    "txnid": "TXN_2134",
+                    "date": "2024-11-15",
+                    "balance": 50.3
+                },
+                {
+                    "txnid": "TXN_2135",
+                    "date": "2024-11-15",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2137",
+                    "date": "2024-11-16",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2139",
+                    "date": "2024-11-16",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2141",
+                    "date": "2024-11-16",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2149",
+                    "date": "2024-11-16",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2150",
+                    "date": "2024-11-18",
+                    "balance": 0.6
+                },
+                {
+                    "txnid": "TXN_2183",
+                    "date": "2024-11-20",
+                    "balance": 87.6
+                },
+                {
+                    "txnid": "TXN_2185",
+                    "date": "2024-11-21",
+                    "balance": 87.6
+                },
+                {
+                    "txnid": "TXN_2186",
+                    "date": "2024-11-21",
+                    "balance": 81.7
+                },
+                {
+                    "txnid": "TXN_2192",
+                    "date": "2024-11-21",
+                    "balance": 92.8
+                },
+                {
+                    "txnid": "TXN_2194",
+                    "date": "2024-11-22",
+                    "balance": 92.8
+                },
+                {
+                    "txnid": "TXN_2195",
+                    "date": "2024-11-22",
+                    "balance": 86.9
+                },
+                {
+                    "txnid": "TXN_2196",
+                    "date": "2024-11-22",
+                    "balance": 69.2
+                },
+                {
+                    "txnid": "TXN_2197",
+                    "date": "2024-11-22",
+                    "balance": 51.5
+                },
+                {
+                    "txnid": "TXN_2198",
+                    "date": "2024-11-22",
+                    "balance": 45.6
+                },
+                {
+                    "txnid": "TXN_2199",
+                    "date": "2024-11-22",
+                    "balance": 39.7
+                },
+                {
+                    "txnid": "TXN_2200",
+                    "date": "2024-11-22",
+                    "balance": 33.8
+                },
+                {
+                    "txnid": "TXN_2203",
+                    "date": "2024-11-22",
+                    "balance": 27.8
+                },
+                {
+                    "txnid": "TXN_2206",
+                    "date": "2024-11-23",
+                    "balance": 67.9
+                },
+                {
+                    "txnid": "TXN_2207",
+                    "date": "2024-11-23",
+                    "balance": 66.9
+                },
+                {
+                    "txnid": "TXN_2324",
+                    "date": "2024-12-08",
+                    "balance": 21.16
+                },
+                {
+                    "txnid": "TXN_2334",
+                    "date": "2024-12-09",
+                    "balance": 62.16
+                },
+                {
+                    "txnid": "TXN_2340",
+                    "date": "2024-12-10",
+                    "balance": 47.16
+                },
+                {
+                    "txnid": "TXN_2346",
+                    "date": "2024-12-10",
+                    "balance": 32.16
+                },
+                {
+                    "txnid": "TXN_2347",
+                    "date": "2024-12-11",
+                    "balance": 22.16
+                },
+                {
+                    "txnid": "TXN_2348",
+                    "date": "2024-12-11",
+                    "balance": 2.16
+                },
+                {
+                    "txnid": "TXN_2374",
+                    "date": "2024-12-15",
+                    "balance": 32.36
+                },
+                {
+                    "txnid": "TXN_2383",
+                    "date": "2024-12-17",
+                    "balance": 17.86
+                },
+                {
+                    "txnid": "TXN_2391",
+                    "date": "2024-12-18",
+                    "balance": 87.86
+                },
+                {
+                    "txnid": "TXN_2393",
+                    "date": "2024-12-18",
+                    "balance": 39.86
+                },
+                {
+                    "txnid": "TXN_2395",
+                    "date": "2024-12-19",
+                    "balance": 69.86
+                },
+                {
+                    "txnid": "TXN_2396",
+                    "date": "2024-12-19",
+                    "balance": 56.18
+                },
+                {
+                    "txnid": "TXN_2410",
+                    "date": "2024-12-20",
+                    "balance": 11.1
+                },
+                {
+                    "txnid": "TXN_2414",
+                    "date": "2024-12-21",
+                    "balance": 17.1
+                },
+                {
+                    "txnid": "TXN_2420",
+                    "date": "2024-12-22",
+                    "balance": 2.2
+                },
+                {
+                    "txnid": "TXN_2423",
+                    "date": "2024-12-23",
+                    "balance": 21.3
+                },
+                {
+                    "txnid": "TXN_2431",
+                    "date": "2024-12-24",
+                    "balance": 91.3
+                },
+                {
+                    "txnid": "TXN_2432",
+                    "date": "2024-12-24",
+                    "balance": 71.3
+                },
+                {
+                    "txnid": "TXN_2435",
+                    "date": "2024-12-25",
+                    "balance": 71.3
+                },
+                {
+                    "txnid": "TXN_2438",
+                    "date": "2024-12-25",
+                    "balance": 56.3
+                },
+                {
+                    "txnid": "TXN_2442",
+                    "date": "2024-12-25",
+                    "balance": 56.3
+                },
+                {
+                    "txnid": "TXN_2443",
+                    "date": "2024-12-25",
+                    "balance": 6.3
+                },
+                {
+                    "txnid": "TXN_2476",
+                    "date": "2024-12-30",
+                    "balance": 8.76
+                },
+                {
+                    "txnid": "TXN_2478",
+                    "date": "2024-12-30",
+                    "balance": 8.76
+                },
+                {
+                    "txnid": "TXN_2485",
+                    "date": "2024-12-31",
+                    "balance": 8.76
+                },
+                {
+                    "txnid": "TXN_2487",
+                    "date": "2025-01-01",
+                    "balance": 1.76
+                },
+                {
+                    "txnid": "TXN_2494",
+                    "date": "2025-01-02",
+                    "balance": 23.74
+                },
+                {
+                    "txnid": "TXN_2495",
+                    "date": "2025-01-02",
+                    "balance": 3.74
+                },
+                {
+                    "txnid": "TXN_2496",
+                    "date": "2025-01-03",
+                    "balance": 0.8
+                },
+                {
+                    "txnid": "TXN_2508",
+                    "date": "2025-01-04",
+                    "balance": 87.03
+                },
+                {
+                    "txnid": "TXN_2509",
+                    "date": "2025-01-04",
+                    "balance": 47.03
+                },
+                {
+                    "txnid": "TXN_2521",
+                    "date": "2025-01-04",
+                    "balance": 67.03
+                },
+                {
+                    "txnid": "TXN_2522",
+                    "date": "2025-01-04",
+                    "balance": 27.03
+                },
+                {
+                    "txnid": "TXN_2551",
+                    "date": "2025-01-09",
+                    "balance": 1.13
+                },
+                {
+                    "txnid": "TXN_2560",
+                    "date": "2025-01-11",
+                    "balance": 2.13
+                },
+                {
+                    "txnid": "TXN_2574",
+                    "date": "2025-01-13",
+                    "balance": 50.23
+                },
+                {
+                    "txnid": "TXN_2575",
+                    "date": "2025-01-15",
+                    "balance": 10.23
+                },
+                {
+                    "txnid": "TXN_2579",
+                    "date": "2025-01-16",
+                    "balance": 69.79
+                },
+                {
+                    "txnid": "TXN_2580",
+                    "date": "2025-01-16",
+                    "balance": 52.09
+                },
+                {
+                    "txnid": "TXN_2606",
+                    "date": "2025-01-20",
+                    "balance": 0.82
+                },
+                {
+                    "txnid": "TXN_2608",
+                    "date": "2025-01-21",
+                    "balance": 0.82
+                },
+                {
+                    "txnid": "TXN_2613",
+                    "date": "2025-01-22",
+                    "balance": 24.82
+                },
+                {
+                    "txnid": "TXN_2657",
+                    "date": "2025-01-26",
+                    "balance": 33.22
+                },
+                {
+                    "txnid": "TXN_2675",
+                    "date": "2025-01-28",
+                    "balance": 30.4
+                },
+                {
+                    "txnid": "TXN_2676",
+                    "date": "2025-01-29",
+                    "balance": 0.79
+                }
+            ]
+        },
+        {
+            "signal": "High Transaction Volume with Small-Value Transfers",
+            "severity": "Medium",
+            "evidence": "Months with >30 small transactions (<=\u20b9500): ['2024-08', '2024-09', '2024-10', '2024-11', '2024-12', '2025-01']",
+            "recommendation": "Investigate purpose of small transfers to rule out fund diversion.",
+            "events": []
+        },
+        {
+            "signal": "Significant Fund Transfers Post-Salary Credits",
+            "severity": "High",
+            "evidence": "Found 23 large debits post-salary: ['TXN_1739', 'TXN_1743', 'TXN_1744', 'TXN_1746', 'TXN_1748']",
+            "recommendation": "Monitor salary inflows and enforce EMI prioritization.",
+            "events": [
+                {
+                    "txnid": "TXN_1739",
+                    "date": "2024-10-01",
+                    "amount": -10000.0
+                },
+                {
+                    "txnid": "TXN_1743",
+                    "date": "2024-10-01",
+                    "amount": -11400.0
+                },
+                {
+                    "txnid": "TXN_1744",
+                    "date": "2024-10-01",
+                    "amount": -6700.0
+                },
+                {
+                    "txnid": "TXN_1746",
+                    "date": "2024-10-02",
+                    "amount": -6787.0
+                },
+                {
+                    "txnid": "TXN_1748",
+                    "date": "2024-10-02",
+                    "amount": -20000.0
+                },
+                {
+                    "txnid": "TXN_1749",
+                    "date": "2024-10-02",
+                    "amount": -20000.0
+                },
+                {
+                    "txnid": "TXN_1750",
+                    "date": "2024-10-02",
+                    "amount": -10000.0
+                },
+                {
+                    "txnid": "TXN_1760",
+                    "date": "2024-10-03",
+                    "amount": -10000.0
+                },
+                {
+                    "txnid": "TXN_1769",
+                    "date": "2024-10-04",
+                    "amount": -8970.0
+                },
+                {
+                    "txnid": "TXN_1771",
+                    "date": "2024-10-04",
+                    "amount": -5000.0
+                },
+                {
+                    "txnid": "TXN_1777",
+                    "date": "2024-10-04",
+                    "amount": -6000.0
+                },
+                {
+                    "txnid": "TXN_1781",
+                    "date": "2024-10-05",
+                    "amount": -15600.0
+                },
+                {
+                    "txnid": "TXN_1782",
+                    "date": "2024-10-05",
+                    "amount": -6000.0
+                },
+                {
+                    "txnid": "TXN_1783",
+                    "date": "2024-10-05",
+                    "amount": -5310.6
+                },
+                {
+                    "txnid": "TXN_1785",
+                    "date": "2024-10-05",
+                    "amount": -50000.0
+                },
+                {
+                    "txnid": "TXN_1787",
+                    "date": "2024-10-05",
+                    "amount": -4830.26
+                },
+                {
+                    "txnid": "TXN_1793",
+                    "date": "2024-10-05",
+                    "amount": -100000.0
+                },
+                {
+                    "txnid": "TXN_1794",
+                    "date": "2024-10-05",
+                    "amount": -9600.0
+                },
+                {
+                    "txnid": "TXN_1795",
+                    "date": "2024-10-05",
+                    "amount": -84400.0
+                },
+                {
+                    "txnid": "TXN_1979",
+                    "date": "2024-10-29",
+                    "amount": -20000.0
+                },
+                {
+                    "txnid": "TXN_1981",
+                    "date": "2024-10-30",
+                    "amount": -11292.0
+                },
+                {
+                    "txnid": "TXN_1989",
+                    "date": "2024-10-30",
+                    "amount": -20000.0
+                },
+                {
+                    "txnid": "TXN_1991",
+                    "date": "2024-10-30",
+                    "amount": -9500.0
+                }
+            ]
+        },
+        {
+            "signal": "High Debit-to-Credit Ratio",
+            "severity": "Medium",
+            "evidence": "Debit/Credit amount ratio: 1.00, count ratio: 1.65",
+            "recommendation": "Analyze spending patterns and reduce discretionary debits.",
+            "events": []
+        },
+        {
+            "signal": "Potential Informal Borrowing or Lending",
+            "severity": "Medium",
+            "evidence": "Frequent large transfers (>=\u20b910000) to: {'SUBA  K': ['TXN_1271', 'TXN_1467', 'TXN_2134'], 'ATCHAYA ANBAZHAKAN': ['TXN_1276', 'TXN_1368', 'TXN_1404', 'TXN_1498', 'TXN_1538'], 'MR GANAPATHY M': ['TXN_1277', 'TXN_1743', 'TXN_1998', 'TXN_2280', 'TXN_2469'], 'RK ELECTRONICS AND A': ['TXN_1309', 'TXN_1310', 'TXN_1311'], '438624XXXXXX9356': ['TXN_1367', 'TXN_1598', 'TXN_1621', 'TXN_1657', 'TXN_1686'], 'KARTHIK  A': ['TXN_1397', 'TXN_1949', 'TXN_2066', 'TXN_2137', 'TXN_2214'], 'SUDHARSAN  C': ['TXN_1511', 'TXN_1629', 'TXN_1655', 'TXN_1697', 'TXN_1731'], 'KVBL0002101': ['TXN_1532', 'TXN_1780', 'TXN_1904', 'TXN_2059', 'TXN_2210'], 'BHUVANESHWARAN A': ['TXN_1533', 'TXN_1781', 'TXN_1805', 'TXN_2013', 'TXN_2161'], 'RING': ['TXN_1713', 'TXN_1963', 'TXN_2234', 'TXN_2243', 'TXN_2473'], 'PRAKASH  K': ['TXN_1766', 'TXN_1796', 'TXN_1953', 'TXN_2071', 'TXN_2258'], 'G VINITH': ['TXN_1828', 'TXN_1989', 'TXN_1996', 'TXN_2030', 'TXN_2133'], 'KARTHIKA  S': ['TXN_1884', 'TXN_1888', 'TXN_1919'], 'SELVAKUMAR A': ['TXN_2001', 'TXN_2002', 'TXN_2028', 'TXN_2029'], 'APPAS RAJAH  AMANULL': ['TXN_2126', 'TXN_2127', 'TXN_2128', 'TXN_2129'], 'KAVIYARASAN  A': ['TXN_2349', 'TXN_2359', 'TXN_2403'], 'M PARAMESHWARI': ['TXN_2465', 'TXN_2467', 'TXN_2468', 'TXN_2477']}",
+            "recommendation": "Investigate relationships with frequent transferees.",
+            "events": [
+                {
+                    "txnid": "TXN_1271",
+                    "date": "2024-08-01",
+                    "amount": 40000.0
+                },
+                {
+                    "txnid": "TXN_1467",
+                    "date": "2024-08-30",
+                    "amount": 12000.0
+                },
+                {
+                    "txnid": "TXN_2134",
+                    "date": "2024-11-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1276",
+                    "date": "2024-08-01",
+                    "amount": 13000.0
+                },
+                {
+                    "txnid": "TXN_1368",
+                    "date": "2024-08-15",
+                    "amount": 30000.0
+                },
+                {
+                    "txnid": "TXN_1404",
+                    "date": "2024-08-21",
+                    "amount": 11500.0
+                },
+                {
+                    "txnid": "TXN_1498",
+                    "date": "2024-09-03",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1538",
+                    "date": "2024-09-07",
+                    "amount": 47500.0
+                },
+                {
+                    "txnid": "TXN_1742",
+                    "date": "2024-10-01",
+                    "amount": 12800.0
+                },
+                {
+                    "txnid": "TXN_1829",
+                    "date": "2024-10-09",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_1907",
+                    "date": "2024-10-21",
+                    "amount": 49200.0
+                },
+                {
+                    "txnid": "TXN_1936",
+                    "date": "2024-10-22",
+                    "amount": 61252.0
+                },
+                {
+                    "txnid": "TXN_1979",
+                    "date": "2024-10-29",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1981",
+                    "date": "2024-10-30",
+                    "amount": 11292.0
+                },
+                {
+                    "txnid": "TXN_1983",
+                    "date": "2024-10-30",
+                    "amount": 15600.0
+                },
+                {
+                    "txnid": "TXN_2132",
+                    "date": "2024-11-15",
+                    "amount": 12500.0
+                },
+                {
+                    "txnid": "TXN_2213",
+                    "date": "2024-11-24",
+                    "amount": 14500.0
+                },
+                {
+                    "txnid": "TXN_2221",
+                    "date": "2024-11-25",
+                    "amount": 47000.0
+                },
+                {
+                    "txnid": "TXN_2282",
+                    "date": "2024-12-02",
+                    "amount": 22400.0
+                },
+                {
+                    "txnid": "TXN_2296",
+                    "date": "2024-12-03",
+                    "amount": 10600.0
+                },
+                {
+                    "txnid": "TXN_2474",
+                    "date": "2024-12-30",
+                    "amount": 13936.0
+                },
+                {
+                    "txnid": "TXN_2478",
+                    "date": "2024-12-30",
+                    "amount": 21000.0
+                },
+                {
+                    "txnid": "TXN_2608",
+                    "date": "2025-01-21",
+                    "amount": 30000.0
+                },
+                {
+                    "txnid": "TXN_2615",
+                    "date": "2025-01-22",
+                    "amount": 14830.0
+                },
+                {
+                    "txnid": "TXN_2658",
+                    "date": "2025-01-27",
+                    "amount": 31752.0
+                },
+                {
+                    "txnid": "TXN_2677",
+                    "date": "2025-01-30",
+                    "amount": 37000.0
+                },
+                {
+                    "txnid": "TXN_1277",
+                    "date": "2024-08-01",
+                    "amount": 14000.0
+                },
+                {
+                    "txnid": "TXN_1743",
+                    "date": "2024-10-01",
+                    "amount": 11400.0
+                },
+                {
+                    "txnid": "TXN_1998",
+                    "date": "2024-11-01",
+                    "amount": 14000.0
+                },
+                {
+                    "txnid": "TXN_2280",
+                    "date": "2024-12-01",
+                    "amount": 14000.0
+                },
+                {
+                    "txnid": "TXN_2469",
+                    "date": "2024-12-29",
+                    "amount": 49500.0
+                },
+                {
+                    "txnid": "TXN_2470",
+                    "date": "2024-12-29",
+                    "amount": 39500.0
+                },
+                {
+                    "txnid": "TXN_2687",
+                    "date": "2025-01-30",
+                    "amount": 15100.0
+                },
+                {
+                    "txnid": "TXN_1309",
+                    "date": "2024-08-05",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1310",
+                    "date": "2024-08-05",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1311",
+                    "date": "2024-08-05",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1367",
+                    "date": "2024-08-15",
+                    "amount": 36500.0
+                },
+                {
+                    "txnid": "TXN_1598",
+                    "date": "2024-09-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1621",
+                    "date": "2024-09-17",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1657",
+                    "date": "2024-09-21",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1686",
+                    "date": "2024-09-24",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1748",
+                    "date": "2024-10-02",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1749",
+                    "date": "2024-10-02",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1750",
+                    "date": "2024-10-02",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1923",
+                    "date": "2024-10-22",
+                    "amount": 16400.0
+                },
+                {
+                    "txnid": "TXN_1924",
+                    "date": "2024-10-22",
+                    "amount": 93500.0
+                },
+                {
+                    "txnid": "TXN_2032",
+                    "date": "2024-11-04",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2036",
+                    "date": "2024-11-04",
+                    "amount": 14500.0
+                },
+                {
+                    "txnid": "TXN_2063",
+                    "date": "2024-11-08",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2157",
+                    "date": "2024-11-19",
+                    "amount": 96500.0
+                },
+                {
+                    "txnid": "TXN_2158",
+                    "date": "2024-11-19",
+                    "amount": 63500.0
+                },
+                {
+                    "txnid": "TXN_2167",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2168",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2169",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2170",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2171",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2191",
+                    "date": "2024-11-21",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2440",
+                    "date": "2024-12-25",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2441",
+                    "date": "2024-12-25",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2442",
+                    "date": "2024-12-25",
+                    "amount": 13000.0
+                },
+                {
+                    "txnid": "TXN_2560",
+                    "date": "2025-01-11",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2636",
+                    "date": "2025-01-24",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2637",
+                    "date": "2025-01-24",
+                    "amount": 16000.0
+                },
+                {
+                    "txnid": "TXN_2665",
+                    "date": "2025-01-27",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1397",
+                    "date": "2024-08-19",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1949",
+                    "date": "2024-10-25",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_2066",
+                    "date": "2024-11-08",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2137",
+                    "date": "2024-11-16",
+                    "amount": 25000.0
+                },
+                {
+                    "txnid": "TXN_2214",
+                    "date": "2024-11-24",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1511",
+                    "date": "2024-09-04",
+                    "amount": 12000.0
+                },
+                {
+                    "txnid": "TXN_1629",
+                    "date": "2024-09-18",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1655",
+                    "date": "2024-09-21",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1697",
+                    "date": "2024-09-25",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1731",
+                    "date": "2024-09-30",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1739",
+                    "date": "2024-10-01",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1785",
+                    "date": "2024-10-05",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1891",
+                    "date": "2024-10-17",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1951",
+                    "date": "2024-10-26",
+                    "amount": 26000.0
+                },
+                {
+                    "txnid": "TXN_2097",
+                    "date": "2024-11-12",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2118",
+                    "date": "2024-11-14",
+                    "amount": 20100.0
+                },
+                {
+                    "txnid": "TXN_2165",
+                    "date": "2024-11-20",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2187",
+                    "date": "2024-11-21",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2190",
+                    "date": "2024-11-21",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2316",
+                    "date": "2024-12-07",
+                    "amount": 49000.0
+                },
+                {
+                    "txnid": "TXN_2317",
+                    "date": "2024-12-07",
+                    "amount": 11000.0
+                },
+                {
+                    "txnid": "TXN_2372",
+                    "date": "2024-12-15",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2439",
+                    "date": "2024-12-25",
+                    "amount": 13000.0
+                },
+                {
+                    "txnid": "TXN_1532",
+                    "date": "2024-09-06",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_1780",
+                    "date": "2024-10-05",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_1904",
+                    "date": "2024-10-20",
+                    "amount": 237700.0
+                },
+                {
+                    "txnid": "TXN_2059",
+                    "date": "2024-11-07",
+                    "amount": 433950.0
+                },
+                {
+                    "txnid": "TXN_2210",
+                    "date": "2024-11-23",
+                    "amount": 300000.0
+                },
+                {
+                    "txnid": "TXN_1533",
+                    "date": "2024-09-06",
+                    "amount": 57050.0
+                },
+                {
+                    "txnid": "TXN_1781",
+                    "date": "2024-10-05",
+                    "amount": 15600.0
+                },
+                {
+                    "txnid": "TXN_1805",
+                    "date": "2024-10-06",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2013",
+                    "date": "2024-11-03",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2161",
+                    "date": "2024-11-19",
+                    "amount": 46250.0
+                },
+                {
+                    "txnid": "TXN_1713",
+                    "date": "2024-09-27",
+                    "amount": 11803.0
+                },
+                {
+                    "txnid": "TXN_1963",
+                    "date": "2024-10-27",
+                    "amount": 14867.0
+                },
+                {
+                    "txnid": "TXN_2234",
+                    "date": "2024-11-27",
+                    "amount": 11387.0
+                },
+                {
+                    "txnid": "TXN_2243",
+                    "date": "2024-11-29",
+                    "amount": 18566.0
+                },
+                {
+                    "txnid": "TXN_2473",
+                    "date": "2024-12-30",
+                    "amount": 23230.0
+                },
+                {
+                    "txnid": "TXN_2682",
+                    "date": "2025-01-30",
+                    "amount": 22121.0
+                },
+                {
+                    "txnid": "TXN_1766",
+                    "date": "2024-10-04",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1796",
+                    "date": "2024-10-05",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1953",
+                    "date": "2024-10-26",
+                    "amount": 16000.0
+                },
+                {
+                    "txnid": "TXN_2071",
+                    "date": "2024-11-08",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2258",
+                    "date": "2024-11-30",
+                    "amount": 16000.0
+                },
+                {
+                    "txnid": "TXN_2291",
+                    "date": "2024-12-02",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_2293",
+                    "date": "2024-12-03",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2643",
+                    "date": "2025-01-25",
+                    "amount": 35500.0
+                },
+                {
+                    "txnid": "TXN_2651",
+                    "date": "2025-01-25",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2657",
+                    "date": "2025-01-26",
+                    "amount": 36600.0
+                },
+                {
+                    "txnid": "TXN_2673",
+                    "date": "2025-01-28",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_2680",
+                    "date": "2025-01-30",
+                    "amount": 12000.0
+                },
+                {
+                    "txnid": "TXN_1828",
+                    "date": "2024-10-09",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1989",
+                    "date": "2024-10-30",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_1996",
+                    "date": "2024-11-01",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2030",
+                    "date": "2024-11-04",
+                    "amount": 15000.0
+                },
+                {
+                    "txnid": "TXN_2133",
+                    "date": "2024-11-15",
+                    "amount": 37000.0
+                },
+                {
+                    "txnid": "TXN_2434",
+                    "date": "2024-12-25",
+                    "amount": 18000.0
+                },
+                {
+                    "txnid": "TXN_2614",
+                    "date": "2025-01-22",
+                    "amount": 19500.0
+                },
+                {
+                    "txnid": "TXN_1884",
+                    "date": "2024-10-17",
+                    "amount": 86350.0
+                },
+                {
+                    "txnid": "TXN_1888",
+                    "date": "2024-10-17",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_1919",
+                    "date": "2024-10-21",
+                    "amount": 100000.0
+                },
+                {
+                    "txnid": "TXN_2001",
+                    "date": "2024-11-02",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2002",
+                    "date": "2024-11-02",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2028",
+                    "date": "2024-11-04",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2029",
+                    "date": "2024-11-04",
+                    "amount": 35000.0
+                },
+                {
+                    "txnid": "TXN_2126",
+                    "date": "2024-11-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2127",
+                    "date": "2024-11-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2128",
+                    "date": "2024-11-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2129",
+                    "date": "2024-11-15",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2349",
+                    "date": "2024-12-11",
+                    "amount": 35000.0
+                },
+                {
+                    "txnid": "TXN_2359",
+                    "date": "2024-12-12",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2403",
+                    "date": "2024-12-20",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2465",
+                    "date": "2024-12-29",
+                    "amount": 49000.0
+                },
+                {
+                    "txnid": "TXN_2467",
+                    "date": "2024-12-29",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_2468",
+                    "date": "2024-12-29",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_2477",
+                    "date": "2024-12-30",
+                    "amount": 21000.0
+                }
+            ]
+        },
+        {
+            "signal": "Limited Loan Repayment Activity",
+            "severity": "Medium",
+            "evidence": "Loan disbursals: \u20b91235957.98, EMI issues: \u20b90, ratio: 0.0000",
+            "recommendation": "Verify loan repayment status and monitor EMIs.",
+            "events": []
+        },
+        {
+            "signal": "High Volatility in Account Balance",
+            "severity": "Medium",
+            "evidence": "Balance volatility (std/mean): 2.09, mean: \u20b934956.36",
+            "recommendation": "Educate customer on maintaining stable balances.",
+            "events": []
+        },
+        {
+            "signal": "Sporadic Large Credits",
+            "severity": "Medium",
+            "evidence": "Large credits (>=\u20b950000) in months: {'2024-08': ['TXN_1369', 'TXN_1398']}",
+            "recommendation": "Investigate source of large credits.",
+            "events": [
+                {
+                    "txnid": "TXN_1369",
+                    "date": "2024-08-15",
+                    "amount": 164900.0
+                },
+                {
+                    "txnid": "TXN_1398",
+                    "date": "2024-08-19",
+                    "amount": 340000.0
+                },
+                {
+                    "txnid": "TXN_1532",
+                    "date": "2024-09-06",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_1589",
+                    "date": "2024-09-14",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_1591",
+                    "date": "2024-09-14",
+                    "amount": 90000.0
+                },
+                {
+                    "txnid": "TXN_1592",
+                    "date": "2024-09-14",
+                    "amount": 88000.0
+                },
+                {
+                    "txnid": "TXN_1596",
+                    "date": "2024-09-15",
+                    "amount": 147200.0
+                },
+                {
+                    "txnid": "TXN_1747",
+                    "date": "2024-10-02",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1780",
+                    "date": "2024-10-05",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_1791",
+                    "date": "2024-10-05",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1792",
+                    "date": "2024-10-05",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1796",
+                    "date": "2024-10-05",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1882",
+                    "date": "2024-10-17",
+                    "amount": 400000.0
+                },
+                {
+                    "txnid": "TXN_1904",
+                    "date": "2024-10-20",
+                    "amount": 237700.0
+                },
+                {
+                    "txnid": "TXN_1919",
+                    "date": "2024-10-21",
+                    "amount": 100000.0
+                },
+                {
+                    "txnid": "TXN_1924",
+                    "date": "2024-10-22",
+                    "amount": 93500.0
+                },
+                {
+                    "txnid": "TXN_1929",
+                    "date": "2024-10-22",
+                    "amount": 67700.0
+                },
+                {
+                    "txnid": "TXN_1931",
+                    "date": "2024-10-22",
+                    "amount": 100000.0
+                },
+                {
+                    "txnid": "TXN_2001",
+                    "date": "2024-11-02",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2002",
+                    "date": "2024-11-02",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2028",
+                    "date": "2024-11-04",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2032",
+                    "date": "2024-11-04",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2059",
+                    "date": "2024-11-07",
+                    "amount": 433950.0
+                },
+                {
+                    "txnid": "TXN_2065",
+                    "date": "2024-11-08",
+                    "amount": 227052.0
+                },
+                {
+                    "txnid": "TXN_2138",
+                    "date": "2024-11-16",
+                    "amount": 200000.0
+                },
+                {
+                    "txnid": "TXN_2140",
+                    "date": "2024-11-16",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_2157",
+                    "date": "2024-11-19",
+                    "amount": 96500.0
+                },
+                {
+                    "txnid": "TXN_2158",
+                    "date": "2024-11-19",
+                    "amount": 63500.0
+                },
+                {
+                    "txnid": "TXN_2166",
+                    "date": "2024-11-20",
+                    "amount": 85100.0
+                },
+                {
+                    "txnid": "TXN_2210",
+                    "date": "2024-11-23",
+                    "amount": 300000.0
+                },
+                {
+                    "txnid": "TXN_2247",
+                    "date": "2024-11-30",
+                    "amount": 96173.0
+                },
+                {
+                    "txnid": "TXN_2278",
+                    "date": "2024-12-01",
+                    "amount": 256000.0
+                },
+                {
+                    "txnid": "TXN_2289",
+                    "date": "2024-12-02",
+                    "amount": 56000.0
+                },
+                {
+                    "txnid": "TXN_2351",
+                    "date": "2024-12-12",
+                    "amount": 380000.0
+                },
+                {
+                    "txnid": "TXN_2524",
+                    "date": "2025-01-04",
+                    "amount": 150412.0
+                },
+                {
+                    "txnid": "TXN_2628",
+                    "date": "2025-01-24",
+                    "amount": 75000.0
+                },
+                {
+                    "txnid": "TXN_2635",
+                    "date": "2025-01-24",
+                    "amount": 161000.0
+                }
+            ]
+        }
+    ],
+    "totalSignals": 8,
+    "timestamp": "2025-04-29T19:02:31.548471"
+}

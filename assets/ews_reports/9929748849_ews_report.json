@@ -1,0 +1,216 @@
+{
+    "accountNo": "XXXXXXXX0335",
+    "customerName": "MR.ABHIJEET SINGH RATHORE",
+    "periodAnalyzed": "2024-08 to 2025-01",
+    "ewsDetected": [
+        {
+            "signal": "Frequent Low or Near-Zero Balances",
+            "severity": "High",
+            "evidence": "Found 6 transactions with balance <= \u20b9100.0: ['TXN_759', 'TXN_760', 'TXN_762', 'TXN_1009', 'TXN_1011']",
+            "recommendation": "Engage customer to assess liquidity issues and offer repayment restructuring.",
+            "events": [
+                {
+                    "txnid": "TXN_759",
+                    "date": "2024-11-16",
+                    "balance": 0.91
+                },
+                {
+                    "txnid": "TXN_760",
+                    "date": "2024-11-18",
+                    "balance": 0.0
+                },
+                {
+                    "txnid": "TXN_762",
+                    "date": "2024-11-19",
+                    "balance": 45.0
+                },
+                {
+                    "txnid": "TXN_1009",
+                    "date": "2025-01-22",
+                    "balance": 20.59
+                },
+                {
+                    "txnid": "TXN_1011",
+                    "date": "2025-01-23",
+                    "balance": 20.59
+                },
+                {
+                    "txnid": "TXN_1015",
+                    "date": "2025-01-24",
+                    "balance": 20.59
+                }
+            ]
+        },
+        {
+            "signal": "High Transaction Volume with Small-Value Transfers",
+            "severity": "Medium",
+            "evidence": "Months with >30 small transactions (<=\u20b9500): ['2024-08', '2024-09', '2024-11', '2024-12']",
+            "recommendation": "Investigate purpose of small transfers to rule out fund diversion.",
+            "events": []
+        },
+        {
+            "signal": "High Debit-to-Credit Ratio",
+            "severity": "Medium",
+            "evidence": "Debit/Credit amount ratio: 1.04, count ratio: 5.88",
+            "recommendation": "Analyze spending patterns and reduce discretionary debits.",
+            "events": []
+        },
+        {
+            "signal": "Potential Informal Borrowing or Lending",
+            "severity": "Medium",
+            "evidence": "Frequent large transfers (>=\u20b910000) to: {'UPI/9636568811@ybl/Payment from Ph/Union Bank of I': ['TXN_469', 'TXN_495', 'TXN_521'], 'UPI/9001729716@ybl/Payment from Ph/STERLING URBAN': ['TXN_497', 'TXN_816', 'TXN_817'], 'UPI/7726039501@ybl/Payment from Ph/Canara Bank/463': ['TXN_617', 'TXN_619', 'TXN_621'], 'UPI/neerajmathur001/Payment from Ph/AU SMALL FINAN': ['TXN_812', 'TXN_917', 'TXN_996', 'TXN_1005']}",
+            "recommendation": "Investigate relationships with frequent transferees.",
+            "events": [
+                {
+                    "txnid": "TXN_469",
+                    "date": "2024-08-05",
+                    "amount": 60000.0
+                },
+                {
+                    "txnid": "TXN_495",
+                    "date": "2024-08-12",
+                    "amount": 11100.0
+                },
+                {
+                    "txnid": "TXN_521",
+                    "date": "2024-08-21",
+                    "amount": 45000.0
+                },
+                {
+                    "txnid": "TXN_497",
+                    "date": "2024-08-12",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_816",
+                    "date": "2024-12-04",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_817",
+                    "date": "2024-12-04",
+                    "amount": 25000.0
+                },
+                {
+                    "txnid": "TXN_617",
+                    "date": "2024-09-22",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_619",
+                    "date": "2024-09-22",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_621",
+                    "date": "2024-09-23",
+                    "amount": 80000.0
+                },
+                {
+                    "txnid": "TXN_812",
+                    "date": "2024-12-04",
+                    "amount": 10000.0
+                },
+                {
+                    "txnid": "TXN_917",
+                    "date": "2024-12-21",
+                    "amount": 20000.0
+                },
+                {
+                    "txnid": "TXN_996",
+                    "date": "2025-01-12",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_1005",
+                    "date": "2025-01-21",
+                    "amount": 11000.0
+                }
+            ]
+        },
+        {
+            "signal": "Limited Loan Repayment Activity",
+            "severity": "Medium",
+            "evidence": "Loan disbursals: \u20b9351770.0, EMI issues: \u20b90, ratio: 0.0000",
+            "recommendation": "Verify loan repayment status and monitor EMIs.",
+            "events": []
+        },
+        {
+            "signal": "High Volatility in Account Balance",
+            "severity": "Medium",
+            "evidence": "Balance volatility (std/mean): 1.46, mean: \u20b968894.77",
+            "recommendation": "Educate customer on maintaining stable balances.",
+            "events": []
+        },
+        {
+            "signal": "Sporadic Large Credits",
+            "severity": "Medium",
+            "evidence": "Large credits (>=\u20b950000) in months: {'2024-09': ['TXN_591', 'TXN_597'], '2024-10': ['TXN_683', 'TXN_706'], '2024-11': ['TXN_763'], '2024-12': ['TXN_913', 'TXN_929'], '2025-01': ['TXN_994', 'TXN_1016']}",
+            "recommendation": "Investigate source of large credits.",
+            "events": [
+                {
+                    "txnid": "TXN_465",
+                    "date": "2024-08-02",
+                    "amount": 62000.0
+                },
+                {
+                    "txnid": "TXN_486",
+                    "date": "2024-08-10",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_529",
+                    "date": "2024-08-27",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_591",
+                    "date": "2024-09-16",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_597",
+                    "date": "2024-09-16",
+                    "amount": 312270.0
+                },
+                {
+                    "txnid": "TXN_683",
+                    "date": "2024-10-09",
+                    "amount": 67000.0
+                },
+                {
+                    "txnid": "TXN_706",
+                    "date": "2024-10-19",
+                    "amount": 54000.0
+                },
+                {
+                    "txnid": "TXN_763",
+                    "date": "2024-11-21",
+                    "amount": 50000.0
+                },
+                {
+                    "txnid": "TXN_913",
+                    "date": "2024-12-21",
+                    "amount": 800000.0
+                },
+                {
+                    "txnid": "TXN_929",
+                    "date": "2024-12-23",
+                    "amount": 350000.0
+                },
+                {
+                    "txnid": "TXN_994",
+                    "date": "2025-01-12",
+                    "amount": 96000.0
+                },
+                {
+                    "txnid": "TXN_1016",
+                    "date": "2025-01-28",
+                    "amount": 61000.0
+                }
+            ]
+        }
+    ],
+    "totalSignals": 7,
+    "timestamp": "2025-04-29T19:02:31.821453"
+}

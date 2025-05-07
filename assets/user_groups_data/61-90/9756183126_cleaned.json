@@ -1,0 +1,6069 @@
+{
+    "accountXns": [
+        {
+            "accountNo": "XXXXXXXXXXXX3541",
+            "accountType": "SAVINGS",
+            "ifscCode": "PUNB0038210",
+            "location": "D/O KRISHNA PAL SINGH JADOUN AYODHYA NAGAR RAMBAGH AGRA, UTTAR PRADESH, 282006  AGRA 282006 UP IN",
+            "micrCode": "283024108",
+            "xns": [
+                {
+                    "amount": -1.77,
+                    "balance": 574.71,
+                    "category": "bank_charges",
+                    "date": "2024-04-07",
+                    "narration": "SMS CHRG FOR:01-01-2024to31-03-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_0"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 279.71,
+                    "category": "bounce_charges",
+                    "date": "2024-04-12",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-13-04-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_1"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 89379.71,
+                    "category": "salary",
+                    "date": "2024-04-15",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_2"
+                },
+                {
+                    "amount": -80000.0,
+                    "balance": 9379.71,
+                    "category": "transfer",
+                    "date": "2024-04-15",
+                    "narration": "UPI/410631046030/P2A/00000031408517028@SBIN001865/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_3"
+                },
+                {
+                    "amount": -462.13,
+                    "balance": 8917.58,
+                    "category": "transfer",
+                    "date": "2024-04-16",
+                    "narration": "UPI/410743525483/P2M/zomatoindia@icici/RazorpayZom",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_4"
+                },
+                {
+                    "amount": -2800.0,
+                    "balance": 6117.58,
+                    "category": "transfer",
+                    "date": "2024-04-17",
+                    "narration": "UPI/447425185340/P2A/6475101002783@CNRB0000103.if/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_5"
+                },
+                {
+                    "amount": -140.0,
+                    "balance": 5977.58,
+                    "category": "transfer",
+                    "date": "2024-04-17",
+                    "narration": "UPI/447431061017/P2V/7830441546@ybl/Rakesh Kumar",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_6"
+                },
+                {
+                    "amount": -200.5,
+                    "balance": 5777.08,
+                    "category": "transfer",
+                    "date": "2024-04-18",
+                    "narration": "UPI/410956206835/P2M/8744070@paytm/Jio",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_7"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 5482.08,
+                    "category": "bounce_charges",
+                    "date": "2024-04-22",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-22-04-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_8"
+                },
+                {
+                    "amount": -25.0,
+                    "balance": 5457.08,
+                    "category": "transfer",
+                    "date": "2024-04-27",
+                    "narration": "UPI/411887405140/P2M/paytm-59687921@paytm/DURGE DA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_9"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 5427.08,
+                    "category": "transfer",
+                    "date": "2024-04-27",
+                    "narration": "UPI/448491151445/P2M/paytm-63033363@paytm/Mohd Ari",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_10"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 5397.08,
+                    "category": "transfer",
+                    "date": "2024-04-27",
+                    "narration": "UPI/411887638096/P2M/paytm-64578856@paytm/MAA VAIS",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_11"
+                },
+                {
+                    "amount": 250.0,
+                    "balance": 5647.08,
+                    "category": "transfer",
+                    "date": "2024-04-29",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_12"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 3647.08,
+                    "category": "investment_debit",
+                    "date": "2024-04-30",
+                    "narration": "UPI/412125874171/P2M/zerodhabroking@hdfcbank/Zerod",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_13"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 3587.08,
+                    "category": "transfer",
+                    "date": "2024-05-02",
+                    "narration": "UPI/412301375714/P2M/paytm-63033363@paytm/Mohd Ari",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_14"
+                },
+                {
+                    "amount": -53.0,
+                    "balance": 3534.08,
+                    "category": "transfer",
+                    "date": "2024-05-04",
+                    "narration": "UPI/412576767282/P2M/paytm-59687921@paytm/DURGE DA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_15"
+                },
+                {
+                    "amount": -75.0,
+                    "balance": 3459.08,
+                    "category": "transfer",
+                    "date": "2024-05-04",
+                    "narration": "UPI/412576788457/P2M/paytm-59687921@paytm/DURGE DA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_16"
+                },
+                {
+                    "amount": -33.0,
+                    "balance": 3426.08,
+                    "category": "transfer",
+                    "date": "2024-05-05",
+                    "narration": "UPI/412675684042/P2M/paytm-59687921@paytm/DURGE DA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_17"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 3366.08,
+                    "category": "transfer",
+                    "date": "2024-05-05",
+                    "narration": "UPI/412604335243/P2M/paytm-63033363@paytm/Mohd Ari",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_18"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 3306.08,
+                    "category": "transfer",
+                    "date": "2024-05-06",
+                    "narration": "UPI/412703966737/P2M/paytm-63033363@paytm/Mohd Ari",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_19"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 3011.08,
+                    "category": "bounce_charges",
+                    "date": "2024-05-07",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-07-05-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_20"
+                },
+                {
+                    "amount": -1200.0,
+                    "balance": 1811.08,
+                    "category": "transfer",
+                    "date": "2024-05-08",
+                    "narration": "UPI/449509183170/P2V/8800386303@paytm/RAJEEV  GAUR",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_21"
+                },
+                {
+                    "amount": -10.0,
+                    "balance": 1801.08,
+                    "category": "transfer",
+                    "date": "2024-05-08",
+                    "narration": "UPI/412907397113/P2M/paytm-66283404@paytm/DEVENDRA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_22"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 1771.08,
+                    "category": "transfer",
+                    "date": "2024-05-08",
+                    "narration": "UPI/412907776032/P2M/pay7088812231@paytm/RAJU",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_23"
+                },
+                {
+                    "amount": 150.0,
+                    "balance": 1921.08,
+                    "category": "transfer",
+                    "date": "2024-05-09",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_24"
+                },
+                {
+                    "amount": 750.0,
+                    "balance": 2671.08,
+                    "category": "transfer",
+                    "date": "2024-05-09",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_25"
+                },
+                {
+                    "amount": 24000.0,
+                    "balance": 26671.08,
+                    "category": "transfer_from_self",
+                    "date": "2024-05-13",
+                    "narration": "UPI/413415445042/P2A/9756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_26"
+                },
+                {
+                    "amount": 3000.0,
+                    "balance": 29671.08,
+                    "category": "transfer_from_self",
+                    "date": "2024-05-13",
+                    "narration": "UPI/413415478470/P2A/9756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_27"
+                },
+                {
+                    "amount": -27349.0,
+                    "balance": 2322.08,
+                    "category": "transfer",
+                    "date": "2024-05-13",
+                    "narration": "UPI/413415529287/P2M/upicolra135986557@hdfcbank/HD",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_28"
+                },
+                {
+                    "amount": -2300.0,
+                    "balance": 22.08,
+                    "category": "transfer",
+                    "date": "2024-05-13",
+                    "narration": "UPI/413415596474/P2A/918010021023490@UTIB0003333./",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_29"
+                },
+                {
+                    "amount": 1783.0,
+                    "balance": 1805.08,
+                    "category": "transfer",
+                    "date": "2024-05-16",
+                    "narration": "NEFT UNIVERSITY EXAMINATION FUND",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_30"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 90905.08,
+                    "category": "salary",
+                    "date": "2024-05-17",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_31"
+                },
+                {
+                    "amount": -8000.0,
+                    "balance": 82905.08,
+                    "category": "transfer",
+                    "date": "2024-05-18",
+                    "narration": "UPI/450509387134/P2V/9760254281@paytm/MANOJ UPADHA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_32"
+                },
+                {
+                    "amount": -80000.0,
+                    "balance": 2905.08,
+                    "category": "transfer",
+                    "date": "2024-05-18",
+                    "narration": "UPI/450501459667/P2A/918010021023490@UTIB0003333./",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_33"
+                },
+                {
+                    "amount": 2100.0,
+                    "balance": 5005.08,
+                    "category": "transfer_from_self",
+                    "date": "2024-05-21",
+                    "narration": "UPI/450802896067/P2A/9756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_34"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 5.08,
+                    "category": "investment_debit",
+                    "date": "2024-05-21",
+                    "narration": "UPI/414229417972/P2M/zerodha.broking@icici/ZERODHA",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_35"
+                },
+                {
+                    "amount": -5.08,
+                    "balance": 0.0,
+                    "category": "bounce_charges",
+                    "date": "2024-05-24",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-24-05-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_36"
+                },
+                {
+                    "amount": 2600.0,
+                    "balance": 2600.0,
+                    "category": "income_investment",
+                    "date": "2024-06-02",
+                    "narration": "IMPS-IN/415409739883/9999999999/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_37"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 600.0,
+                    "category": "transfer",
+                    "date": "2024-06-02",
+                    "narration": "UPI/415415314614/P2A/918010021023490@UTIB0003333./",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_38"
+                },
+                {
+                    "amount": -289.93,
+                    "balance": 310.07,
+                    "category": "bank_charges",
+                    "date": "2024-06-02",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-24-05-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_39"
+                },
+                {
+                    "amount": -300.0,
+                    "balance": 10.07,
+                    "category": "transfer",
+                    "date": "2024-06-05",
+                    "narration": "UPI/452305395448/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_40"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 89110.07,
+                    "category": "salary",
+                    "date": "2024-06-07",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_41"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 88815.07,
+                    "category": "bounce_charges",
+                    "date": "2024-06-07",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-07-06-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_42"
+                },
+                {
+                    "amount": -23349.0,
+                    "balance": 65466.07,
+                    "category": "transfer",
+                    "date": "2024-06-08",
+                    "narration": "UPI/416022039084/P2M/919756183126   upicolra13/986",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_43"
+                },
+                {
+                    "amount": -60000.0,
+                    "balance": 5466.07,
+                    "category": "transfer",
+                    "date": "2024-06-08",
+                    "narration": "UPI/416022621619/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_44"
+                },
+                {
+                    "amount": 20.0,
+                    "balance": 5486.07,
+                    "category": "income_interest",
+                    "date": "2024-06-09",
+                    "narration": "0382100100003541:Int.Pd:01-03-2024 to 31-05-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_45"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 5191.07,
+                    "category": "bounce_charges",
+                    "date": "2024-06-13",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-13-06-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_46"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 25191.07,
+                    "category": "transfer_from_self",
+                    "date": "2024-06-14",
+                    "narration": "UPI/416618325094/P2A//22@paytm          POOJA  JAD",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_47"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 5191.07,
+                    "category": "investment_debit",
+                    "date": "2024-06-14",
+                    "narration": "UPI/416673516386/P2M/919756183126   zerodhabro/ing",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_48"
+                },
+                {
+                    "amount": 18181.0,
+                    "balance": 23372.07,
+                    "category": "income_investment",
+                    "date": "2024-06-20",
+                    "narration": "IMPS-IN/417213916114/9999999999/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_49"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 13372.07,
+                    "category": "transfer",
+                    "date": "2024-06-20",
+                    "narration": "IMPS-OUT/417213709536/9211000/9756183126",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_50"
+                },
+                {
+                    "amount": -5.9,
+                    "balance": 13366.17,
+                    "category": "bank_charges",
+                    "date": "2024-06-20",
+                    "narration": "IMPS-CHG/417213709536/9211000/9756183126",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_51"
+                },
+                {
+                    "amount": -12000.0,
+                    "balance": 1366.17,
+                    "category": "transfer",
+                    "date": "2024-06-21",
+                    "narration": "UPI/417304188233/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_52"
+                },
+                {
+                    "amount": 4000.0,
+                    "balance": 5366.17,
+                    "category": "transfer_from_self",
+                    "date": "2024-06-21",
+                    "narration": "UPI/417305456475/P2A//22@paytm          POOJA  JAD",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_53"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 366.17,
+                    "category": "cash_withdrawal",
+                    "date": "2024-06-21",
+                    "narration": "ATM WDR 417310026871 TRANS YAMUNA COLONY   \\",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_54"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 71.17,
+                    "category": "bounce_charges",
+                    "date": "2024-06-26",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-26-06-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_55"
+                },
+                {
+                    "amount": 14300.0,
+                    "balance": 14371.17,
+                    "category": "income_investment",
+                    "date": "2024-06-27",
+                    "narration": "IMPS-IN/417910764793/9999999999/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_56"
+                },
+                {
+                    "amount": -14000.0,
+                    "balance": 371.17,
+                    "category": "transfer",
+                    "date": "2024-06-27",
+                    "narration": "UPI/491135752935/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_57"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 76.17,
+                    "category": "bounce_charges",
+                    "date": "2024-07-02",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-02-07-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_58"
+                },
+                {
+                    "amount": 6.44,
+                    "balance": 82.61,
+                    "category": "transfer",
+                    "date": "2024-07-03",
+                    "narration": "NEFT ZERODHA BROKING LTD- FOR ZERODHA BR",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_59"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 22.61,
+                    "category": "transfer",
+                    "date": "2024-07-09",
+                    "narration": "UPI/455714384199/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_60"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 89122.61,
+                    "category": "salary",
+                    "date": "2024-07-09",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_61"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 84122.61,
+                    "category": "transfer",
+                    "date": "2024-07-09",
+                    "narration": "UPI/419178020877/P2V/919756183126   9259006764/pay",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_62"
+                },
+                {
+                    "amount": -270.0,
+                    "balance": 83852.61,
+                    "category": "transfer",
+                    "date": "2024-07-09",
+                    "narration": "UPI/419187806181/P2M/919756183126   paytmqrgpe/zgf",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_63"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 63852.61,
+                    "category": "investment_debit",
+                    "date": "2024-07-10",
+                    "narration": "UPI/419248051640/P2M/919756183126   zerodha.br/kin",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_64"
+                },
+                {
+                    "amount": -13135.23,
+                    "balance": 50717.38,
+                    "category": "credit_card_payment",
+                    "date": "2024-07-10",
+                    "narration": "UPI/419230379495/P2M/919756183126   cred.club@/xis",
+                    "sub_category": "credit_card_payment",
+                    "txnid": "TXN_65"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 717.38,
+                    "category": "transfer",
+                    "date": "2024-07-10",
+                    "narration": "UPI/492425542425/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_66"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 698.38,
+                    "category": "transfer",
+                    "date": "2024-07-10",
+                    "narration": "UPI/492460217372/P2M/919756183126   8744070@pa/tm",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_67"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 403.38,
+                    "category": "bounce_charges",
+                    "date": "2024-07-11",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-11-07-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_68"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 303.38,
+                    "category": "transfer",
+                    "date": "2024-07-12",
+                    "narration": "UPI/419403018119/P2M/919756183126   paytmqr9q4/bd6",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_69"
+                },
+                {
+                    "amount": -220.0,
+                    "balance": 83.38,
+                    "category": "transfer",
+                    "date": "2024-07-12",
+                    "narration": "UPI/419411854203/P2M/919756183126   paytmqr9dp/5r9",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_70"
+                },
+                {
+                    "amount": 45000.0,
+                    "balance": 45083.38,
+                    "category": "income_investment",
+                    "date": "2024-07-13",
+                    "narration": "IMPS-IN/419509743205/9999999999/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_71"
+                },
+                {
+                    "amount": -43000.0,
+                    "balance": 2083.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419505999869/P2A/919756183126   9180100210/349",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_72"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 1083.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419506018606/P2A/919756183126   0000003140/517",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_73"
+                },
+                {
+                    "amount": -80.0,
+                    "balance": 1003.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419580287582/P2M/919756183126   paytmqr9q4/bd6",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_74"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 953.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419556450035/P2M/919756183126   paytmqr10i/n2@",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_75"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 923.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419556939547/P2M/919756183126   paytmqr353/stc",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_76"
+                },
+                {
+                    "amount": -120.0,
+                    "balance": 803.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419533510628/P2M/919756183126   paytmqrrh0/o3d",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_77"
+                },
+                {
+                    "amount": -70.0,
+                    "balance": 733.38,
+                    "category": "transfer",
+                    "date": "2024-07-13",
+                    "narration": "UPI/419554507723/P2M/919756183126   paytmqrrh0/o3d",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_78"
+                },
+                {
+                    "amount": -15.04,
+                    "balance": 718.34,
+                    "category": "bank_charges",
+                    "date": "2024-07-14",
+                    "narration": "SMS CHRG FOR:01-04-2024to30-06-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_79"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 668.34,
+                    "category": "transfer",
+                    "date": "2024-07-14",
+                    "narration": "UPI/419600423594/P2M/919756183126   paytmqr10i/n2@",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_80"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 468.34,
+                    "category": "transfer",
+                    "date": "2024-07-14",
+                    "narration": "UPI/419620136045/P2M/919756183126   q310216264/ybl",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_81"
+                },
+                {
+                    "amount": -150.0,
+                    "balance": 318.34,
+                    "category": "transfer",
+                    "date": "2024-07-14",
+                    "narration": "UPI/419674938426/P2M/919756183126   paytmqrwca/at3",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_82"
+                },
+                {
+                    "amount": 40000.0,
+                    "balance": 40318.34,
+                    "category": "transfer_from_self",
+                    "date": "2024-07-15",
+                    "narration": "UPI/419708772868/P2A//22@paytm          POOJA  JAD",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_83"
+                },
+                {
+                    "amount": -40000.0,
+                    "balance": 318.34,
+                    "category": "investment_debit",
+                    "date": "2024-07-15",
+                    "narration": "UPI/419779835533/P2M/919756183126   zerodhabro/ing",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_84"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 218.34,
+                    "category": "transfer",
+                    "date": "2024-07-15",
+                    "narration": "UPI/419701493037/P2M/919756183126   bharatpe09/141",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_85"
+                },
+                {
+                    "amount": -75.0,
+                    "balance": 143.34,
+                    "category": "transfer",
+                    "date": "2024-07-15",
+                    "narration": "UPI/419732317109/P2M/919756183126   paytmqr552/w8@",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_86"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 113.34,
+                    "category": "transfer",
+                    "date": "2024-07-15",
+                    "narration": "UPI/419794875674/P2V/919756183126   8126945649/kot",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_87"
+                },
+                {
+                    "amount": 30000.0,
+                    "balance": 30113.34,
+                    "category": "income_investment",
+                    "date": "2024-07-18",
+                    "narration": "NEFT ZERODHA BROKING LTD- FOR ZERODHA BR",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_88"
+                },
+                {
+                    "amount": -28000.0,
+                    "balance": 2113.34,
+                    "category": "transfer",
+                    "date": "2024-07-19",
+                    "narration": "UPI/420104052300/P2A/918010021023490@UTIB0003333./",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_89"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 22113.34,
+                    "category": "transfer_from_self",
+                    "date": "2024-07-19",
+                    "narration": "UPI/420118676097/P2A/919756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_90"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 2113.34,
+                    "category": "investment_debit",
+                    "date": "2024-07-19",
+                    "narration": "UPI/420152501678/P2M/zerodhabroking@axisbank/Zerod",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_91"
+                },
+                {
+                    "amount": 8000.0,
+                    "balance": 10113.34,
+                    "category": "income_investment",
+                    "date": "2024-07-24",
+                    "narration": "IMPS-IN/420609019462/9986982020/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_92"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 5113.34,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-25",
+                    "narration": "ATM WDR 420712003736 K N NO A 228 NEAR KRIS\\",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_93"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 113.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-07-26",
+                    "narration": "UPI/420815318194/P2V/9756183126222@paytm/POOJA  JA",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_94"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 13.34,
+                    "category": "transfer",
+                    "date": "2024-07-26",
+                    "narration": "UPI/494033902790/P2M/bharatpe.9c0e0e7q2s428909@fb/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_95"
+                },
+                {
+                    "amount": 10000.0,
+                    "balance": 10013.34,
+                    "category": "income_investment",
+                    "date": "2024-07-27",
+                    "narration": "IMPS-IN/420911030633/9986982020/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_96"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 13.34,
+                    "category": "transfer",
+                    "date": "2024-07-27",
+                    "narration": "UPI/457589540710/P2V/9873444957@ybl/Arpan Pratap",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_97"
+                },
+                {
+                    "amount": 10000.0,
+                    "balance": 10013.34,
+                    "category": "income_investment",
+                    "date": "2024-07-31",
+                    "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_98"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 9013.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-07-31",
+                    "narration": "UPI/457922120458/P2V/9756183126@ybl/POOJA  JADOUN",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_99"
+                },
+                {
+                    "amount": -9000.0,
+                    "balance": 13.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-07-31",
+                    "narration": "UPI/457934627048/P2V/9756183126@ybl/POOJA  JADOUN",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_100"
+                },
+                {
+                    "amount": 88923.0,
+                    "balance": 88936.34,
+                    "category": "salary",
+                    "date": "2024-08-01",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_101"
+                },
+                {
+                    "amount": -80000.0,
+                    "balance": 8936.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-01",
+                    "narration": "UPI/458013640250/P2V/9756183126@ybl/POOJA  JADOUN",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_102"
+                },
+                {
+                    "amount": -650.0,
+                    "balance": 8286.34,
+                    "category": "transfer",
+                    "date": "2024-08-03",
+                    "narration": "UPI/421618718340/P2M/bharatpe.90068947655@fbpe/LAL",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_103"
+                },
+                {
+                    "amount": -8000.0,
+                    "balance": 286.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-05",
+                    "narration": "UPI/421821717998/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_104"
+                },
+                {
+                    "amount": -286.34,
+                    "balance": 0.0,
+                    "category": "bounce_charges",
+                    "date": "2024-08-07",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-07-08-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_105"
+                },
+                {
+                    "amount": 4000.0,
+                    "balance": 4000.0,
+                    "category": "income_investment",
+                    "date": "2024-08-08",
+                    "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_106"
+                },
+                {
+                    "amount": -8.66,
+                    "balance": 3991.34,
+                    "category": "bank_charges",
+                    "date": "2024-08-09",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-08-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_107"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 3791.34,
+                    "category": "transfer",
+                    "date": "2024-08-09",
+                    "narration": "UPI/422256239507/P2M/q295782240@ybl/SANTOSH  AGRAW",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_108"
+                },
+                {
+                    "amount": -220.0,
+                    "balance": 3571.34,
+                    "category": "transfer",
+                    "date": "2024-08-09",
+                    "narration": "UPI/422244578882/P2M/paytmqr10p3ob@paytm/YOGESH MO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_109"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 571.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-09",
+                    "narration": "UPI/458802191671/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_110"
+                },
+                {
+                    "amount": -193.0,
+                    "balance": 378.34,
+                    "category": "transfer",
+                    "date": "2024-08-10",
+                    "narration": "UPI/422331069000/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_111"
+                },
+                {
+                    "amount": -10.0,
+                    "balance": 368.34,
+                    "category": "transfer",
+                    "date": "2024-08-11",
+                    "narration": "UPI/422417545427/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_112"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 318.34,
+                    "category": "transfer",
+                    "date": "2024-08-11",
+                    "narration": "UPI/422451195199/P2V/gauravk73135@okhdfcbank/GAURA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_113"
+                },
+                {
+                    "amount": -68.0,
+                    "balance": 250.34,
+                    "category": "transfer",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422558917361/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_114"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 20250.34,
+                    "category": "transfer_from_self",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422575778477/P2A/919756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_115"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 250.34,
+                    "category": "investment_debit",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422593785020/P2M/zerodha.broking@icici/ZERODHA",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_116"
+                },
+                {
+                    "amount": -115.0,
+                    "balance": 135.34,
+                    "category": "transfer",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422538138838/P2M/paytmqr5bidw3@paytm/DURGE DAI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_117"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 85.34,
+                    "category": "transfer",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422564123061/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_118"
+                },
+                {
+                    "amount": -15.0,
+                    "balance": 70.34,
+                    "category": "transfer",
+                    "date": "2024-08-12",
+                    "narration": "UPI/422579270194/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_119"
+                },
+                {
+                    "amount": -2.0,
+                    "balance": 68.34,
+                    "category": "transfer",
+                    "date": "2024-08-13",
+                    "narration": "UPI/422649836840/P2M/paytmqr14gk78@paytm/PANKAJ SI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_120"
+                },
+                {
+                    "amount": 13000.0,
+                    "balance": 13068.34,
+                    "category": "income_investment",
+                    "date": "2024-08-17",
+                    "narration": "IMPS-IN/423010040381/9986982020/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_121"
+                },
+                {
+                    "amount": 2000.0,
+                    "balance": 15068.34,
+                    "category": "transfer_from_self",
+                    "date": "2024-08-17",
+                    "narration": "UPI/423009542526/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_122"
+                },
+                {
+                    "amount": -15000.0,
+                    "balance": 68.34,
+                    "category": "transfer",
+                    "date": "2024-08-17",
+                    "narration": "UPI/423030879271/P2V/9410295995@axl/Faijan",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_123"
+                },
+                {
+                    "amount": 600.0,
+                    "balance": 668.34,
+                    "category": "transfer",
+                    "date": "2024-08-18",
+                    "narration": "UPI/423143154282/P2V/9536210893@ptsbi/BHUPENDRA SI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_124"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 373.34,
+                    "category": "bounce_charges",
+                    "date": "2024-08-22",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-22-08-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_125"
+                },
+                {
+                    "amount": 1.0,
+                    "balance": 374.34,
+                    "category": "transfer",
+                    "date": "2024-08-24",
+                    "narration": "IMPS-IN/423717360184/9867822800/INES",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_126"
+                },
+                {
+                    "amount": 20000.0,
+                    "balance": 20374.34,
+                    "category": "transfer_from_self",
+                    "date": "2024-08-26",
+                    "narration": "UPI/460589079081/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_127"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 374.34,
+                    "category": "investment_debit",
+                    "date": "2024-08-26",
+                    "narration": "UPI/423911017987/P2M/zerodhabroking@yesbank/Zerodh",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_128"
+                },
+                {
+                    "amount": 23540.0,
+                    "balance": 23914.34,
+                    "category": "reversal",
+                    "date": "2024-08-27",
+                    "narration": "NEFT ITDTAX REFUND 2024-25 BTIPJ8784N",
+                    "sub_category": "reversal",
+                    "txnid": "TXN_129"
+                },
+                {
+                    "amount": -23000.0,
+                    "balance": 914.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-27",
+                    "narration": "UPI/424021235665/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_130"
+                },
+                {
+                    "amount": -68.0,
+                    "balance": 846.34,
+                    "category": "transfer",
+                    "date": "2024-08-29",
+                    "narration": "UPI/460885050497/P2M/q686854530@ybl/MADHU AGARWAL",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_131"
+                },
+                {
+                    "amount": 20940.0,
+                    "balance": 21786.34,
+                    "category": "income_investment",
+                    "date": "2024-08-31",
+                    "narration": "IMPS-IN/424411049986/9986982020/ZERODHA",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_132"
+                },
+                {
+                    "amount": -21700.0,
+                    "balance": 86.34,
+                    "category": "transfer_to_self",
+                    "date": "2024-09-01",
+                    "narration": "UPI/424580197890/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_133"
+                },
+                {
+                    "amount": -49.0,
+                    "balance": 37.34,
+                    "category": "transfer",
+                    "date": "2024-09-01",
+                    "narration": "UPI/461190315845/P2M/cars24servicesp371063.rzp@rx/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_134"
+                },
+                {
+                    "amount": 49.0,
+                    "balance": 86.34,
+                    "category": "transfer",
+                    "date": "2024-09-02",
+                    "narration": "RCRADJ/461190315845/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_135"
+                },
+                {
+                    "amount": -86.34,
+                    "balance": 0.0,
+                    "category": "bounce_charges",
+                    "date": "2024-09-03",
+                    "narration": "ACH RTN-HDFC BANK LIMITED-03-09-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_136"
+                },
+                {
+                    "amount": 26.0,
+                    "balance": 26.0,
+                    "category": "income_interest",
+                    "date": "2024-09-13",
+                    "narration": "0382100100003541:Int.Pd:01-06-2024 to 31-08-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_137"
+                },
+                {
+                    "amount": -26.0,
+                    "balance": 0.0,
+                    "category": "bank_charges",
+                    "date": "2024-09-13",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_138"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 89100.0,
+                    "category": "salary",
+                    "date": "2024-09-17",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_139"
+                },
+                {
+                    "amount": -12776.48,
+                    "balance": 76323.52,
+                    "category": "credit_card_payment",
+                    "date": "2024-09-17",
+                    "narration": "UPI/426134056683/P2M/cred.club@axisb/CRED",
+                    "sub_category": "credit_card_payment",
+                    "txnid": "TXN_140"
+                },
+                {
+                    "amount": -27349.0,
+                    "balance": 48974.52,
+                    "category": "transfer",
+                    "date": "2024-09-17",
+                    "narration": "UPI/462763136926/P2M/upicolra135986557@hdfcbank/HD",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_141"
+                },
+                {
+                    "amount": -48000.0,
+                    "balance": 974.52,
+                    "category": "transfer_to_self",
+                    "date": "2024-09-17",
+                    "narration": "UPI/462711924617/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_142"
+                },
+                {
+                    "amount": -182.65,
+                    "balance": 496.87,
+                    "category": "bank_charges",
+                    "date": "2024-09-18",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_143"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 496.87,
+                    "category": "bank_charges",
+                    "date": "2024-09-18",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-09-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_144"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 201.87,
+                    "category": "bank_charges",
+                    "date": "2024-09-18",
+                    "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-12-09-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_145"
+                },
+                {
+                    "amount": 22000.0,
+                    "balance": 22201.87,
+                    "category": "transfer_from_self",
+                    "date": "2024-09-19",
+                    "narration": "UPI/426333738625/P2A/919756183126/POOJA  JADOUN",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_146"
+                },
+                {
+                    "amount": -22000.0,
+                    "balance": 201.87,
+                    "category": "investment_debit",
+                    "date": "2024-09-19",
+                    "narration": "UPI/426364305638/P2M/zerodha.broking@icici/ZERODHA",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_147"
+                },
+                {
+                    "amount": 21987.0,
+                    "balance": 22188.87,
+                    "category": "income_investment",
+                    "date": "2024-09-20",
+                    "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+                    "sub_category": "income_investment",
+                    "txnid": "TXN_148"
+                },
+                {
+                    "amount": -21000.0,
+                    "balance": 1188.87,
+                    "category": "investment_debit",
+                    "date": "2024-09-23",
+                    "narration": "UPI/426781767358/P2M/zerodha.broking@icici/ZERODHA",
+                    "sub_category": "investment_debit",
+                    "txnid": "TXN_149"
+                },
+                {
+                    "amount": -80.0,
+                    "balance": 1108.87,
+                    "category": "transfer",
+                    "date": "2024-09-23",
+                    "narration": "UPI/463361918297/P2M/bharatpe.90068632286@fbpe/AVN",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_150"
+                },
+                {
+                    "amount": -25.0,
+                    "balance": 1083.87,
+                    "category": "transfer",
+                    "date": "2024-09-26",
+                    "narration": "UPI/463618353003/P2M/ombk.aadq99930165l6nmh6rc@mb/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_151"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 788.87,
+                    "category": "bounce_charges",
+                    "date": "2024-10-07",
+                    "narration": "ACH RTN--07-10-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_152"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 493.87,
+                    "category": "bounce_charges",
+                    "date": "2024-10-12",
+                    "narration": "ACH RTN--11-10-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_153"
+                },
+                {
+                    "amount": -17.7,
+                    "balance": 476.17,
+                    "category": "bank_charges",
+                    "date": "2024-10-12",
+                    "narration": "SMS CHRG FOR:01-07-2024to30-09-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_154"
+                },
+                {
+                    "amount": -400.0,
+                    "balance": 76.17,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-26",
+                    "narration": "UPI/430011542745/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_155"
+                },
+                {
+                    "amount": 89100.0,
+                    "balance": 89176.17,
+                    "category": "salary",
+                    "date": "2024-10-28",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_156"
+                },
+                {
+                    "amount": -80000.0,
+                    "balance": 9176.17,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-28",
+                    "narration": "UPI/466811807269/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_157"
+                },
+                {
+                    "amount": -1200.0,
+                    "balance": 7976.17,
+                    "category": "transfer",
+                    "date": "2024-10-29",
+                    "narration": "UPI/466903034398/P2V/9873444517@ptsbi/ARP SECURITY",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_158"
+                },
+                {
+                    "amount": 90936.0,
+                    "balance": 98912.17,
+                    "category": "salary",
+                    "date": "2024-10-30",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_159"
+                },
+                {
+                    "amount": -90000.0,
+                    "balance": 8912.17,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-30",
+                    "narration": "UPI/467025532518/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_160"
+                },
+                {
+                    "amount": -177.0,
+                    "balance": 8735.17,
+                    "category": "bank_charges",
+                    "date": "2024-11-03",
+                    "narration": "ATM ANN.CHRG FOR CARD-4367 YEAR ENDED 2024-25",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_161"
+                },
+                {
+                    "amount": 30000.0,
+                    "balance": 38735.17,
+                    "category": "transfer_from_self",
+                    "date": "2024-11-06",
+                    "narration": "UPI/431128620775/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_162"
+                },
+                {
+                    "amount": -27349.0,
+                    "balance": 11386.17,
+                    "category": "transfer",
+                    "date": "2024-11-07",
+                    "narration": "ACH/HDFC BANK LIMITED/80222",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_163"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 1386.17,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-08",
+                    "narration": "UPI/467904603950/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_164"
+                },
+                {
+                    "amount": -65.0,
+                    "balance": 1321.17,
+                    "category": "transfer",
+                    "date": "2024-11-09",
+                    "narration": "UPI/468010039812/P2M/paytmqr5zrnw9@ptys/YOGESH MOO",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_165"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 1026.17,
+                    "category": "bounce_charges",
+                    "date": "2024-11-27",
+                    "narration": "ACH RTN--27-11-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_166"
+                },
+                {
+                    "amount": 17.0,
+                    "balance": 1043.17,
+                    "category": "income_interest",
+                    "date": "2024-12-05",
+                    "narration": "0382100100003541:Int.Pd:01-09-2024 to 30-11-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_167"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 748.17,
+                    "category": "bounce_charges",
+                    "date": "2024-12-07",
+                    "narration": "ACH RTN--07-12-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_168"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 453.17,
+                    "category": "bounce_charges",
+                    "date": "2024-12-12",
+                    "narration": "ACH RTN--12-12-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_169"
+                },
+                {
+                    "amount": 90936.0,
+                    "balance": 91389.17,
+                    "category": "salary",
+                    "date": "2024-12-13",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_170"
+                },
+                {
+                    "amount": -90000.0,
+                    "balance": 1389.17,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-13",
+                    "narration": "UPI/434813378088/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_171"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 1094.17,
+                    "category": "bounce_charges",
+                    "date": "2024-12-25",
+                    "narration": "ACH RTN--25-12-2024",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_172"
+                },
+                {
+                    "amount": 1512.0,
+                    "balance": 2606.17,
+                    "category": "transfer",
+                    "date": "2024-12-30",
+                    "narration": "DUTY  REMU 2022",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_173"
+                },
+                {
+                    "amount": -2500.0,
+                    "balance": 106.17,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-02",
+                    "narration": "UPI/500216941258/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_174"
+                },
+                {
+                    "amount": 3000.0,
+                    "balance": 3106.17,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-04",
+                    "narration": "UPI/500423294328/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_175"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 2811.17,
+                    "category": "bounce_charges",
+                    "date": "2025-01-07",
+                    "narration": "ACH RTN--07-01-2025",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_176"
+                },
+                {
+                    "amount": -295.0,
+                    "balance": 2516.17,
+                    "category": "bounce_charges",
+                    "date": "2025-01-11",
+                    "narration": "ACH RTN--10-01-2025",
+                    "sub_category": "bounce_charges",
+                    "txnid": "TXN_177"
+                },
+                {
+                    "amount": -210.0,
+                    "balance": 2306.17,
+                    "category": "transfer",
+                    "date": "2025-01-11",
+                    "narration": "UPI/501123251019/P2M/9837213702@indianbk/GIRRAJ  A",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_178"
+                },
+                {
+                    "amount": -5.9,
+                    "balance": 2300.27,
+                    "category": "bank_charges",
+                    "date": "2025-01-12",
+                    "narration": "SMS CHRG FOR:01-10-2024to31-12-2024",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_179"
+                },
+                {
+                    "amount": 90936.0,
+                    "balance": 93236.27,
+                    "category": "salary",
+                    "date": "2025-01-24",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_180"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 43236.27,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-25",
+                    "narration": "UPI/502519940161/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_181"
+                },
+                {
+                    "amount": -12000.0,
+                    "balance": 31236.27,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-27",
+                    "narration": "UPI/502714251686/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_182"
+                },
+                {
+                    "amount": -1101.0,
+                    "balance": 30135.27,
+                    "category": "transfer",
+                    "date": "2025-01-28",
+                    "narration": "UPI/502820478284/P2M/paytm-17731298@ptybl/Meesho",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_183"
+                },
+                {
+                    "amount": -900.86,
+                    "balance": 29234.41,
+                    "category": "transfer",
+                    "date": "2025-01-31",
+                    "narration": "UPI/503121887400/P2M/burgerking431187.rzp@rxairte/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_184"
+                },
+                {
+                    "amount": -1103.0,
+                    "balance": 28131.41,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/503231966911/P2M/zudioaunitoftrentlim.4265685/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_185"
+                },
+                {
+                    "amount": -240.0,
+                    "balance": 27891.41,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI/503231980777/P2M/paytmqrsrouaz8d2b@paytm/DHIRE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_186"
+                },
+                {
+                    "amount": -179.0,
+                    "balance": 27712.41,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI/503319093972/P2V/9870877499-2@ybl/Sachin  Kuma",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_187"
+                },
+                {
+                    "amount": 93513.0,
+                    "balance": 121225.41,
+                    "category": "salary",
+                    "date": "2025-02-03",
+                    "narration": "NEFT FIROZABAD TREASURY",
+                    "sub_category": "salary",
+                    "txnid": "TXN_188"
+                },
+                {
+                    "amount": -90000.0,
+                    "balance": 31225.41,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-05",
+                    "narration": "UPI/503611448813/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_189"
+                },
+                {
+                    "amount": -19.0,
+                    "balance": 31206.41,
+                    "category": "utility_others",
+                    "date": "2025-02-05",
+                    "narration": "UPI/503609508440/P2M/paybil3066@ptybl/Jio",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_190"
+                },
+                {
+                    "amount": 1101.0,
+                    "balance": 32307.41,
+                    "category": "transfer",
+                    "date": "2025-02-06",
+                    "narration": "UPI/503717459876/P2A/918105236065/Meesho",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_191"
+                },
+                {
+                    "amount": -27349.0,
+                    "balance": 4958.41,
+                    "category": "transfer",
+                    "date": "2025-02-07",
+                    "narration": "ACH/HDFC BANK LIMITED/41355",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_192"
+                },
+                {
+                    "amount": -116.0,
+                    "balance": 4842.41,
+                    "category": "transfer",
+                    "date": "2025-02-13",
+                    "narration": "ACH/HDFC BANK LIMITED/44759",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_193"
+                },
+                {
+                    "amount": 28000.0,
+                    "balance": 32842.41,
+                    "category": "transfer_from_self",
+                    "date": "2025-02-28",
+                    "narration": "UPI/505980976409/P2V/9756183126@ptyes/POOJA  JADOU",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_194"
+                }
+            ]
+        }
+    ],
+    "bouncedOrPenalXns": [
+        {
+            "amount": -1.77,
+            "balance": 574.71,
+            "category": "BANK_CHARGES",
+            "date": "2024-04-07",
+            "narration": "SMS CHRG FOR:01-01-2024to31-03-2024",
+            "txnid": "TXN_0"
+        },
+        {
+            "amount": -295.0,
+            "balance": 279.71,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-04-12",
+            "narration": "ACH RTN-HDFC BANK LIMITED-13-04-2024",
+            "txnid": "TXN_1"
+        },
+        {
+            "amount": -295.0,
+            "balance": 5482.08,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-04-22",
+            "narration": "ACH RTN-HDFC BANK LIMITED-22-04-2024",
+            "txnid": "TXN_8"
+        },
+        {
+            "amount": -295.0,
+            "balance": 3011.08,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-05-07",
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-05-2024",
+            "txnid": "TXN_20"
+        },
+        {
+            "amount": -5.08,
+            "balance": 0.0,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-05-24",
+            "narration": "ACH RTN-HDFC BANK LIMITED-24-05-2024",
+            "txnid": "TXN_36"
+        },
+        {
+            "amount": -289.93,
+            "balance": 310.07,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-06-02",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-24-05-2024",
+            "txnid": "TXN_39"
+        },
+        {
+            "amount": -295.0,
+            "balance": 88815.07,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-06-07",
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-06-2024",
+            "txnid": "TXN_42"
+        },
+        {
+            "amount": -295.0,
+            "balance": 5191.07,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-06-13",
+            "narration": "ACH RTN-HDFC BANK LIMITED-13-06-2024",
+            "txnid": "TXN_46"
+        },
+        {
+            "amount": -5.9,
+            "balance": 13366.17,
+            "category": "BANK_CHARGES",
+            "date": "2024-06-20",
+            "narration": "IMPS-CHG/417213709536/9211000/9756183126",
+            "txnid": "TXN_51"
+        },
+        {
+            "amount": -295.0,
+            "balance": 71.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-06-26",
+            "narration": "ACH RTN-HDFC BANK LIMITED-26-06-2024",
+            "txnid": "TXN_55"
+        },
+        {
+            "amount": -295.0,
+            "balance": 76.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-07-02",
+            "narration": "ACH RTN-HDFC BANK LIMITED-02-07-2024",
+            "txnid": "TXN_58"
+        },
+        {
+            "amount": -295.0,
+            "balance": 403.38,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-07-11",
+            "narration": "ACH RTN-HDFC BANK LIMITED-11-07-2024",
+            "txnid": "TXN_68"
+        },
+        {
+            "amount": -15.04,
+            "balance": 718.34,
+            "category": "BANK_CHARGES",
+            "date": "2024-07-14",
+            "narration": "SMS CHRG FOR:01-04-2024to30-06-2024",
+            "txnid": "TXN_79"
+        },
+        {
+            "amount": -286.34,
+            "balance": 0.0,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-08-07",
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-08-2024",
+            "txnid": "TXN_105"
+        },
+        {
+            "amount": -8.66,
+            "balance": 3991.34,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-08-09",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-08-2024",
+            "txnid": "TXN_107"
+        },
+        {
+            "amount": -295.0,
+            "balance": 373.34,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-08-22",
+            "narration": "ACH RTN-HDFC BANK LIMITED-22-08-2024",
+            "txnid": "TXN_125"
+        },
+        {
+            "amount": -86.34,
+            "balance": 0.0,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-09-03",
+            "narration": "ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "TXN_136"
+        },
+        {
+            "amount": -26.0,
+            "balance": 0.0,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-09-13",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "TXN_138"
+        },
+        {
+            "amount": -182.65,
+            "balance": 496.87,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-09-18",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "TXN_143"
+        },
+        {
+            "amount": -295.0,
+            "balance": 496.87,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-09-18",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-09-2024",
+            "txnid": "TXN_144"
+        },
+        {
+            "amount": -295.0,
+            "balance": 201.87,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-09-18",
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-12-09-2024",
+            "txnid": "TXN_145"
+        },
+        {
+            "amount": -295.0,
+            "balance": 788.87,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-10-07",
+            "narration": "ACH RTN--07-10-2024",
+            "txnid": "TXN_152"
+        },
+        {
+            "amount": -295.0,
+            "balance": 493.87,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-10-12",
+            "narration": "ACH RTN--11-10-2024",
+            "txnid": "TXN_153"
+        },
+        {
+            "amount": -17.7,
+            "balance": 476.17,
+            "category": "BANK_CHARGES",
+            "date": "2024-10-12",
+            "narration": "SMS CHRG FOR:01-07-2024to30-09-2024",
+            "txnid": "TXN_154"
+        },
+        {
+            "amount": -177.0,
+            "balance": 8735.17,
+            "category": "BANK_CHARGES",
+            "date": "2024-11-03",
+            "narration": "ATM ANN.CHRG FOR CARD-4367 YEAR ENDED 2024-25",
+            "txnid": "TXN_161"
+        },
+        {
+            "amount": -295.0,
+            "balance": 1026.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-11-27",
+            "narration": "ACH RTN--27-11-2024",
+            "txnid": "TXN_166"
+        },
+        {
+            "amount": -295.0,
+            "balance": 748.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-12-07",
+            "narration": "ACH RTN--07-12-2024",
+            "txnid": "TXN_168"
+        },
+        {
+            "amount": -295.0,
+            "balance": 453.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-12-12",
+            "narration": "ACH RTN--12-12-2024",
+            "txnid": "TXN_169"
+        },
+        {
+            "amount": -295.0,
+            "balance": 1094.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2024-12-25",
+            "narration": "ACH RTN--25-12-2024",
+            "txnid": "TXN_172"
+        },
+        {
+            "amount": -295.0,
+            "balance": 2811.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2025-01-07",
+            "narration": "ACH RTN--07-01-2025",
+            "txnid": "TXN_176"
+        },
+        {
+            "amount": -295.0,
+            "balance": 2516.17,
+            "category": "BOUNCED_IW_ECS_CHARGES",
+            "date": "2025-01-11",
+            "narration": "ACH RTN--10-01-2025",
+            "txnid": "TXN_177"
+        },
+        {
+            "amount": -5.9,
+            "balance": 2300.27,
+            "category": "BANK_CHARGES",
+            "date": "2025-01-12",
+            "narration": "SMS CHRG FOR:01-10-2024to31-12-2024",
+            "txnid": "TXN_179"
+        }
+    ],
+    "customerInfo": {
+        "accountRef": "20c75055-7126-449c-a381-8f349620db74",
+        "address": "D/O KRISHNA PAL SINGH JADOUN AYODHYA NAGAR RAMBAGH AGRA, UTTAR PRADESH, 282006  AGRA 282006 UP IN",
+        "bank": "Punjab National Bank",
+        "ckycCompliance": "true",
+        "consent_id": "0deca255-623c-4816-878f-1c70e2c8ccd4",
+        "custId": "9756183126@finvu",
+        "dob": "1997-09-03",
+        "email": "poojadoun03sep@gmail.com",
+        "fip_id": "PNB-FIP",
+        "landline": "NA",
+        "marital_status": "NA",
+        "mobile": "9756183126",
+        "name": "POOJA JADOUN",
+        "pan": "BTIPJ8784N",
+        "session_id": "6fd900c2-4ffe-4f3f-9ee7-2e37da352eae"
+    },
+    "eMIECSLOANXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "eODBalances": [
+        {
+            "balance": 574.71,
+            "date": "2024-04-07"
+        },
+        {
+            "balance": 574.71,
+            "date": "2024-04-08"
+        },
+        {
+            "balance": 574.71,
+            "date": "2024-04-09"
+        },
+        {
+            "balance": 574.71,
+            "date": "2024-04-10"
+        },
+        {
+            "balance": 574.71,
+            "date": "2024-04-11"
+        },
+        {
+            "balance": 279.71,
+            "date": "2024-04-12"
+        },
+        {
+            "balance": 279.71,
+            "date": "2024-04-13"
+        },
+        {
+            "balance": 279.71,
+            "date": "2024-04-14"
+        },
+        {
+            "balance": 9379.71,
+            "date": "2024-04-15"
+        },
+        {
+            "balance": 8917.58,
+            "date": "2024-04-16"
+        },
+        {
+            "balance": 5977.58,
+            "date": "2024-04-17"
+        },
+        {
+            "balance": 5777.08,
+            "date": "2024-04-18"
+        },
+        {
+            "balance": 5777.08,
+            "date": "2024-04-19"
+        },
+        {
+            "balance": 5777.08,
+            "date": "2024-04-20"
+        },
+        {
+            "balance": 5777.08,
+            "date": "2024-04-21"
+        },
+        {
+            "balance": 5482.08,
+            "date": "2024-04-22"
+        },
+        {
+            "balance": 5482.08,
+            "date": "2024-04-23"
+        },
+        {
+            "balance": 5482.08,
+            "date": "2024-04-24"
+        },
+        {
+            "balance": 5482.08,
+            "date": "2024-04-25"
+        },
+        {
+            "balance": 5482.08,
+            "date": "2024-04-26"
+        },
+        {
+            "balance": 5397.08,
+            "date": "2024-04-27"
+        },
+        {
+            "balance": 5397.08,
+            "date": "2024-04-28"
+        },
+        {
+            "balance": 5647.08,
+            "date": "2024-04-29"
+        },
+        {
+            "balance": 3647.08,
+            "date": "2024-04-30"
+        },
+        {
+            "balance": 3647.08,
+            "date": "2024-05-01"
+        },
+        {
+            "balance": 3587.08,
+            "date": "2024-05-02"
+        },
+        {
+            "balance": 3587.08,
+            "date": "2024-05-03"
+        },
+        {
+            "balance": 3459.08,
+            "date": "2024-05-04"
+        },
+        {
+            "balance": 3366.08,
+            "date": "2024-05-05"
+        },
+        {
+            "balance": 3306.08,
+            "date": "2024-05-06"
+        },
+        {
+            "balance": 3011.08,
+            "date": "2024-05-07"
+        },
+        {
+            "balance": 1771.08,
+            "date": "2024-05-08"
+        },
+        {
+            "balance": 2671.08,
+            "date": "2024-05-09"
+        },
+        {
+            "balance": 2671.08,
+            "date": "2024-05-10"
+        },
+        {
+            "balance": 2671.08,
+            "date": "2024-05-11"
+        },
+        {
+            "balance": 2671.08,
+            "date": "2024-05-12"
+        },
+        {
+            "balance": 22.08,
+            "date": "2024-05-13"
+        },
+        {
+            "balance": 22.08,
+            "date": "2024-05-14"
+        },
+        {
+            "balance": 22.08,
+            "date": "2024-05-15"
+        },
+        {
+            "balance": 1805.08,
+            "date": "2024-05-16"
+        },
+        {
+            "balance": 90905.08,
+            "date": "2024-05-17"
+        },
+        {
+            "balance": 2905.08,
+            "date": "2024-05-18"
+        },
+        {
+            "balance": 2905.08,
+            "date": "2024-05-19"
+        },
+        {
+            "balance": 2905.08,
+            "date": "2024-05-20"
+        },
+        {
+            "balance": 5.08,
+            "date": "2024-05-21"
+        },
+        {
+            "balance": 5.08,
+            "date": "2024-05-22"
+        },
+        {
+            "balance": 5.08,
+            "date": "2024-05-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-29"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-30"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-05-31"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-06-01"
+        },
+        {
+            "balance": 310.07,
+            "date": "2024-06-02"
+        },
+        {
+            "balance": 310.07,
+            "date": "2024-06-03"
+        },
+        {
+            "balance": 310.07,
+            "date": "2024-06-04"
+        },
+        {
+            "balance": 10.07,
+            "date": "2024-06-05"
+        },
+        {
+            "balance": 10.07,
+            "date": "2024-06-06"
+        },
+        {
+            "balance": 88815.07,
+            "date": "2024-06-07"
+        },
+        {
+            "balance": 5466.07,
+            "date": "2024-06-08"
+        },
+        {
+            "balance": 5486.07,
+            "date": "2024-06-09"
+        },
+        {
+            "balance": 5486.07,
+            "date": "2024-06-10"
+        },
+        {
+            "balance": 5486.07,
+            "date": "2024-06-11"
+        },
+        {
+            "balance": 5486.07,
+            "date": "2024-06-12"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-13"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-14"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-15"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-16"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-17"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-18"
+        },
+        {
+            "balance": 5191.07,
+            "date": "2024-06-19"
+        },
+        {
+            "balance": 13366.17,
+            "date": "2024-06-20"
+        },
+        {
+            "balance": 366.17,
+            "date": "2024-06-21"
+        },
+        {
+            "balance": 366.17,
+            "date": "2024-06-22"
+        },
+        {
+            "balance": 366.17,
+            "date": "2024-06-23"
+        },
+        {
+            "balance": 366.17,
+            "date": "2024-06-24"
+        },
+        {
+            "balance": 366.17,
+            "date": "2024-06-25"
+        },
+        {
+            "balance": 71.17,
+            "date": "2024-06-26"
+        },
+        {
+            "balance": 371.17,
+            "date": "2024-06-27"
+        },
+        {
+            "balance": 371.17,
+            "date": "2024-06-28"
+        },
+        {
+            "balance": 371.17,
+            "date": "2024-06-29"
+        },
+        {
+            "balance": 371.17,
+            "date": "2024-06-30"
+        },
+        {
+            "balance": 371.17,
+            "date": "2024-07-01"
+        },
+        {
+            "balance": 76.17,
+            "date": "2024-07-02"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-03"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-04"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-05"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-06"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-07"
+        },
+        {
+            "balance": 82.61,
+            "date": "2024-07-08"
+        },
+        {
+            "balance": 83852.61,
+            "date": "2024-07-09"
+        },
+        {
+            "balance": 698.38,
+            "date": "2024-07-10"
+        },
+        {
+            "balance": 403.38,
+            "date": "2024-07-11"
+        },
+        {
+            "balance": 83.38,
+            "date": "2024-07-12"
+        },
+        {
+            "balance": 733.38,
+            "date": "2024-07-13"
+        },
+        {
+            "balance": 318.34,
+            "date": "2024-07-14"
+        },
+        {
+            "balance": 113.34,
+            "date": "2024-07-15"
+        },
+        {
+            "balance": 113.34,
+            "date": "2024-07-16"
+        },
+        {
+            "balance": 113.34,
+            "date": "2024-07-17"
+        },
+        {
+            "balance": 30113.34,
+            "date": "2024-07-18"
+        },
+        {
+            "balance": 2113.34,
+            "date": "2024-07-19"
+        },
+        {
+            "balance": 2113.34,
+            "date": "2024-07-20"
+        },
+        {
+            "balance": 2113.34,
+            "date": "2024-07-21"
+        },
+        {
+            "balance": 2113.34,
+            "date": "2024-07-22"
+        },
+        {
+            "balance": 2113.34,
+            "date": "2024-07-23"
+        },
+        {
+            "balance": 10113.34,
+            "date": "2024-07-24"
+        },
+        {
+            "balance": 5113.34,
+            "date": "2024-07-25"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-26"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-27"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-28"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-29"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-30"
+        },
+        {
+            "balance": 13.34,
+            "date": "2024-07-31"
+        },
+        {
+            "balance": 8936.34,
+            "date": "2024-08-01"
+        },
+        {
+            "balance": 8936.34,
+            "date": "2024-08-02"
+        },
+        {
+            "balance": 8286.34,
+            "date": "2024-08-03"
+        },
+        {
+            "balance": 8286.34,
+            "date": "2024-08-04"
+        },
+        {
+            "balance": 286.34,
+            "date": "2024-08-05"
+        },
+        {
+            "balance": 286.34,
+            "date": "2024-08-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-08-07"
+        },
+        {
+            "balance": 4000.0,
+            "date": "2024-08-08"
+        },
+        {
+            "balance": 571.34,
+            "date": "2024-08-09"
+        },
+        {
+            "balance": 378.34,
+            "date": "2024-08-10"
+        },
+        {
+            "balance": 318.34,
+            "date": "2024-08-11"
+        },
+        {
+            "balance": 70.34,
+            "date": "2024-08-12"
+        },
+        {
+            "balance": 68.34,
+            "date": "2024-08-13"
+        },
+        {
+            "balance": 68.34,
+            "date": "2024-08-14"
+        },
+        {
+            "balance": 68.34,
+            "date": "2024-08-15"
+        },
+        {
+            "balance": 68.34,
+            "date": "2024-08-16"
+        },
+        {
+            "balance": 68.34,
+            "date": "2024-08-17"
+        },
+        {
+            "balance": 668.34,
+            "date": "2024-08-18"
+        },
+        {
+            "balance": 668.34,
+            "date": "2024-08-19"
+        },
+        {
+            "balance": 668.34,
+            "date": "2024-08-20"
+        },
+        {
+            "balance": 668.34,
+            "date": "2024-08-21"
+        },
+        {
+            "balance": 373.34,
+            "date": "2024-08-22"
+        },
+        {
+            "balance": 373.34,
+            "date": "2024-08-23"
+        },
+        {
+            "balance": 374.34,
+            "date": "2024-08-24"
+        },
+        {
+            "balance": 374.34,
+            "date": "2024-08-25"
+        },
+        {
+            "balance": 374.34,
+            "date": "2024-08-26"
+        },
+        {
+            "balance": 914.34,
+            "date": "2024-08-27"
+        },
+        {
+            "balance": 914.34,
+            "date": "2024-08-28"
+        },
+        {
+            "balance": 846.34,
+            "date": "2024-08-29"
+        },
+        {
+            "balance": 846.34,
+            "date": "2024-08-30"
+        },
+        {
+            "balance": 21786.34,
+            "date": "2024-08-31"
+        },
+        {
+            "balance": 37.34,
+            "date": "2024-09-01"
+        },
+        {
+            "balance": 86.34,
+            "date": "2024-09-02"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-03"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-16"
+        },
+        {
+            "balance": 974.52,
+            "date": "2024-09-17"
+        },
+        {
+            "balance": 201.87,
+            "date": "2024-09-18"
+        },
+        {
+            "balance": 201.87,
+            "date": "2024-09-19"
+        },
+        {
+            "balance": 22188.87,
+            "date": "2024-09-20"
+        },
+        {
+            "balance": 22188.87,
+            "date": "2024-09-21"
+        },
+        {
+            "balance": 22188.87,
+            "date": "2024-09-22"
+        },
+        {
+            "balance": 1108.87,
+            "date": "2024-09-23"
+        },
+        {
+            "balance": 1108.87,
+            "date": "2024-09-24"
+        },
+        {
+            "balance": 1108.87,
+            "date": "2024-09-25"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-09-26"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-09-27"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-09-28"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-09-29"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-09-30"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-01"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-02"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-03"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-04"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-05"
+        },
+        {
+            "balance": 1083.87,
+            "date": "2024-10-06"
+        },
+        {
+            "balance": 788.87,
+            "date": "2024-10-07"
+        },
+        {
+            "balance": 788.87,
+            "date": "2024-10-08"
+        },
+        {
+            "balance": 788.87,
+            "date": "2024-10-09"
+        },
+        {
+            "balance": 788.87,
+            "date": "2024-10-10"
+        },
+        {
+            "balance": 788.87,
+            "date": "2024-10-11"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-12"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-13"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-14"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-15"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-16"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-17"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-18"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-19"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-20"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-21"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-22"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-23"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-24"
+        },
+        {
+            "balance": 476.17,
+            "date": "2024-10-25"
+        },
+        {
+            "balance": 76.17,
+            "date": "2024-10-26"
+        },
+        {
+            "balance": 76.17,
+            "date": "2024-10-27"
+        },
+        {
+            "balance": 9176.17,
+            "date": "2024-10-28"
+        },
+        {
+            "balance": 7976.17,
+            "date": "2024-10-29"
+        },
+        {
+            "balance": 8912.17,
+            "date": "2024-10-30"
+        },
+        {
+            "balance": 8912.17,
+            "date": "2024-10-31"
+        },
+        {
+            "balance": 8912.17,
+            "date": "2024-11-01"
+        },
+        {
+            "balance": 8912.17,
+            "date": "2024-11-02"
+        },
+        {
+            "balance": 8735.17,
+            "date": "2024-11-03"
+        },
+        {
+            "balance": 8735.17,
+            "date": "2024-11-04"
+        },
+        {
+            "balance": 8735.17,
+            "date": "2024-11-05"
+        },
+        {
+            "balance": 38735.17,
+            "date": "2024-11-06"
+        },
+        {
+            "balance": 11386.17,
+            "date": "2024-11-07"
+        },
+        {
+            "balance": 1386.17,
+            "date": "2024-11-08"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-09"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-10"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-11"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-12"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-13"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-14"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-15"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-16"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-17"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-18"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-19"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-20"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-21"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-22"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-23"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-24"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-25"
+        },
+        {
+            "balance": 1321.17,
+            "date": "2024-11-26"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-11-27"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-11-28"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-11-29"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-11-30"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-12-01"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-12-02"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-12-03"
+        },
+        {
+            "balance": 1026.17,
+            "date": "2024-12-04"
+        },
+        {
+            "balance": 1043.17,
+            "date": "2024-12-05"
+        },
+        {
+            "balance": 1043.17,
+            "date": "2024-12-06"
+        },
+        {
+            "balance": 748.17,
+            "date": "2024-12-07"
+        },
+        {
+            "balance": 748.17,
+            "date": "2024-12-08"
+        },
+        {
+            "balance": 748.17,
+            "date": "2024-12-09"
+        },
+        {
+            "balance": 748.17,
+            "date": "2024-12-10"
+        },
+        {
+            "balance": 748.17,
+            "date": "2024-12-11"
+        },
+        {
+            "balance": 453.17,
+            "date": "2024-12-12"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-13"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-14"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-15"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-16"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-17"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-18"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-19"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-20"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-21"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-22"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-23"
+        },
+        {
+            "balance": 1389.17,
+            "date": "2024-12-24"
+        },
+        {
+            "balance": 1094.17,
+            "date": "2024-12-25"
+        },
+        {
+            "balance": 1094.17,
+            "date": "2024-12-26"
+        },
+        {
+            "balance": 1094.17,
+            "date": "2024-12-27"
+        },
+        {
+            "balance": 1094.17,
+            "date": "2024-12-28"
+        },
+        {
+            "balance": 1094.17,
+            "date": "2024-12-29"
+        },
+        {
+            "balance": 2606.17,
+            "date": "2024-12-30"
+        },
+        {
+            "balance": 2606.17,
+            "date": "2024-12-31"
+        },
+        {
+            "balance": 2606.17,
+            "date": "2025-01-01"
+        },
+        {
+            "balance": 106.17,
+            "date": "2025-01-02"
+        },
+        {
+            "balance": 106.17,
+            "date": "2025-01-03"
+        },
+        {
+            "balance": 3106.17,
+            "date": "2025-01-04"
+        },
+        {
+            "balance": 3106.17,
+            "date": "2025-01-05"
+        },
+        {
+            "balance": 3106.17,
+            "date": "2025-01-06"
+        },
+        {
+            "balance": 2811.17,
+            "date": "2025-01-07"
+        },
+        {
+            "balance": 2811.17,
+            "date": "2025-01-08"
+        },
+        {
+            "balance": 2811.17,
+            "date": "2025-01-09"
+        },
+        {
+            "balance": 2811.17,
+            "date": "2025-01-10"
+        },
+        {
+            "balance": 2306.17,
+            "date": "2025-01-11"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-12"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-13"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-14"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-15"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-16"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-17"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-18"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-19"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-20"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-21"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-22"
+        },
+        {
+            "balance": 2300.27,
+            "date": "2025-01-23"
+        },
+        {
+            "balance": 93236.27,
+            "date": "2025-01-24"
+        },
+        {
+            "balance": 43236.27,
+            "date": "2025-01-25"
+        },
+        {
+            "balance": 43236.27,
+            "date": "2025-01-26"
+        },
+        {
+            "balance": 31236.27,
+            "date": "2025-01-27"
+        },
+        {
+            "balance": 30135.27,
+            "date": "2025-01-28"
+        },
+        {
+            "balance": 30135.27,
+            "date": "2025-01-29"
+        },
+        {
+            "balance": 30135.27,
+            "date": "2025-01-30"
+        },
+        {
+            "balance": 29234.41,
+            "date": "2025-01-31"
+        },
+        {
+            "balance": 27891.41,
+            "date": "2025-02-01"
+        },
+        {
+            "balance": 27712.41,
+            "date": "2025-02-02"
+        },
+        {
+            "balance": 121225.41,
+            "date": "2025-02-03"
+        },
+        {
+            "balance": 121225.41,
+            "date": "2025-02-04"
+        },
+        {
+            "balance": 31206.41,
+            "date": "2025-02-05"
+        },
+        {
+            "balance": 32307.41,
+            "date": "2025-02-06"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-07"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-08"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-09"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-10"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-11"
+        },
+        {
+            "balance": 4958.41,
+            "date": "2025-02-12"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-13"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-14"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-15"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-16"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-17"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-18"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-19"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-20"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-21"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-22"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-23"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-24"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-25"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-26"
+        },
+        {
+            "balance": 4842.41,
+            "date": "2025-02-27"
+        },
+        {
+            "balance": 32842.41,
+            "date": "2025-02-28"
+        }
+    ],
+    "fCUAnalysis": {
+        "behaviouralTransactionalIndicators": {
+            "bigDebitAfterSalaryXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "discontinuityInCredits": {
+                "status": "false"
+            },
+            "equalCreditDebitXns": {
+                "status": "false"
+            },
+            "highCashDepositXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularInterestDebitXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularSalaryCreditXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "irregularTransferToPartiesXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "negativeEODBalanceXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "partiesInCreditsAndDebits": {
+                "partyName": "NA"
+            },
+            "salaryAmountNotVaryingXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "taxPaymentXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            }
+        },
+        "possibleFraudIndicators": {
+            "amountBalanceMismatchXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "lowAccountVintage": {
+                "status": "false"
+            },
+            "salaryOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "suspiciousATMXns": [],
+            "suspiciousRTGSXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "transactionOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ]
+        }
+    },
+    "highValueCreditXns": [
+        {
+            "amount": 89100.0,
+            "balance": 89379.71,
+            "category": "salary",
+            "date": "2024-04-15",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "13373605"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 90905.08,
+            "category": "salary",
+            "date": "2024-05-17",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "78614542"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89110.07,
+            "category": "salary",
+            "date": "2024-06-07",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "48980162"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89122.61,
+            "category": "salary",
+            "date": "2024-07-09",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "66057743"
+        },
+        {
+            "amount": 88923.0,
+            "balance": 88936.34,
+            "category": "salary",
+            "date": "2024-08-01",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "39515546"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89100.0,
+            "category": "salary",
+            "date": "2024-09-17",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "44423574"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89176.17,
+            "category": "salary",
+            "date": "2024-10-28",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "95088332"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 98912.17,
+            "category": "salary",
+            "date": "2024-10-30",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "74847687"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 91389.17,
+            "category": "salary",
+            "date": "2024-12-13",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "26241582"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 93236.27,
+            "category": "salary",
+            "date": "2025-01-24",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "58461074"
+        },
+        {
+            "amount": 93513.0,
+            "balance": 121225.41,
+            "category": "salary",
+            "date": "2025-02-03",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "50299767"
+        }
+    ],
+    "highValueDebitXns": [
+        {
+            "amount": -80000.0,
+            "balance": 9379.71,
+            "category": "transfer",
+            "date": "2024-04-15",
+            "narration": "UPI/410631046030/P2A/00000031408517028@SBIN001865/",
+            "txnid": "17893782"
+        },
+        {
+            "amount": -27349.0,
+            "balance": 2322.08,
+            "category": "transfer",
+            "date": "2024-05-13",
+            "narration": "UPI/413415529287/P2M/upicolra135986557@hdfcbank/HD",
+            "txnid": "80840763"
+        },
+        {
+            "amount": -80000.0,
+            "balance": 2905.08,
+            "category": "transfer",
+            "date": "2024-05-18",
+            "narration": "UPI/450501459667/P2A/918010021023490@UTIB0003333./",
+            "txnid": "87115999"
+        },
+        {
+            "amount": -60000.0,
+            "balance": 5466.07,
+            "category": "transfer",
+            "date": "2024-06-08",
+            "narration": "UPI/416022621619/P2A/919756183126   9180100210/349",
+            "txnid": "81546007"
+        },
+        {
+            "amount": -23349.0,
+            "balance": 65466.07,
+            "category": "transfer",
+            "date": "2024-06-08",
+            "narration": "UPI/416022039084/P2M/919756183126   upicolra13/986",
+            "txnid": "80919586"
+        },
+        {
+            "amount": -50000.0,
+            "balance": 717.38,
+            "category": "transfer",
+            "date": "2024-07-10",
+            "narration": "UPI/492425542425/P2A/919756183126   9180100210/349",
+            "txnid": "7277641"
+        },
+        {
+            "amount": -43000.0,
+            "balance": 2083.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "narration": "UPI/419505999869/P2A/919756183126   9180100210/349",
+            "txnid": "18205175"
+        },
+        {
+            "amount": -40000.0,
+            "balance": 318.34,
+            "category": "investment_debit",
+            "date": "2024-07-15",
+            "narration": "UPI/419779835533/P2M/919756183126   zerodhabro/ing",
+            "txnid": "99711197"
+        },
+        {
+            "amount": -28000.0,
+            "balance": 2113.34,
+            "category": "transfer",
+            "date": "2024-07-19",
+            "narration": "UPI/420104052300/P2A/918010021023490@UTIB0003333./",
+            "txnid": "73528488"
+        },
+        {
+            "amount": -27349.0,
+            "balance": 48974.52,
+            "category": "transfer",
+            "date": "2024-09-17",
+            "narration": "UPI/462763136926/P2M/upicolra135986557@hdfcbank/HD",
+            "txnid": "53703094"
+        },
+        {
+            "amount": -22000.0,
+            "balance": 201.87,
+            "category": "investment_debit",
+            "date": "2024-09-19",
+            "narration": "UPI/426364305638/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "5836808"
+        },
+        {
+            "amount": -21000.0,
+            "balance": 1188.87,
+            "category": "investment_debit",
+            "date": "2024-09-23",
+            "narration": "UPI/426781767358/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "83324895"
+        },
+        {
+            "amount": -27349.0,
+            "balance": 11386.17,
+            "category": "transfer",
+            "date": "2024-11-07",
+            "narration": "ACH/HDFC BANK LIMITED/80222",
+            "txnid": "61279238"
+        },
+        {
+            "amount": -27349.0,
+            "balance": 4958.41,
+            "category": "transfer",
+            "date": "2025-02-07",
+            "narration": "ACH/HDFC BANK LIMITED/41355",
+            "txnid": "28172429"
+        }
+    ],
+    "inwEMIBounceXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "loanDisbursalXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "monthlyDetails": [
+        {
+            "balAvg": 3401.78,
+            "balLast": 3647.08,
+            "balMax": 9379.71,
+            "balMin": 279.71,
+            "balOpen": 576.48,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 12,
+            "debitsAPS": 12,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Apr-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-04-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 89350.0,
+            "totalCreditAPS": 89350.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 86279.4,
+            "totalDebitAPS": 86279.4,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 1.77,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89100.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 4449.22,
+            "balLast": 0.0,
+            "balMax": 90905.08,
+            "balMin": 0.0,
+            "balOpen": 3647.08,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 7,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 3,
+            "debits": 16,
+            "debitsAPS": 16,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "May-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-05-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 120883.0,
+            "totalCreditAPS": 120883.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 124530.08,
+            "totalDebitAPS": 124530.08,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89100.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 5675.54,
+            "balLast": 371.17,
+            "balMax": 88815.07,
+            "balMin": 0.0,
+            "balOpen": 0.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 1,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 7,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 2,
+            "debits": 14,
+            "debitsAPS": 14,
+            "debitsRev": 0,
+            "debitsSC": 2,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 3,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jun-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-06-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 5000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 113120.0,
+            "totalCreditAPS": 148201.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 147829.83,
+            "totalDebitAPS": 147829.83,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 295.83,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 35081.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89100.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 4624.49,
+            "balLast": 13.34,
+            "balMax": 83852.61,
+            "balMin": 13.34,
+            "balOpen": 371.17,
+            "cashDeposits": 0,
+            "cashWithdrawals": 1,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 9,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 2,
+            "debits": 31,
+            "debitsAPS": 34,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 3,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 5,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jul-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-07-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 5000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 149106.44,
+            "totalCreditAPS": 252106.44,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 237464.27,
+            "totalDebitAPS": 252464.27,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 15.04,
+            "totalDebitSelf": 15000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 103000.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89100.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 2275.77,
+            "balLast": 21786.34,
+            "balMax": 21786.34,
+            "balMin": 0.0,
+            "balOpen": 13.34,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 10,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 3,
+            "debits": 17,
+            "debitsAPS": 22,
+            "debitsRev": 1,
+            "debitsSC": 1,
+            "debitsSelf": 4,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 3,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Aug-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-08-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 155064.0,
+            "totalCreditAPS": 193004.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 33691.0,
+            "totalDebitAPS": 171231.0,
+            "totalDebitRev": 23540.0,
+            "totalDebitSC": 8.66,
+            "totalDebitSelf": 114000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 37940.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 88923.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 2560.48,
+            "balLast": 1083.87,
+            "balMax": 22188.87,
+            "balMin": 0.0,
+            "balOpen": 21786.34,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 5,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 1,
+            "debits": 12,
+            "debitsAPS": 14,
+            "debitsRev": 0,
+            "debitsSC": 4,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 1,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Sep-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-09-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 111175.0,
+            "totalCreditAPS": 133162.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 84164.47,
+            "totalDebitAPS": 153864.47,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 798.65,
+            "totalDebitSelf": 69700.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 21987.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89100.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 1685.26,
+            "balLast": 8912.17,
+            "balMax": 9176.17,
+            "balMin": 76.17,
+            "balOpen": 1083.87,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 4,
+            "debitsAPS": 7,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 3,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Oct-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 2,
+            "startDate": "2024-10-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 180036.0,
+            "totalCreditAPS": 180036.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 1807.7,
+            "totalDebitAPS": 172207.7,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 17.7,
+            "totalDebitSelf": 170400.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 180036.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 4114.1,
+            "balLast": 1026.17,
+            "balMax": 38735.17,
+            "balMin": 1026.17,
+            "balOpen": 8912.17,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 0,
+            "creditsAPS": 1,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 1,
+            "debits": 4,
+            "debitsAPS": 5,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Nov-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-11-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 30000.0,
+            "totalCreditAPS": 30000.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 27886.0,
+            "totalDebitAPS": 37886.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 177.0,
+            "totalDebitSelf": 10000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 1217.36,
+            "balLast": 2606.17,
+            "balMax": 2606.17,
+            "balMin": 453.17,
+            "balOpen": 1026.17,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 3,
+            "debitsAPS": 4,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Dec-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-12-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 92465.0,
+            "totalCreditAPS": 92465.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 885.0,
+            "totalDebitAPS": 90885.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 90000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 90936.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 12383.11,
+            "balLast": 29234.41,
+            "balMax": 93236.27,
+            "balMin": 106.17,
+            "balOpen": 2606.17,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 1,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 1,
+            "debits": 6,
+            "debitsAPS": 9,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 3,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jan-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2025-01-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 93936.0,
+            "totalCreditAPS": 93936.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 2807.76,
+            "totalDebitAPS": 67307.76,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 5.9,
+            "totalDebitSelf": 64500.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 90936.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 17742.77,
+            "balLast": 32842.41,
+            "balMax": 121225.41,
+            "balMin": 4842.41,
+            "balOpen": 29234.41,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 1,
+            "debits": 6,
+            "debitsAPS": 7,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Feb-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2025-02-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 122614.0,
+            "totalCreditAPS": 122614.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 29006.0,
+            "totalDebitAPS": 119006.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 90000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 93513.0,
+            "totalcreditSubsidy": 0.0
+        }
+    ],
+    "regularCredits": [
+        {
+            "amount": 2600.0,
+            "balance": 2600.0,
+            "category": "income_investment",
+            "date": "2024-06-02",
+            "group": 1,
+            "narration": "IMPS-IN/415409739883/9999999999/ZERODHA",
+            "txnid": "98897731"
+        },
+        {
+            "amount": 18181.0,
+            "balance": 23372.07,
+            "category": "income_investment",
+            "date": "2024-06-20",
+            "group": 1,
+            "narration": "IMPS-IN/417213916114/9999999999/ZERODHA",
+            "txnid": "4561457"
+        },
+        {
+            "amount": 14300.0,
+            "balance": 14371.17,
+            "category": "income_investment",
+            "date": "2024-06-27",
+            "group": 1,
+            "narration": "IMPS-IN/417910764793/9999999999/ZERODHA",
+            "txnid": "92958365"
+        },
+        {
+            "amount": 45000.0,
+            "balance": 45083.38,
+            "category": "income_investment",
+            "date": "2024-07-13",
+            "group": 1,
+            "narration": "IMPS-IN/419509743205/9999999999/ZERODHA",
+            "txnid": "17887024"
+        },
+        {
+            "amount": 8000.0,
+            "balance": 10113.34,
+            "category": "income_investment",
+            "date": "2024-07-24",
+            "group": 1,
+            "narration": "IMPS-IN/420609019462/9986982020/ZERODHA",
+            "txnid": "80767662"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10013.34,
+            "category": "income_investment",
+            "date": "2024-07-27",
+            "group": 1,
+            "narration": "IMPS-IN/420911030633/9986982020/ZERODHA",
+            "txnid": "10148234"
+        },
+        {
+            "amount": 13000.0,
+            "balance": 13068.34,
+            "category": "income_investment",
+            "date": "2024-08-17",
+            "group": 1,
+            "narration": "IMPS-IN/423010040381/9986982020/ZERODHA",
+            "txnid": "35433021"
+        },
+        {
+            "amount": 20940.0,
+            "balance": 21786.34,
+            "category": "income_investment",
+            "date": "2024-08-31",
+            "group": 1,
+            "narration": "IMPS-IN/424411049986/9986982020/ZERODHA",
+            "txnid": "27299707"
+        },
+        {
+            "amount": 20.0,
+            "balance": 5486.07,
+            "category": "income_interest",
+            "date": "2024-06-09",
+            "group": 2,
+            "narration": "0382100100003541:Int.Pd:01-03-2024 to 31-05-2024",
+            "txnid": "22285122"
+        },
+        {
+            "amount": 26.0,
+            "balance": 26.0,
+            "category": "income_interest",
+            "date": "2024-09-13",
+            "group": 2,
+            "narration": "0382100100003541:Int.Pd:01-06-2024 to 31-08-2024",
+            "txnid": "36013281"
+        },
+        {
+            "amount": 17.0,
+            "balance": 1043.17,
+            "category": "income_interest",
+            "date": "2024-12-05",
+            "group": 2,
+            "narration": "0382100100003541:Int.Pd:01-09-2024 to 30-11-2024",
+            "txnid": "83209078"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89379.71,
+            "category": "salary",
+            "date": "2024-04-15",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "13373605"
+        },
+        {
+            "amount": 250.0,
+            "balance": 5647.08,
+            "category": "transfer",
+            "date": "2024-04-29",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "85399455"
+        },
+        {
+            "amount": 150.0,
+            "balance": 1921.08,
+            "category": "transfer",
+            "date": "2024-05-09",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "29084051"
+        },
+        {
+            "amount": 750.0,
+            "balance": 2671.08,
+            "category": "transfer",
+            "date": "2024-05-09",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "29139585"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 90905.08,
+            "category": "salary",
+            "date": "2024-05-17",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "78614542"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89110.07,
+            "category": "salary",
+            "date": "2024-06-07",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "48980162"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89122.61,
+            "category": "salary",
+            "date": "2024-07-09",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "66057743"
+        },
+        {
+            "amount": 88923.0,
+            "balance": 88936.34,
+            "category": "salary",
+            "date": "2024-08-01",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "39515546"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89100.0,
+            "category": "salary",
+            "date": "2024-09-17",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "44423574"
+        },
+        {
+            "amount": 89100.0,
+            "balance": 89176.17,
+            "category": "salary",
+            "date": "2024-10-28",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "95088332"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 98912.17,
+            "category": "salary",
+            "date": "2024-10-30",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "74847687"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 91389.17,
+            "category": "salary",
+            "date": "2024-12-13",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "26241582"
+        },
+        {
+            "amount": 90936.0,
+            "balance": 93236.27,
+            "category": "salary",
+            "date": "2025-01-24",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "58461074"
+        },
+        {
+            "amount": 93513.0,
+            "balance": 121225.41,
+            "category": "salary",
+            "date": "2025-02-03",
+            "group": 3,
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "50299767"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10013.34,
+            "category": "income_investment",
+            "date": "2024-07-31",
+            "group": 4,
+            "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+            "txnid": "95837958"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 4000.0,
+            "category": "income_investment",
+            "date": "2024-08-08",
+            "group": 4,
+            "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+            "txnid": "73864730"
+        },
+        {
+            "amount": 21987.0,
+            "balance": 22188.87,
+            "category": "income_investment",
+            "date": "2024-09-20",
+            "group": 4,
+            "narration": "NEFT ZERODHA BROKING LTD-DSCNB A/C",
+            "txnid": "93499202"
+        },
+        {
+            "amount": 6.44,
+            "balance": 82.61,
+            "category": "transfer",
+            "date": "2024-07-03",
+            "group": 5,
+            "narration": "NEFT ZERODHA BROKING LTD- FOR ZERODHA BR",
+            "txnid": "94577686"
+        },
+        {
+            "amount": 30000.0,
+            "balance": 30113.34,
+            "category": "income_investment",
+            "date": "2024-07-18",
+            "group": 5,
+            "narration": "NEFT ZERODHA BROKING LTD- FOR ZERODHA BR",
+            "txnid": "69340469"
+        },
+        {
+            "amount": 20000.0,
+            "balance": 25191.07,
+            "category": "transfer_from_self",
+            "date": "2024-06-14",
+            "group": 6,
+            "narration": "UPI/416618325094/P2A//22@paytm          POOJA  JAD",
+            "txnid": "41574999"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 5366.17,
+            "category": "transfer_from_self",
+            "date": "2024-06-21",
+            "group": 6,
+            "narration": "UPI/417305456475/P2A//22@paytm          POOJA  JAD",
+            "txnid": "38206412"
+        },
+        {
+            "amount": 40000.0,
+            "balance": 40318.34,
+            "category": "transfer_from_self",
+            "date": "2024-07-15",
+            "group": 6,
+            "narration": "UPI/419708772868/P2A//22@paytm          POOJA  JAD",
+            "txnid": "99676230"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 15068.34,
+            "category": "transfer_from_self",
+            "date": "2024-08-17",
+            "group": 7,
+            "narration": "UPI/423009542526/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "35593708"
+        },
+        {
+            "amount": 20000.0,
+            "balance": 20374.34,
+            "category": "transfer_from_self",
+            "date": "2024-08-26",
+            "group": 7,
+            "narration": "UPI/460589079081/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "10478953"
+        },
+        {
+            "amount": 30000.0,
+            "balance": 38735.17,
+            "category": "transfer_from_self",
+            "date": "2024-11-06",
+            "group": 7,
+            "narration": "UPI/431128620775/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "11359417"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 3106.17,
+            "category": "transfer_from_self",
+            "date": "2025-01-04",
+            "group": 7,
+            "narration": "UPI/500423294328/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "71831353"
+        },
+        {
+            "amount": 28000.0,
+            "balance": 32842.41,
+            "category": "transfer_from_self",
+            "date": "2025-02-28",
+            "group": 7,
+            "narration": "UPI/505980976409/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "14344875"
+        }
+    ],
+    "regularDebits": [
+        {
+            "amount": 27349.0,
+            "balance": 11386.17,
+            "category": "transfer",
+            "date": "2024-11-07",
+            "group": 1,
+            "narration": "ACH/HDFC BANK LIMITED/80222",
+            "txnid": "61279238"
+        },
+        {
+            "amount": 27349.0,
+            "balance": 4958.41,
+            "category": "transfer",
+            "date": "2025-02-07",
+            "group": 1,
+            "narration": "ACH/HDFC BANK LIMITED/41355",
+            "txnid": "28172429"
+        },
+        {
+            "amount": 116.0,
+            "balance": 4842.41,
+            "category": "transfer",
+            "date": "2025-02-13",
+            "group": 1,
+            "narration": "ACH/HDFC BANK LIMITED/44759",
+            "txnid": "39468991"
+        },
+        {
+            "amount": 295.0,
+            "balance": 788.87,
+            "category": "bounce_charges",
+            "date": "2024-10-07",
+            "group": 2,
+            "narration": "ACH RTN--07-10-2024",
+            "txnid": "915487"
+        },
+        {
+            "amount": 295.0,
+            "balance": 493.87,
+            "category": "bounce_charges",
+            "date": "2024-10-12",
+            "group": 2,
+            "narration": "ACH RTN--11-10-2024",
+            "txnid": "8944886"
+        },
+        {
+            "amount": 295.0,
+            "balance": 1026.17,
+            "category": "bounce_charges",
+            "date": "2024-11-27",
+            "group": 2,
+            "narration": "ACH RTN--27-11-2024",
+            "txnid": "32577330"
+        },
+        {
+            "amount": 295.0,
+            "balance": 748.17,
+            "category": "bounce_charges",
+            "date": "2024-12-07",
+            "group": 2,
+            "narration": "ACH RTN--07-12-2024",
+            "txnid": "32691104"
+        },
+        {
+            "amount": 295.0,
+            "balance": 453.17,
+            "category": "bounce_charges",
+            "date": "2024-12-12",
+            "group": 2,
+            "narration": "ACH RTN--12-12-2024",
+            "txnid": "82119196"
+        },
+        {
+            "amount": 295.0,
+            "balance": 1094.17,
+            "category": "bounce_charges",
+            "date": "2024-12-25",
+            "group": 2,
+            "narration": "ACH RTN--25-12-2024",
+            "txnid": "94008840"
+        },
+        {
+            "amount": 295.0,
+            "balance": 2811.17,
+            "category": "bounce_charges",
+            "date": "2025-01-07",
+            "group": 2,
+            "narration": "ACH RTN--07-01-2025",
+            "txnid": "36502094"
+        },
+        {
+            "amount": 295.0,
+            "balance": 2516.17,
+            "category": "bounce_charges",
+            "date": "2025-01-11",
+            "group": 2,
+            "narration": "ACH RTN--10-01-2025",
+            "txnid": "3577659"
+        },
+        {
+            "amount": 295.0,
+            "balance": 279.71,
+            "category": "bounce_charges",
+            "date": "2024-04-12",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-13-04-2024",
+            "txnid": "10763902"
+        },
+        {
+            "amount": 295.0,
+            "balance": 5482.08,
+            "category": "bounce_charges",
+            "date": "2024-04-22",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-22-04-2024",
+            "txnid": "13147033"
+        },
+        {
+            "amount": 295.0,
+            "balance": 3011.08,
+            "category": "bounce_charges",
+            "date": "2024-05-07",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-05-2024",
+            "txnid": "50899546"
+        },
+        {
+            "amount": 5.08,
+            "balance": 0.0,
+            "category": "bounce_charges",
+            "date": "2024-05-24",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-24-05-2024",
+            "txnid": "67235112"
+        },
+        {
+            "amount": 295.0,
+            "balance": 88815.07,
+            "category": "bounce_charges",
+            "date": "2024-06-07",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-06-2024",
+            "txnid": "62417574"
+        },
+        {
+            "amount": 295.0,
+            "balance": 5191.07,
+            "category": "bounce_charges",
+            "date": "2024-06-13",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-13-06-2024",
+            "txnid": "31660056"
+        },
+        {
+            "amount": 295.0,
+            "balance": 71.17,
+            "category": "bounce_charges",
+            "date": "2024-06-26",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-26-06-2024",
+            "txnid": "84722513"
+        },
+        {
+            "amount": 295.0,
+            "balance": 76.17,
+            "category": "bounce_charges",
+            "date": "2024-07-02",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-02-07-2024",
+            "txnid": "56000896"
+        },
+        {
+            "amount": 295.0,
+            "balance": 403.38,
+            "category": "bounce_charges",
+            "date": "2024-07-11",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-11-07-2024",
+            "txnid": "68860604"
+        },
+        {
+            "amount": 286.34,
+            "balance": 0.0,
+            "category": "bounce_charges",
+            "date": "2024-08-07",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-07-08-2024",
+            "txnid": "26085618"
+        },
+        {
+            "amount": 295.0,
+            "balance": 373.34,
+            "category": "bounce_charges",
+            "date": "2024-08-22",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-22-08-2024",
+            "txnid": "83501938"
+        },
+        {
+            "amount": 86.34,
+            "balance": 0.0,
+            "category": "bounce_charges",
+            "date": "2024-09-03",
+            "group": 3,
+            "narration": "ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "4487780"
+        },
+        {
+            "amount": 289.93,
+            "balance": 310.07,
+            "category": "bank_charges",
+            "date": "2024-06-02",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-24-05-2024",
+            "txnid": "36950785"
+        },
+        {
+            "amount": 8.66,
+            "balance": 3991.34,
+            "category": "bank_charges",
+            "date": "2024-08-09",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-08-2024",
+            "txnid": "75556024"
+        },
+        {
+            "amount": 26.0,
+            "balance": 0.0,
+            "category": "bank_charges",
+            "date": "2024-09-13",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "36190691"
+        },
+        {
+            "amount": 182.65,
+            "balance": 496.87,
+            "category": "bank_charges",
+            "date": "2024-09-18",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-03-09-2024",
+            "txnid": "57146521"
+        },
+        {
+            "amount": 295.0,
+            "balance": 496.87,
+            "category": "bank_charges",
+            "date": "2024-09-18",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-07-09-2024",
+            "txnid": "57146556"
+        },
+        {
+            "amount": 295.0,
+            "balance": 201.87,
+            "category": "bank_charges",
+            "date": "2024-09-18",
+            "group": 4,
+            "narration": "SHORTFAL REC- ACH RTN-HDFC BANK LIMITED-12-09-2024",
+            "txnid": "57146581"
+        },
+        {
+            "amount": 1.77,
+            "balance": 574.71,
+            "category": "bank_charges",
+            "date": "2024-04-07",
+            "group": 5,
+            "narration": "SMS CHRG FOR:01-01-2024to31-03-2024",
+            "txnid": "51354499"
+        },
+        {
+            "amount": 15.04,
+            "balance": 718.34,
+            "category": "bank_charges",
+            "date": "2024-07-14",
+            "group": 5,
+            "narration": "SMS CHRG FOR:01-04-2024to30-06-2024",
+            "txnid": "66112665"
+        },
+        {
+            "amount": 17.7,
+            "balance": 476.17,
+            "category": "bank_charges",
+            "date": "2024-10-12",
+            "group": 5,
+            "narration": "SMS CHRG FOR:01-07-2024to30-09-2024",
+            "txnid": "17499543"
+        },
+        {
+            "amount": 5.9,
+            "balance": 2300.27,
+            "category": "bank_charges",
+            "date": "2025-01-12",
+            "group": 5,
+            "narration": "SMS CHRG FOR:01-10-2024to31-12-2024",
+            "txnid": "46793226"
+        },
+        {
+            "amount": 300.0,
+            "balance": 10.07,
+            "category": "transfer",
+            "date": "2024-06-05",
+            "group": 6,
+            "narration": "UPI/452305395448/P2A/919756183126   9180100210/349",
+            "txnid": "25391569"
+        },
+        {
+            "amount": 60000.0,
+            "balance": 5466.07,
+            "category": "transfer",
+            "date": "2024-06-08",
+            "group": 6,
+            "narration": "UPI/416022621619/P2A/919756183126   9180100210/349",
+            "txnid": "81546007"
+        },
+        {
+            "amount": 12000.0,
+            "balance": 1366.17,
+            "category": "transfer",
+            "date": "2024-06-21",
+            "group": 6,
+            "narration": "UPI/417304188233/P2A/919756183126   9180100210/349",
+            "txnid": "36924418"
+        },
+        {
+            "amount": 14000.0,
+            "balance": 371.17,
+            "category": "transfer",
+            "date": "2024-06-27",
+            "group": 6,
+            "narration": "UPI/491135752935/P2A/919756183126   9180100210/349",
+            "txnid": "20790449"
+        },
+        {
+            "amount": 60.0,
+            "balance": 22.61,
+            "category": "transfer",
+            "date": "2024-07-09",
+            "group": 6,
+            "narration": "UPI/455714384199/P2A/919756183126   9180100210/349",
+            "txnid": "48521018"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 717.38,
+            "category": "transfer",
+            "date": "2024-07-10",
+            "group": 6,
+            "narration": "UPI/492425542425/P2A/919756183126   9180100210/349",
+            "txnid": "7277641"
+        },
+        {
+            "amount": 43000.0,
+            "balance": 2083.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 6,
+            "narration": "UPI/419505999869/P2A/919756183126   9180100210/349",
+            "txnid": "18205175"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 1083.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 6,
+            "narration": "UPI/419506018606/P2A/919756183126   0000003140/517",
+            "txnid": "18227540"
+        },
+        {
+            "amount": 2300.0,
+            "balance": 22.08,
+            "category": "transfer",
+            "date": "2024-05-13",
+            "group": 7,
+            "narration": "UPI/413415596474/P2A/918010021023490@UTIB0003333./",
+            "txnid": "80920113"
+        },
+        {
+            "amount": 80000.0,
+            "balance": 2905.08,
+            "category": "transfer",
+            "date": "2024-05-18",
+            "group": 7,
+            "narration": "UPI/450501459667/P2A/918010021023490@UTIB0003333./",
+            "txnid": "87115999"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 600.0,
+            "category": "transfer",
+            "date": "2024-06-02",
+            "group": 7,
+            "narration": "UPI/415415314614/P2A/918010021023490@UTIB0003333./",
+            "txnid": "986449"
+        },
+        {
+            "amount": 28000.0,
+            "balance": 2113.34,
+            "category": "transfer",
+            "date": "2024-07-19",
+            "group": 7,
+            "narration": "UPI/420104052300/P2A/918010021023490@UTIB0003333./",
+            "txnid": "73528488"
+        },
+        {
+            "amount": 25.0,
+            "balance": 5457.08,
+            "category": "transfer",
+            "date": "2024-04-27",
+            "group": 8,
+            "narration": "UPI/411887405140/P2M/paytm-59687921@paytm/DURGE DA",
+            "txnid": "93072634"
+        },
+        {
+            "amount": 53.0,
+            "balance": 3534.08,
+            "category": "transfer",
+            "date": "2024-05-04",
+            "group": 8,
+            "narration": "UPI/412576767282/P2M/paytm-59687921@paytm/DURGE DA",
+            "txnid": "77325490"
+        },
+        {
+            "amount": 75.0,
+            "balance": 3459.08,
+            "category": "transfer",
+            "date": "2024-05-04",
+            "group": 8,
+            "narration": "UPI/412576788457/P2M/paytm-59687921@paytm/DURGE DA",
+            "txnid": "77352377"
+        },
+        {
+            "amount": 33.0,
+            "balance": 3426.08,
+            "category": "transfer",
+            "date": "2024-05-05",
+            "group": 8,
+            "narration": "UPI/412675684042/P2M/paytm-59687921@paytm/DURGE DA",
+            "txnid": "27116736"
+        },
+        {
+            "amount": 30.0,
+            "balance": 5427.08,
+            "category": "transfer",
+            "date": "2024-04-27",
+            "group": 9,
+            "narration": "UPI/448491151445/P2M/paytm-63033363@paytm/Mohd Ari",
+            "txnid": "93203219"
+        },
+        {
+            "amount": 60.0,
+            "balance": 3587.08,
+            "category": "transfer",
+            "date": "2024-05-02",
+            "group": 9,
+            "narration": "UPI/412301375714/P2M/paytm-63033363@paytm/Mohd Ari",
+            "txnid": "84667528"
+        },
+        {
+            "amount": 60.0,
+            "balance": 3366.08,
+            "category": "transfer",
+            "date": "2024-05-05",
+            "group": 9,
+            "narration": "UPI/412604335243/P2M/paytm-63033363@paytm/Mohd Ari",
+            "txnid": "27400711"
+        },
+        {
+            "amount": 60.0,
+            "balance": 3306.08,
+            "category": "transfer",
+            "date": "2024-05-06",
+            "group": 9,
+            "narration": "UPI/412703966737/P2M/paytm-63033363@paytm/Mohd Ari",
+            "txnid": "64784193"
+        },
+        {
+            "amount": 193.0,
+            "balance": 378.34,
+            "category": "transfer",
+            "date": "2024-08-10",
+            "group": 10,
+            "narration": "UPI/422331069000/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+            "txnid": "20920510"
+        },
+        {
+            "amount": 10.0,
+            "balance": 368.34,
+            "category": "transfer",
+            "date": "2024-08-11",
+            "group": 10,
+            "narration": "UPI/422417545427/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+            "txnid": "93650740"
+        },
+        {
+            "amount": 68.0,
+            "balance": 250.34,
+            "category": "transfer",
+            "date": "2024-08-12",
+            "group": 10,
+            "narration": "UPI/422558917361/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+            "txnid": "6148480"
+        },
+        {
+            "amount": 50.0,
+            "balance": 85.34,
+            "category": "transfer",
+            "date": "2024-08-12",
+            "group": 10,
+            "narration": "UPI/422564123061/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+            "txnid": "33731816"
+        },
+        {
+            "amount": 15.0,
+            "balance": 70.34,
+            "category": "transfer",
+            "date": "2024-08-12",
+            "group": 10,
+            "narration": "UPI/422579270194/P2M/paytmqr5cqk81@ptys/YOGESH MOO",
+            "txnid": "33765828"
+        },
+        {
+            "amount": 50.0,
+            "balance": 953.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 11,
+            "narration": "UPI/419556450035/P2M/919756183126   paytmqr10i/n2@",
+            "txnid": "33755871"
+        },
+        {
+            "amount": 50.0,
+            "balance": 668.34,
+            "category": "transfer",
+            "date": "2024-07-14",
+            "group": 11,
+            "narration": "UPI/419600423594/P2M/919756183126   paytmqr10i/n2@",
+            "txnid": "67405500"
+        },
+        {
+            "amount": 100.0,
+            "balance": 303.38,
+            "category": "transfer",
+            "date": "2024-07-12",
+            "group": 12,
+            "narration": "UPI/419403018119/P2M/919756183126   paytmqr9q4/bd6",
+            "txnid": "81016344"
+        },
+        {
+            "amount": 80.0,
+            "balance": 1003.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 12,
+            "narration": "UPI/419580287582/P2M/919756183126   paytmqr9q4/bd6",
+            "txnid": "19786923"
+        },
+        {
+            "amount": 120.0,
+            "balance": 803.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 13,
+            "narration": "UPI/419533510628/P2M/919756183126   paytmqrrh0/o3d",
+            "txnid": "51140874"
+        },
+        {
+            "amount": 70.0,
+            "balance": 733.38,
+            "category": "transfer",
+            "date": "2024-07-13",
+            "group": 13,
+            "narration": "UPI/419554507723/P2M/919756183126   paytmqrrh0/o3d",
+            "txnid": "51629659"
+        },
+        {
+            "amount": 27349.0,
+            "balance": 2322.08,
+            "category": "transfer",
+            "date": "2024-05-13",
+            "group": 14,
+            "narration": "UPI/413415529287/P2M/upicolra135986557@hdfcbank/HD",
+            "txnid": "80840763"
+        },
+        {
+            "amount": 27349.0,
+            "balance": 48974.52,
+            "category": "transfer",
+            "date": "2024-09-17",
+            "group": 14,
+            "narration": "UPI/462763136926/P2M/upicolra135986557@hdfcbank/HD",
+            "txnid": "53703094"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 5.08,
+            "category": "investment_debit",
+            "date": "2024-05-21",
+            "group": 15,
+            "narration": "UPI/414229417972/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "6468139"
+        },
+        {
+            "amount": 20000.0,
+            "balance": 250.34,
+            "category": "investment_debit",
+            "date": "2024-08-12",
+            "group": 15,
+            "narration": "UPI/422593785020/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "7412285"
+        },
+        {
+            "amount": 22000.0,
+            "balance": 201.87,
+            "category": "investment_debit",
+            "date": "2024-09-19",
+            "group": 15,
+            "narration": "UPI/426364305638/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "5836808"
+        },
+        {
+            "amount": 21000.0,
+            "balance": 1188.87,
+            "category": "investment_debit",
+            "date": "2024-09-23",
+            "group": 15,
+            "narration": "UPI/426781767358/P2M/zerodha.broking@icici/ZERODHA",
+            "txnid": "83324895"
+        },
+        {
+            "amount": 20000.0,
+            "balance": 5191.07,
+            "category": "investment_debit",
+            "date": "2024-06-14",
+            "group": 16,
+            "narration": "UPI/416673516386/P2M/919756183126   zerodhabro/ing",
+            "txnid": "41614660"
+        },
+        {
+            "amount": 40000.0,
+            "balance": 318.34,
+            "category": "investment_debit",
+            "date": "2024-07-15",
+            "group": 16,
+            "narration": "UPI/419779835533/P2M/919756183126   zerodhabro/ing",
+            "txnid": "99711197"
+        },
+        {
+            "amount": 8000.0,
+            "balance": 286.34,
+            "category": "transfer_to_self",
+            "date": "2024-08-05",
+            "group": 17,
+            "narration": "UPI/421821717998/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "8821601"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 571.34,
+            "category": "transfer_to_self",
+            "date": "2024-08-09",
+            "group": 17,
+            "narration": "UPI/458802191671/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "80414311"
+        },
+        {
+            "amount": 23000.0,
+            "balance": 914.34,
+            "category": "transfer_to_self",
+            "date": "2024-08-27",
+            "group": 17,
+            "narration": "UPI/424021235665/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "53961701"
+        },
+        {
+            "amount": 21700.0,
+            "balance": 86.34,
+            "category": "transfer_to_self",
+            "date": "2024-09-01",
+            "group": 17,
+            "narration": "UPI/424580197890/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "70924566"
+        },
+        {
+            "amount": 48000.0,
+            "balance": 974.52,
+            "category": "transfer_to_self",
+            "date": "2024-09-17",
+            "group": 17,
+            "narration": "UPI/462711924617/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "53740843"
+        },
+        {
+            "amount": 400.0,
+            "balance": 76.17,
+            "category": "transfer_to_self",
+            "date": "2024-10-26",
+            "group": 17,
+            "narration": "UPI/430011542745/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "70410514"
+        },
+        {
+            "amount": 80000.0,
+            "balance": 9176.17,
+            "category": "transfer_to_self",
+            "date": "2024-10-28",
+            "group": 17,
+            "narration": "UPI/466811807269/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "99977690"
+        },
+        {
+            "amount": 90000.0,
+            "balance": 8912.17,
+            "category": "transfer_to_self",
+            "date": "2024-10-30",
+            "group": 17,
+            "narration": "UPI/467025532518/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "78830819"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 1386.17,
+            "category": "transfer_to_self",
+            "date": "2024-11-08",
+            "group": 17,
+            "narration": "UPI/467904603950/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "21930655"
+        },
+        {
+            "amount": 90000.0,
+            "balance": 1389.17,
+            "category": "transfer_to_self",
+            "date": "2024-12-13",
+            "group": 17,
+            "narration": "UPI/434813378088/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "28929567"
+        },
+        {
+            "amount": 2500.0,
+            "balance": 106.17,
+            "category": "transfer_to_self",
+            "date": "2025-01-02",
+            "group": 17,
+            "narration": "UPI/500216941258/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "38444291"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 43236.27,
+            "category": "transfer_to_self",
+            "date": "2025-01-25",
+            "group": 17,
+            "narration": "UPI/502519940161/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "74695763"
+        },
+        {
+            "amount": 12000.0,
+            "balance": 31236.27,
+            "category": "transfer_to_self",
+            "date": "2025-01-27",
+            "group": 17,
+            "narration": "UPI/502714251686/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "67152322"
+        },
+        {
+            "amount": 90000.0,
+            "balance": 31225.41,
+            "category": "transfer_to_self",
+            "date": "2025-02-05",
+            "group": 17,
+            "narration": "UPI/503611448813/P2V/9756183126@ptyes/POOJA  JADOU",
+            "txnid": "39376257"
+        }
+    ],
+    "salaryXns": [
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 89379.71,
+            "category": "salary",
+            "date": "2024-04-15",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_2"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 90905.08,
+            "category": "salary",
+            "date": "2024-05-17",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_31"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 89110.07,
+            "category": "salary",
+            "date": "2024-06-07",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_41"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 89122.61,
+            "category": "salary",
+            "date": "2024-07-09",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_61"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 88923.0,
+            "balance": 88936.34,
+            "category": "salary",
+            "date": "2024-08-01",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_101"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 89100.0,
+            "category": "salary",
+            "date": "2024-09-17",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_139"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 89100.0,
+            "balance": 89176.17,
+            "category": "salary",
+            "date": "2024-10-28",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_156"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 90936.0,
+            "balance": 98912.17,
+            "category": "salary",
+            "date": "2024-10-30",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_159"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 90936.0,
+            "balance": 91389.17,
+            "category": "salary",
+            "date": "2024-12-13",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_170"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 90936.0,
+            "balance": 93236.27,
+            "category": "salary",
+            "date": "2025-01-24",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_180"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 93513.0,
+            "balance": 121225.41,
+            "category": "salary",
+            "date": "2025-02-03",
+            "narration": "NEFT FIROZABAD TREASURY",
+            "txnid": "TXN_188"
+        }
+    ],
+    "statementdetails": [
+        {
+            "customerInfo": {
+                "address": "D/O KRISHNA PAL SINGH JADOUN AYODHYA NAGAR RAMBAGH AGRA, UTTAR PRADESH, 282006  AGRA 282006 UP IN",
+                "bank": "Punjab National Bank",
+                "email": "poojadoun03sep@gmail.com",
+                "landline": "NA",
+                "mobile": "9756183126",
+                "name": "POOJA JADOUN",
+                "pan": "BTIPJ8784N"
+            },
+            "statementAccounts": [
+                {
+                    "Pending_amount": "NA",
+                    "accType": "SAVINGS",
+                    "accountNo": "XXXXXXXXXXXX3541",
+                    "accountType": "Bank",
+                    "balanceDateTime": "2025-03-31T07:45:40.000+00:00",
+                    "branch": "FIROZABAD",
+                    "currency": "INR",
+                    "currentODLimit": "0",
+                    "drawingLimit": "0",
+                    "facility": "NA",
+                    "xnsEndDate": "2025-03-31",
+                    "xnsStartDate": "2024-03-01"
+                }
+            ]
+        }
+    ],
+    "summaryInfo": {
+        "accNo": "XXXXXXXXXXXX3541",
+        "accType": "SAVINGS",
+        "average": {
+            "balAvg": 5466.35,
+            "balLast": 9229.38,
+            "balMax": 52900.62,
+            "balMin": 617.92,
+            "balOpen": 6296.11,
+            "cashDeposits": 0.0,
+            "cashWithdrawals": 0.0,
+            "chqDeposits": 0.0,
+            "chqIssues": 0.0,
+            "credits": 2.0,
+            "creditsAPS": 5.0,
+            "creditsRev": 0.0,
+            "creditsSC": 0.0,
+            "creditsSelf": 1.0,
+            "debits": 11.0,
+            "debitsAPS": 13.0,
+            "debitsRev": 0.0,
+            "debitsSC": 1.0,
+            "debitsSelf": 1.64,
+            "emiEcsLoanIssues": 0.0,
+            "invIncomes": 1.09,
+            "inwBounces": 0.0,
+            "inwChqBounceNonTechnical": 0.0,
+            "inwEMIBounces": 0.0,
+            "loanDisbursals": 0.0,
+            "outwBounces": 0.0,
+            "salaries": 1.0,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 909.09,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0.0,
+            "totalCredit": 114340.86,
+            "totalCreditAPS": 132341.59,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0.0,
+            "totalCreditSelf": 0.0,
+            "totalDebit": 70577.41,
+            "totalDebitAPS": 129408.32,
+            "totalDebitRev": 2140.0,
+            "totalDebitSC": 120.05,
+            "totalDebitSelf": 56690.91,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 18000.73,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 89985.82
+        },
+        "fullMonthCount": 12,
+        "instName": "Punjab National Bank, India",
+        "total": {
+            "balAvg": 60129.88,
+            "balLast": 101523.13,
+            "balMax": 581906.87,
+            "balMin": 6797.14,
+            "balOpen": 69257.2,
+            "cashDeposits": 0,
+            "cashWithdrawals": 2,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "credits": 25,
+            "creditsAPS": 51,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 14,
+            "debits": 125,
+            "debitsAPS": 144,
+            "debitsRev": 1,
+            "debitsSC": 12,
+            "debitsSelf": 18,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 12,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "outwBounces": 0,
+            "salaries": 11,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 10000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 1257749.44,
+            "totalCreditAPS": 1455757.44,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 776351.51,
+            "totalDebitAPS": 1423491.51,
+            "totalDebitRev": 23540.0,
+            "totalDebitSC": 1320.55,
+            "totalDebitSelf": 623600.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 198008.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 989844.0
+        }
+    },
+    "top5FundsReceived": [
+        {
+            "amount": 89350.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 88923.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 33940.0,
+            "category": "Imps In Zerodha",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 23540.0,
+            "category": "Neft Itdtax Refund Btipjn",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 22000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 4000.0,
+            "category": "Neft Zerodha Broking Ltd Dscnb A C",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 90936.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 1512.0,
+            "category": "Duty Remu",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 17.0,
+            "category": "Int Pd To",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 93513.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 28000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 1101.0,
+            "category": "Upi Pa Meesho",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 90936.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 3000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 89100.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 63000.0,
+            "category": "Imps In Zerodha",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 40000.0,
+            "category": "Upi Pa Paytm Pooja Jad",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 30006.44,
+            "category": "Neft Zerodha Broking Ltd For Zerodha Br",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Neft Zerodha Broking Ltd Dscnb A C",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 89100.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 35081.0,
+            "category": "Imps In Zerodha",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 24000.0,
+            "category": "Upi Pa Paytm Pooja Jad",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 20.0,
+            "category": "Int Pd To",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 90000.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "May-24"
+        },
+        {
+            "amount": 1783.0,
+            "category": "Neft University Examination Fund",
+            "month": "May-24"
+        },
+        {
+            "amount": 30000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 180036.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 89100.0,
+            "category": "Neft Firozabad Treasury",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 21987.0,
+            "category": "Neft Zerodha Broking Ltd Dscnb A C",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 49.0,
+            "category": "Rcradj Upi",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 26.0,
+            "category": "Int Pd To",
+            "month": "Sep-24"
+        }
+    ],
+    "top5FundsTransferred": [
+        {
+            "amount": 80000.0,
+            "category": "Upi Pa Sbin",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 2800.0,
+            "category": "Upi Pa Cnrb If",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Upi Pm Zerodhabroking Hdfcbank Zerod",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 590.0,
+            "category": "Ach Rtn Hdfc Bank Limited",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 462.13,
+            "category": "Upi Pm Zomatoindia Icici Razorpayzom",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 34000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Pm Zerodha Broking Icici Zerodha",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Pm Zerodhabroking Yesbank Zerodh",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Pv Axl Faijan",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 650.0,
+            "category": "Upi Pm Bharatpe Fbpe Lal",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 90000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 885.0,
+            "category": "Ach Rtn",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 90000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 27465.0,
+            "category": "Ach Hdfc Bank Limited",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 1103.0,
+            "category": "Upi Pm Zudioaunitoftrentlim",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 240.0,
+            "category": "Upi Pm Paytmqrsrouazdb Paytm Dhire",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 179.0,
+            "category": "Upi Pv Ybl Sachin Kuma",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 64500.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 1101.0,
+            "category": "Upi Pm Paytm Ptybl Meesho",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 900.86,
+            "category": "Upi Pm Burgerking Rzp Rxairte",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 590.0,
+            "category": "Ach Rtn",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 210.0,
+            "category": "Upi Pm Indianbk Girraj A",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 94060.0,
+            "category": "Upi Pa",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 40000.0,
+            "category": "Upi Pm Zerodhabro Ing",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 28000.0,
+            "category": "Upi Pa Utib",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Pm Zerodha Br Kin",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Pm Zerodhabroking Axisbank Zerod",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 86300.0,
+            "category": "Upi Pa",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 23349.0,
+            "category": "Upi Pm Upicolra",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Upi Pm Zerodhabro Ing",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Imps Out",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Wdr Trans Yamuna Colony",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 82300.0,
+            "category": "Upi Pa Utib",
+            "month": "May-24"
+        },
+        {
+            "amount": 27349.0,
+            "category": "Upi Pm Upicolra Hdfcbank Hd",
+            "month": "May-24"
+        },
+        {
+            "amount": 8000.0,
+            "category": "Upi Pv Paytm Manoj Upadha",
+            "month": "May-24"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Upi Pm Zerodha Broking Icici Zerodha",
+            "month": "May-24"
+        },
+        {
+            "amount": 1200.0,
+            "category": "Upi Pv Paytm Rajeev Gaur",
+            "month": "May-24"
+        },
+        {
+            "amount": 27349.0,
+            "category": "Ach Hdfc Bank Limited",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 295.0,
+            "category": "Ach Rtn",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 177.0,
+            "category": "Atm Ann Chrg For Card Year Ended",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 65.0,
+            "category": "Upi Pm Paytmqrzrnw Ptys Yogesh Moo",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 170400.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 1200.0,
+            "category": "Upi Pv Ptsbi Arp Security",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 590.0,
+            "category": "Ach Rtn",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 17.7,
+            "category": "Sms Chrg For To",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 69700.0,
+            "category": "Upi Pv Ptyes Pooja Jadou",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 43000.0,
+            "category": "Upi Pm Zerodha Broking Icici Zerodha",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 27349.0,
+            "category": "Upi Pm Upicolra Hdfcbank Hd",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 12776.48,
+            "category": "Upi Pm Cred Club Axisb Cred",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 798.65,
+            "category": "Shortfal Rec Ach Rtn Hdfc Bank Limited",
+            "month": "Sep-24"
+        }
+    ]
+}

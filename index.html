@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Monitoring Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="flex min-h-screen">
+        <!-- Sidebar -->
+        <aside class="sidebar w-64 text-white py-6 px-4 fixed h-full z-50">
+            <h1 class="text-3xl font-bold mb-6 text-center animate-fade-in">Loan Dashboard</h1>
+            <nav class="flex flex-col gap-4">
+                <a href="index.html" class="text-white px-4 py-3 rounded-lg font-semibold bg-orange-500 hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-tachometer-alt mr-3"></i>Loan Monitoring</a>
+                <a href="customers.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-users mr-3"></i>Customers</a>
+                <a href="user_groups.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-layer-group mr-3"></i>User Groups</a>
+                <a href="triggers.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-bell mr-3"></i>Triggers</a>
+                <a href="ews.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-exclamation-triangle mr-3"></i>Early Warning</a>
+                <a href="loan_details.html" class="text-white px-4 py-3 rounded-lg font-semibold hover:bg-gold-500 hover:text-gray-900 flex items-center"><i class="fas fa-file-invoice mr-3"></i>Loan Details</a>
+            </nav>
+            <button id="theme-toggle" class="mt-6 w-full py-2 rounded-lg font-semibold flex items-center justify-center"><i class="fas fa-moon mr-2"></i>Dark Mode</button>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 ml-64 p-8">
+            <div class="container mx-auto">
+                <section class="mb-12">
+                    <h3 class="text-3xl font-bold mb-6 animate-slide-in-left">Loan Performance Overview</h3>
+                    <div id="loading-spinner" class="spinner mb-6 hidden"></div>
+                    <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                        <div class="card p-6 animate-fade-in-up">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-rupee-sign text-orange-500 mr-2"></i>Total Outstanding Loans</h5>
+                            <p class="text-2xl font-bold text-orange-500" id="total-outstanding">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-100">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-exclamation-circle text-orange-500 mr-2"></i>Total Overdue Loans</h5>
+                            <p class="text-2xl font-bold text-orange-500" id="total-overdue">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-200">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-calendar-alt text-orange-500 mr-2"></i>Average Days Past Due</h5>
+                            <p class="text-2xl font-bold text-orange-500" id="avg-dpd">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-300">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-chart-line text-orange-500 mr-2"></i>Collection Efficiency</h5>
+                            <p class="text-2xl font-bold text-orange-500" id="collection-efficiency">Loading...</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="mb-12">
+                    <h3 class="text-3xl font-bold mb-6 animate-slide-in-left">Group-wise Loan Distribution</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                        <div class="card p-6 animate-fade-in-up">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-users text-orange-500 mr-2"></i>0-30 Days</h5>
+                            <p id="group-0-30-outstanding">Loading...</p>
+                            <p id="group-0-30-count">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-100">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-users text-orange-500 mr-2"></i>31-60 Days</h5>
+                            <p id="group-31-60-outstanding">Loading...</p>
+                            <p id="group-31-60-count">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-200">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-users text-orange-500 mr-2"></i>61-90 Days</h5>
+                            <p id="group-61-90-outstanding">Loading...</p>
+                            <p id="group-61-90-count">Loading...</p>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-300">
+                            <h5 class="text-lg font-semibold mb-2 flex items-center"><i class="fas fa-users text-orange-500 mr-2"></i>Net NPA</h5>
+                            <p id="group-net-npa-outstanding">Loading...</p>
+                            <p id="group-net-npa-count">Loading...</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="mb-12">
+                    <h3 class="text-3xl font-bold mb-6 animate-slide-in-left">Repayment Performance</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div class="card p-6 animate-fade-in-up">
+                            <h5 class="text-lg font-semibold mb-4 flex items-center"><i class="fas fa-chart-area text-orange-500 mr-2"></i>Repayment Trend (Last 6 Months)</h5>
+                            <canvas id="repayment-trend-chart"></canvas>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-100">
+                            <h5 class="text-lg font-semibold mb-4 flex items-center"><i class="fas fa-wallet text-orange-500 mr-2"></i>Monthly Balance Trend (Last 6 Months)</h5>
+                            <canvas id="balance-trend-chart"></canvas>
+                        </div>
+                        <div class="card p-6 animate-fade-in-up delay-200 md:col-span-2">
+                            <h5 class="text-lg font-semibold mb-4 flex items-center"><i class="fas fa-exclamation-triangle text-orange-500 mr-2"></i>Top 5 Defaulters</h5>
+                            <ul id="top-defaulters" class="list-group space-y-2"></ul>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="mb-12">
+                    <h3 class="text-3xl font-bold mb-6 animate-slide-in-left">Risk Indicators</h3>
+                    <div class="card p-6 animate-fade-in-up">
+                        <h5 class="text-lg font-semibold mb-4 flex items-center"><i class="fas fa-bell text-orange-500 mr-2"></i>High-Risk Customers</h5>
+                        <ul id="high-risk-customers" class="list-group space-y-2"></ul>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <footer class="text-center py-4 text-white">
+        <p class="text-sm font-light">Powered by xAI | May 2025</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0/dist/chartjs-plugin-datalabels.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
+    <script src="index.js"></script>
+    <script>
+        // GSAP Animations
+        gsap.from(".animate-fade-in", { opacity: 0, duration: 1, ease: "power2.out" });
+        gsap.from(".animate-slide-in-left", { x: -50, opacity: 0, duration: 1, ease: "power2.out", stagger: 0.2 });
+        gsap.from(".animate-fade-in-up", { y: 50, opacity: 0, duration: 1, ease: "power2.out", stagger: 0.1 });
+
+        // ScrollTrigger Animations
+        gsap.utils.toArray("section").forEach((section, i) => {
+            gsap.from(section, {
+                opacity: 0,
+                y: 50,
+                duration: 1,
+                ease: "power2.out",
+                scrollTrigger: {
+                    trigger: section,
+                    start: "top 80%",
+                    toggleActions: "play none none none"
+                }
+            });
+        });
+
+        // Dark Mode Toggle
+        const themeToggle = document.getElementById('theme-toggle');
+        themeToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
+            themeToggle.innerHTML = isDark ? '<i class="fas fa-sun mr-2"></i>Light Mode' : '<i class="fas fa-moon mr-2"></i>Dark Mode';
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,3398 @@
+{
+    "accountXns": [
+        {
+            "accountNo": "XXXXXXXXXX0170",
+            "accountType": "SAVINGS",
+            "ifscCode": "HDFC0000354",
+            "location": "FLAT NO 104 B BLOCK ASHIYANA KAUP,POST PADU UDUPI,.,UDUPI,KARNATAKA,INDIA,574106",
+            "micrCode": "560240015",
+            "xns": [
+                {
+                    "amount": 15227.0,
+                    "balance": 15227.0,
+                    "category": "salary",
+                    "date": "2024-08-30",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMEDAKRAM-HSBCN24243525550",
+                    "sub_category": "salary",
+                    "txnid": "TXN_0"
+                },
+                {
+                    "amount": -224.0,
+                    "balance": 15003.0,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-30",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-424334627921-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_1"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 10003.0,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-30",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-424347013225-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_2"
+                },
+                {
+                    "amount": -4000.0,
+                    "balance": 6003.0,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-31",
+                    "narration": "UPI-MOHAMMED  AKRAM-9880524738@AXL-SBIN0017794-287491745793-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_3"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 5003.0,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-31",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-424449363469-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_4"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 3.0,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-31",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-424590672347-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_5"
+                },
+                {
+                    "amount": -3.0,
+                    "balance": 0.0,
+                    "category": "bank_charges",
+                    "date": "2024-09-05",
+                    "narration": "CARD RE-ISSUANCE FEE 200824-MIR2524906049934",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_6"
+                },
+                {
+                    "amount": 29438.0,
+                    "balance": 29438.0,
+                    "category": "salary",
+                    "date": "2024-09-30",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN24274804375",
+                    "sub_category": "salary",
+                    "txnid": "TXN_7"
+                },
+                {
+                    "amount": -4000.0,
+                    "balance": 25438.0,
+                    "category": "transfer",
+                    "date": "2024-09-30",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427496297265-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_8"
+                },
+                {
+                    "amount": -22.0,
+                    "balance": 25416.0,
+                    "category": "transfer",
+                    "date": "2024-09-30",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-427497775844-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_9"
+                },
+                {
+                    "amount": -580.9,
+                    "balance": 24835.1,
+                    "category": "utility_others",
+                    "date": "2024-09-30",
+                    "narration": "UPI-GOOGLE INDIA DIGITAL-GPAYRECHARGE@OKPAYAXIS-UTIB0000553-427400792892-UPI",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_10"
+                },
+                {
+                    "amount": -110.0,
+                    "balance": 24725.1,
+                    "category": "transfer",
+                    "date": "2024-09-30",
+                    "narration": "UPI-R B PETRO SERVICES-PAYTM-8942422@PTYS-YESB0PTMUPI-427400849672-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_11"
+                },
+                {
+                    "amount": 3.0,
+                    "balance": 24728.1,
+                    "category": "income_interest",
+                    "date": "2024-09-30",
+                    "narration": "INTEREST PAID TILL 30-SEP-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_12"
+                },
+                {
+                    "amount": -5500.0,
+                    "balance": 19228.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-01",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-427530886053-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_13"
+                },
+                {
+                    "amount": 5.0,
+                    "balance": 19233.1,
+                    "category": "transfer",
+                    "date": "2024-10-03",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKICICI-KKBK0000432-464316758858-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_14"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 14233.1,
+                    "category": "transfer",
+                    "date": "2024-10-03",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727261615-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_15"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 4233.1,
+                    "category": "transfer",
+                    "date": "2024-10-03",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727274990-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_16"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 3233.1,
+                    "category": "transfer",
+                    "date": "2024-10-03",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727488182-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_17"
+                },
+                {
+                    "amount": -233.0,
+                    "balance": 3000.1,
+                    "category": "bank_charges",
+                    "date": "2024-10-04",
+                    "narration": "CARD RE-ISSUANCE FEE 200824-MIR2527807804107",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_18"
+                },
+                {
+                    "amount": -110.0,
+                    "balance": 2890.1,
+                    "category": "transfer",
+                    "date": "2024-10-05",
+                    "narration": "UPI-UNIVERSAL FILLING ST-PAYTMQR5DAQSA@PTYS-YESB0PTMUPI-427928257623-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_19"
+                },
+                {
+                    "amount": -2890.0,
+                    "balance": 0.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-09",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-428321890332-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_20"
+                },
+                {
+                    "amount": 29238.0,
+                    "balance": 29238.1,
+                    "category": "salary",
+                    "date": "2024-10-30",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN24304088663",
+                    "sub_category": "salary",
+                    "txnid": "TXN_21"
+                },
+                {
+                    "amount": -25000.0,
+                    "balance": 4238.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-30",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-430488995471-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_22"
+                },
+                {
+                    "amount": -4238.0,
+                    "balance": 0.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-30",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-430489025084-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_23"
+                },
+                {
+                    "amount": 29438.0,
+                    "balance": 29438.1,
+                    "category": "salary",
+                    "date": "2024-11-29",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN33401504403",
+                    "sub_category": "salary",
+                    "txnid": "TXN_24"
+                },
+                {
+                    "amount": -55.0,
+                    "balance": 29383.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433460050713-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_25"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 29333.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMADYAMEEN  PATWE-8431211099@AXL-CNRB0000033-670707042667-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_26"
+                },
+                {
+                    "amount": -5531.0,
+                    "balance": 23802.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433460624838-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_27"
+                },
+                {
+                    "amount": -6000.0,
+                    "balance": 17802.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-SIDHIK K C-CALICUTSIDHIQUE259-2@OKAXIS-UTIB0003271-433460964987-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_28"
+                },
+                {
+                    "amount": -300.0,
+                    "balance": 17502.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-433461052762-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_29"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 16502.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-433461216788-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_30"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 16302.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-433461473219-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_31"
+                },
+                {
+                    "amount": -15000.0,
+                    "balance": 1302.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-RITIKA TYAGI-9540252940@AXL-HDFC0004393-022301989486-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_32"
+                },
+                {
+                    "amount": -90.0,
+                    "balance": 1212.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMADYAMEEN  PATWE-8431211099@AXL-CNRB0000033-871755052885-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_33"
+                },
+                {
+                    "amount": -38.0,
+                    "balance": 1174.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-KRISHNAMURTHY SHASHA-PAYTMQR5W3EVS@PTYS-YESB0PTMUPI-433468428751-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_34"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 1154.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433480014099-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_35"
+                },
+                {
+                    "amount": -154.0,
+                    "balance": 1000.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-29",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKICICI-KKBK0000432-433480073021-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_36"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 980.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433596236572-GENERATING DYNAMIC",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_37"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 930.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433596449997-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_38"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 870.1,
+                    "category": "transfer",
+                    "date": "2024-11-29",
+                    "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433596450386-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_39"
+                },
+                {
+                    "amount": -12.0,
+                    "balance": 858.1,
+                    "category": "transfer",
+                    "date": "2024-11-30",
+                    "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433596460035-GENERATING DYNAMIC",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_40"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 808.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-30",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-356876419145-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_41"
+                },
+                {
+                    "amount": -42.0,
+                    "balance": 766.1,
+                    "category": "transfer",
+                    "date": "2024-11-30",
+                    "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-829531793699-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_42"
+                },
+                {
+                    "amount": -27.0,
+                    "balance": 739.1,
+                    "category": "transfer",
+                    "date": "2024-11-30",
+                    "narration": "UPI-MUNIRAJU-Q772627337@YBL-YESB0YBLUPI-433643941199-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_43"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 689.1,
+                    "category": "transfer",
+                    "date": "2024-11-30",
+                    "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433644310539-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_44"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 649.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433646701649-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_45"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 619.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433653220168-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_46"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 599.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-JAHIR  HUSSAIN-BHARATPE90721122381@YESBANKLTD-YESB0YESUPI-433658139675-PAY TO BHARATPE ME",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_47"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 579.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-01",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433669627312-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_48"
+                },
+                {
+                    "amount": -51.0,
+                    "balance": 528.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-01",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433669652972-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_49"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 498.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-SRINIVAS SETTY G V-Q510180741@YBL-YESB0YBLUPI-433682062235-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_50"
+                },
+                {
+                    "amount": -10.0,
+                    "balance": 488.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-01",
+                    "narration": "UPI-MOHAMMED HUSSAIN KUR-PAYTMQR5CODTC@PTYS-YESB0PTMUPI-433682140598-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_51"
+                },
+                {
+                    "amount": -110.0,
+                    "balance": 378.1,
+                    "category": "expenses_fuel",
+                    "date": "2024-12-01",
+                    "narration": "UPI-INDIAN OIL PETROL PU-Q373241141@YBL-YESB0YBLUPI-120909999721-PAYMENT FROM PHONE",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_52"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 328.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433792192401-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_53"
+                },
+                {
+                    "amount": -10.0,
+                    "balance": 318.1,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433792209287-GENERATING DYNAMIC",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_54"
+                },
+                {
+                    "amount": -32.0,
+                    "balance": 286.1,
+                    "category": "transfer",
+                    "date": "2024-12-02",
+                    "narration": "UPI-UDAYA N-Q584999477@YBL-YESB0YBLUPI-433792653035-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_55"
+                },
+                {
+                    "amount": -35.0,
+                    "balance": 251.1,
+                    "category": "transfer",
+                    "date": "2024-12-02",
+                    "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433701517607-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_56"
+                },
+                {
+                    "amount": -31.0,
+                    "balance": 220.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-02",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433711368054-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_57"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 200.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433843180424-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_58"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 170.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-JAHIR  HUSSAIN-BHARATPE90721122381@YESBANKLTD-YESB0YESUPI-433850535673-PAY TO BHARATPE ME",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_59"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 140.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433859816102-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_60"
+                },
+                {
+                    "amount": -140.0,
+                    "balance": 0.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-03",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-433887235515-PAID VIA SUPERMONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_61"
+                },
+                {
+                    "amount": 130.0,
+                    "balance": 130.1,
+                    "category": "transfer_from_self",
+                    "date": "2024-12-03",
+                    "narration": "UPI-MOHAMMED  AKRAM-9880524738@SUPERYES-SBIN0017794-433887264275-PAID VIA SUPERMONE",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_62"
+                },
+                {
+                    "amount": 20.0,
+                    "balance": 150.1,
+                    "category": "transfer_from_self",
+                    "date": "2024-12-03",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-433811661320-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_63"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 110.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433883782138-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_64"
+                },
+                {
+                    "amount": -65.0,
+                    "balance": 45.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-SANDEEP  KUMAR-Q133634000@YBL-YESB0YBLUPI-433990023236-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_65"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 25.1,
+                    "category": "transfer",
+                    "date": "2024-12-03",
+                    "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433990122058-GENERATING DYNAMIC",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_66"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 5.1,
+                    "category": "transfer",
+                    "date": "2024-12-04",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433993105743-PAID VIA SUPERMONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_67"
+                },
+                {
+                    "amount": 520.0,
+                    "balance": 525.1,
+                    "category": "transfer_from_self",
+                    "date": "2024-12-05",
+                    "narration": "UPI-MOHAMMED  AKRAM-9880524738@SUPERYES-SBIN0017794-470605372274-PAID VIA SUPERMONE",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_68"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 425.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-05",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-434052329872-REMARK",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_69"
+                },
+                {
+                    "amount": -425.0,
+                    "balance": 0.1,
+                    "category": "transfer_to_self",
+                    "date": "2024-12-05",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-434056142919-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_70"
+                },
+                {
+                    "amount": 31493.0,
+                    "balance": 31493.1,
+                    "category": "salary",
+                    "date": "2024-12-31",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN36609256079",
+                    "sub_category": "salary",
+                    "txnid": "TXN_71"
+                },
+                {
+                    "amount": -180.0,
+                    "balance": 31313.1,
+                    "category": "transfer",
+                    "date": "2024-12-31",
+                    "narration": "UPI-RAHMATIYA HOTEL-PAYTMQR4H58LGBG7Q@PAYTM-YESB0PTMUPI-436680982698-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_72"
+                },
+                {
+                    "amount": 590.0,
+                    "balance": 31903.1,
+                    "category": "transfer_from_self",
+                    "date": "2024-12-31",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-473203805425-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_73"
+                },
+                {
+                    "amount": 7.0,
+                    "balance": 31910.1,
+                    "category": "income_interest",
+                    "date": "2024-12-31",
+                    "narration": "INTEREST PAID TILL 31-DEC-2024",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_74"
+                },
+                {
+                    "amount": 720.0,
+                    "balance": 32630.1,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-01",
+                    "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-038211493108-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_75"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 32580.1,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-01",
+                    "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-409776130150-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_76"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 32560.1,
+                    "category": "transfer",
+                    "date": "2025-01-01",
+                    "narration": "UPI-SRINIVAS SETTY G V-Q510180741@YBL-YESB0YBLUPI-500111572572-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_77"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 32540.1,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-01",
+                    "narration": "UPI-MOHAMMED HUSSAIN KUR-PAYTMQR5CODTC@PTYS-YESB0PTMUPI-500111643127-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_78"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 31540.1,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-01",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-500114826122-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_79"
+                },
+                {
+                    "amount": -1.0,
+                    "balance": 31539.1,
+                    "category": "transfer",
+                    "date": "2025-01-01",
+                    "narration": "UPI-BILLIONBRAINS GARAGE-YESPAY.BTTSOA2L3C8HE5@YESBANKLTD-YESB0YESUPI-500114992941-ACCOUNT VERIFICATI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_80"
+                },
+                {
+                    "amount": -5531.0,
+                    "balance": 26008.1,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-01",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-500118333296-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_81"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 25958.1,
+                    "category": "transfer",
+                    "date": "2025-01-01",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-500124655605-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_82"
+                },
+                {
+                    "amount": 1.0,
+                    "balance": 25959.1,
+                    "category": "reversal",
+                    "date": "2025-01-03",
+                    "narration": "UPIRET-20250101-500114992941",
+                    "sub_category": "reversal",
+                    "txnid": "TXN_83"
+                },
+                {
+                    "amount": 722.96,
+                    "balance": 26682.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-04",
+                    "narration": "NEFT CR-ICIC0099999-NEXTBILLION TECHNOLOGY PRIVATE LIMITED CLIENT ACCO-MOHAMMED AKRAM-ICIN200411823836",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_84"
+                },
+                {
+                    "amount": -70.0,
+                    "balance": 26612.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-04",
+                    "narration": "UPI-MOHAMMED  NAZEEMUDIN-BHARATPE90727084419@YESBANKLTD-YESB0YESUPI-500483827550-PAY TO BHARATPE ME",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_85"
+                },
+                {
+                    "amount": 27330.0,
+                    "balance": 53942.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-05",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-500507629640-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_86"
+                },
+                {
+                    "amount": -4200.0,
+                    "balance": 49742.06,
+                    "category": "transfer",
+                    "date": "2025-01-05",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-500508735741-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_87"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 48742.06,
+                    "category": "transfer",
+                    "date": "2025-01-05",
+                    "narration": "UPI-SANIYA ANJUM-8095252518-3@AXL-ICIC0003169-835943186104-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_88"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 48712.06,
+                    "category": "transfer",
+                    "date": "2025-01-06",
+                    "narration": "UPI-T HUT-BHARATPE907720058887@YESBANKLTD-YESB0YESUPI-500671239583-PAY TO T HUT",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_89"
+                },
+                {
+                    "amount": -25.0,
+                    "balance": 48687.06,
+                    "category": "transfer",
+                    "date": "2025-01-06",
+                    "narration": "UPI-T HUT-BHARATPE907720058887@YESBANKLTD-YESB0YESUPI-500671404403-PAY TO T HUT",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_90"
+                },
+                {
+                    "amount": -60.0,
+                    "balance": 48627.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-06",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-500672590040-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_91"
+                },
+                {
+                    "amount": -40332.0,
+                    "balance": 8295.06,
+                    "category": "transfer",
+                    "date": "2025-01-07",
+                    "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-500788951047-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_92"
+                },
+                {
+                    "amount": -70.0,
+                    "balance": 8225.06,
+                    "category": "transfer",
+                    "date": "2025-01-07",
+                    "narration": "UPI-SENTHILKUMAR RANGARA-PAYTMQR647G53@PTYS-YESB0PTMUPI-500798125402-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_93"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 7225.06,
+                    "category": "transfer",
+                    "date": "2025-01-07",
+                    "narration": "UPI-SANIYA ANJUM-8095252518-3@AXL-ICIC0003169-279852098785-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_94"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 7185.06,
+                    "category": "transfer",
+                    "date": "2025-01-07",
+                    "narration": "UPI-PRADEEP KUMAR-BAJAJPAY.6879729.06329333@INDUS-INDB0MERCHA-706824257110-PAYMENT FROM PHONE",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_95"
+                },
+                {
+                    "amount": 972.0,
+                    "balance": 8157.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-08",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-500886542732-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_96"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 8137.06,
+                    "category": "transfer",
+                    "date": "2025-01-08",
+                    "narration": "UPI-SHIFA FATHIMA S-9964455077@KOTAK-KKBK0000430-500976993327-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_97"
+                },
+                {
+                    "amount": -170.0,
+                    "balance": 7967.06,
+                    "category": "transfer",
+                    "date": "2025-01-10",
+                    "narration": "UPI-SANIYA ANJUM-8095252518-3@AXL-ICIC0003169-126081030141-KILL MY BABY",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_98"
+                },
+                {
+                    "amount": -400.0,
+                    "balance": 7567.06,
+                    "category": "transfer",
+                    "date": "2025-01-12",
+                    "narration": "UPI-MADEENA HOTEL-PAYTMQR59ECEQ@PAYTM-YESB0PTMUPI-501234477982-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_99"
+                },
+                {
+                    "amount": -99.0,
+                    "balance": 7468.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-12",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501262161000-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_100"
+                },
+                {
+                    "amount": -42.0,
+                    "balance": 7426.06,
+                    "category": "transfer",
+                    "date": "2025-01-14",
+                    "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-501415231502-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_101"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 7226.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-14",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501449627123-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_102"
+                },
+                {
+                    "amount": -200.0,
+                    "balance": 7026.06,
+                    "category": "transfer",
+                    "date": "2025-01-14",
+                    "narration": "UPI-SHABANABANU  MULLA-MISBARSRIYAZAHMEDMULLA@OKAXIS-CNRB0000033-501453867014-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_103"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 7006.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-15",
+                    "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-577862026905-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_104"
+                },
+                {
+                    "amount": -111.0,
+                    "balance": 6895.06,
+                    "category": "transfer",
+                    "date": "2025-01-15",
+                    "narration": "UPI-MOHAMADYAMEEN  PATWE-YAMEENPAT165@OKHDFCBANK-CNRB0000033-501500842818-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_105"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 6875.06,
+                    "category": "transfer",
+                    "date": "2025-01-17",
+                    "narration": "UPI-MADEENA BAITUL MAAL-BOISM-9448050887@BOI-BKID0008953-501764566963-MERCHANT QR",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_106"
+                },
+                {
+                    "amount": 482.0,
+                    "balance": 7357.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-17",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-501796467627-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_107"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 6357.06,
+                    "category": "transfer",
+                    "date": "2025-01-17",
+                    "narration": "UPI-OTIUM HOSPITALITY SE-PAYTMQR281005050101ZK7OKI0484EF@PAYTM-YESB0PTMUPI-501780016100-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_108"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 6317.06,
+                    "category": "transfer",
+                    "date": "2025-01-17",
+                    "narration": "UPI-PRADEEP KUMAR-BAJAJPAY.6879729.06329333@INDUS-INDB0MERCHA-501780112576-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_109"
+                },
+                {
+                    "amount": -450.0,
+                    "balance": 5867.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-18",
+                    "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501817095617-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_110"
+                },
+                {
+                    "amount": -30.0,
+                    "balance": 5837.06,
+                    "category": "transfer",
+                    "date": "2025-01-20",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-502015485719-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_111"
+                },
+                {
+                    "amount": -110.0,
+                    "balance": 5727.06,
+                    "category": "transfer",
+                    "date": "2025-01-22",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-502209104112-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_112"
+                },
+                {
+                    "amount": -20.0,
+                    "balance": 5707.06,
+                    "category": "transfer",
+                    "date": "2025-01-22",
+                    "narration": "UPI-PRITTAM  GIRI-7788996426-2@AXL-SBIN0006412-502326513939-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_113"
+                },
+                {
+                    "amount": -40.0,
+                    "balance": 5667.06,
+                    "category": "transfer",
+                    "date": "2025-01-28",
+                    "narration": "UPI-ANEESHA R-ANEESHARAJESH2@OKSBI-CNRB0000033-502890609072-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_114"
+                },
+                {
+                    "amount": -325.0,
+                    "balance": 5342.06,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "UPI-SATISH KUMAR NISHAD -ITBSSATISHKUMAR1-1@OKHDFCBANK-HDFC0001755-503044942151-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_115"
+                },
+                {
+                    "amount": -500.0,
+                    "balance": 4842.06,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "UPI-SATISH KUMAR NISHAD -ITBSSATISHKUMAR1-1@OKHDFCBANK-HDFC0001755-503090304409-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_116"
+                },
+                {
+                    "amount": 38438.0,
+                    "balance": 43280.06,
+                    "category": "salary",
+                    "date": "2025-01-31",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED  AKRAM-HSBCN52025013116672355",
+                    "sub_category": "salary",
+                    "txnid": "TXN_117"
+                },
+                {
+                    "amount": -550.0,
+                    "balance": 42730.06,
+                    "category": "transfer",
+                    "date": "2025-01-31",
+                    "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-503130671185-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_118"
+                },
+                {
+                    "amount": 18600.0,
+                    "balance": 61330.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-01-31",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-503169457023-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_119"
+                },
+                {
+                    "amount": -334.0,
+                    "balance": 60996.06,
+                    "category": "transfer",
+                    "date": "2025-01-31",
+                    "narration": "UPI-SMOKY DOCKY-VYAPAR.171701211221@HDFCBANK-HDFC0000001-503241089111-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_120"
+                },
+                {
+                    "amount": -5870.0,
+                    "balance": 55126.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-01-31",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKAXIS-SBIN0017794-503241702577-UPI",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_121"
+                },
+                {
+                    "amount": -170.0,
+                    "balance": 54956.06,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI-SRI KRISHNA SAGAR VE-PAYTMQR5EODWC@PTYS-YESB0PTMUPI-503242410147-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_122"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 54906.06,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI-WASEEM  AKRAM-SNPOINT@AXL-KKBK0008045-503252652096-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_123"
+                },
+                {
+                    "amount": -710.0,
+                    "balance": 54196.06,
+                    "category": "transfer",
+                    "date": "2025-02-01",
+                    "narration": "UPI-RAGHAVENDRA-8867230068@IBL-ICIC0002333-503262757489-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_124"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 54096.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-01",
+                    "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-327787059372-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_125"
+                },
+                {
+                    "amount": -50.0,
+                    "balance": 54046.06,
+                    "category": "transfer_to_self",
+                    "date": "2025-02-01",
+                    "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-928572549478-PAYMENT FROM PHONE",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_126"
+                },
+                {
+                    "amount": -74.0,
+                    "balance": 53972.06,
+                    "category": "transfer",
+                    "date": "2025-02-02",
+                    "narration": "UPI-GAGANA TEA STALL-GPAY-11252062443@OKBIZAXIS-UTIB0000553-503448327504-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_127"
+                },
+                {
+                    "amount": 485.0,
+                    "balance": 54457.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-02-03",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-503466156516-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_128"
+                },
+                {
+                    "amount": -54457.0,
+                    "balance": 0.06,
+                    "category": "transfer",
+                    "date": "2025-02-03",
+                    "narration": "UPI-GOOGLE INDIA DIGITAL-GOOGLEBBPSCREDITCARD@ICICI-ICIC0DC0099-503448902176-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_129"
+                },
+                {
+                    "amount": 21899.0,
+                    "balance": 21899.06,
+                    "category": "transfer_from_self",
+                    "date": "2025-02-09",
+                    "narration": "UPI-MOHAMMED  AKRAM-AKRAM.ICLOUD19@OKSBI-SBIN0017794-504029552071-UPI",
+                    "sub_category": "transfer_from_self",
+                    "txnid": "TXN_130"
+                },
+                {
+                    "amount": -21899.0,
+                    "balance": 0.06,
+                    "category": "transfer",
+                    "date": "2025-02-09",
+                    "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-504057359494-UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_131"
+                },
+                {
+                    "amount": 33138.0,
+                    "balance": 33138.06,
+                    "category": "salary",
+                    "date": "2025-02-28",
+                    "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED  AKRAM-HSBCN52025022823569704",
+                    "sub_category": "salary",
+                    "txnid": "TXN_132"
+                }
+            ]
+        }
+    ],
+    "bouncedOrPenalXns": [
+        {
+            "amount": -3.0,
+            "balance": 0.0,
+            "category": "BANK_CHARGES",
+            "date": "2024-09-05",
+            "narration": "CARD RE-ISSUANCE FEE 200824-MIR2524906049934",
+            "txnid": "TXN_6"
+        },
+        {
+            "amount": -233.0,
+            "balance": 3000.1,
+            "category": "BANK_CHARGES",
+            "date": "2024-10-04",
+            "narration": "CARD RE-ISSUANCE FEE 200824-MIR2527807804107",
+            "txnid": "TXN_18"
+        }
+    ],
+    "customerInfo": {
+        "accountRef": "0ed72757-d9aa-44ee-b832-fe9e55d17648",
+        "address": "FLAT NO 104 B BLOCK ASHIYANA KAUP,POST PADU UDUPI,.,UDUPI,KARNATAKA,INDIA,574106",
+        "bank": "HDFC Bank",
+        "ckycCompliance": "true",
+        "consent_id": "0e97e6d7-5181-4a09-97b5-dc3852b78eb3",
+        "custId": "9880524738@finvu",
+        "dob": "2003-11-19",
+        "email": "AKRAM.ASHJ66@GMAIL.COM",
+        "fip_id": "HDFC-FIP",
+        "landline": "NA",
+        "marital_status": "NA",
+        "mobile": "9880524738",
+        "name": "MOHAMMED AKRAM",
+        "pan": "ELZPA6047M",
+        "session_id": "bb7d67d0-82b2-4401-bad3-817073ec46f7"
+    },
+    "eMIECSLOANXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "eODBalances": [
+        {
+            "balance": 10003.0,
+            "date": "2024-08-30"
+        },
+        {
+            "balance": 3.0,
+            "date": "2024-08-31"
+        },
+        {
+            "balance": 3.0,
+            "date": "2024-09-01"
+        },
+        {
+            "balance": 3.0,
+            "date": "2024-09-02"
+        },
+        {
+            "balance": 3.0,
+            "date": "2024-09-03"
+        },
+        {
+            "balance": 3.0,
+            "date": "2024-09-04"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-05"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-06"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-07"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-08"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-09"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-10"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-11"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-12"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-13"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-14"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-15"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-16"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-17"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-18"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-19"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-20"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-21"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-22"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-23"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-24"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-25"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-26"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-27"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-28"
+        },
+        {
+            "balance": 0.0,
+            "date": "2024-09-29"
+        },
+        {
+            "balance": 24728.1,
+            "date": "2024-09-30"
+        },
+        {
+            "balance": 19228.1,
+            "date": "2024-10-01"
+        },
+        {
+            "balance": 19228.1,
+            "date": "2024-10-02"
+        },
+        {
+            "balance": 3233.1,
+            "date": "2024-10-03"
+        },
+        {
+            "balance": 3000.1,
+            "date": "2024-10-04"
+        },
+        {
+            "balance": 2890.1,
+            "date": "2024-10-05"
+        },
+        {
+            "balance": 2890.1,
+            "date": "2024-10-06"
+        },
+        {
+            "balance": 2890.1,
+            "date": "2024-10-07"
+        },
+        {
+            "balance": 2890.1,
+            "date": "2024-10-08"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-09"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-10"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-11"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-12"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-13"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-14"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-15"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-16"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-17"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-18"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-19"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-20"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-21"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-22"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-23"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-24"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-25"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-26"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-27"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-28"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-29"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-30"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-10-31"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-01"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-02"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-03"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-04"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-05"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-06"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-07"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-08"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-09"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-10"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-11"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-12"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-13"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-14"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-15"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-16"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-17"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-18"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-19"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-20"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-21"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-22"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-23"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-24"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-25"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-26"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-27"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-11-28"
+        },
+        {
+            "balance": 870.1,
+            "date": "2024-11-29"
+        },
+        {
+            "balance": 689.1,
+            "date": "2024-11-30"
+        },
+        {
+            "balance": 318.1,
+            "date": "2024-12-01"
+        },
+        {
+            "balance": 220.1,
+            "date": "2024-12-02"
+        },
+        {
+            "balance": 25.1,
+            "date": "2024-12-03"
+        },
+        {
+            "balance": 5.1,
+            "date": "2024-12-04"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-05"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-06"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-07"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-08"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-09"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-10"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-11"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-12"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-13"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-14"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-15"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-16"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-17"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-18"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-19"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-20"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-21"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-22"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-23"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-24"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-25"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-26"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-27"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-28"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-29"
+        },
+        {
+            "balance": 0.1,
+            "date": "2024-12-30"
+        },
+        {
+            "balance": 31910.1,
+            "date": "2024-12-31"
+        },
+        {
+            "balance": 25958.1,
+            "date": "2025-01-01"
+        },
+        {
+            "balance": 25958.1,
+            "date": "2025-01-02"
+        },
+        {
+            "balance": 25959.1,
+            "date": "2025-01-03"
+        },
+        {
+            "balance": 26612.06,
+            "date": "2025-01-04"
+        },
+        {
+            "balance": 48742.06,
+            "date": "2025-01-05"
+        },
+        {
+            "balance": 48627.06,
+            "date": "2025-01-06"
+        },
+        {
+            "balance": 7185.06,
+            "date": "2025-01-07"
+        },
+        {
+            "balance": 8137.06,
+            "date": "2025-01-08"
+        },
+        {
+            "balance": 8137.06,
+            "date": "2025-01-09"
+        },
+        {
+            "balance": 7967.06,
+            "date": "2025-01-10"
+        },
+        {
+            "balance": 7967.06,
+            "date": "2025-01-11"
+        },
+        {
+            "balance": 7468.06,
+            "date": "2025-01-12"
+        },
+        {
+            "balance": 7468.06,
+            "date": "2025-01-13"
+        },
+        {
+            "balance": 7026.06,
+            "date": "2025-01-14"
+        },
+        {
+            "balance": 6895.06,
+            "date": "2025-01-15"
+        },
+        {
+            "balance": 6895.06,
+            "date": "2025-01-16"
+        },
+        {
+            "balance": 6317.06,
+            "date": "2025-01-17"
+        },
+        {
+            "balance": 5867.06,
+            "date": "2025-01-18"
+        },
+        {
+            "balance": 5867.06,
+            "date": "2025-01-19"
+        },
+        {
+            "balance": 5837.06,
+            "date": "2025-01-20"
+        },
+        {
+            "balance": 5837.06,
+            "date": "2025-01-21"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-22"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-23"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-24"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-25"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-26"
+        },
+        {
+            "balance": 5707.06,
+            "date": "2025-01-27"
+        },
+        {
+            "balance": 5667.06,
+            "date": "2025-01-28"
+        },
+        {
+            "balance": 5667.06,
+            "date": "2025-01-29"
+        },
+        {
+            "balance": 4842.06,
+            "date": "2025-01-30"
+        },
+        {
+            "balance": 55126.06,
+            "date": "2025-01-31"
+        },
+        {
+            "balance": 54046.06,
+            "date": "2025-02-01"
+        },
+        {
+            "balance": 53972.06,
+            "date": "2025-02-02"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-03"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-04"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-05"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-06"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-07"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-08"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-09"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-10"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-11"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-12"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-13"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-14"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-15"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-16"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-17"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-18"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-19"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-20"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-21"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-22"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-23"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-24"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-25"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-26"
+        },
+        {
+            "balance": 0.06,
+            "date": "2025-02-27"
+        },
+        {
+            "balance": 33138.06,
+            "date": "2025-02-28"
+        }
+    ],
+    "fCUAnalysis": {
+        "behaviouralTransactionalIndicators": {
+            "bigDebitAfterSalaryXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "discontinuityInCredits": {
+                "status": "false"
+            },
+            "equalCreditDebitXns": {
+                "status": "false"
+            },
+            "highCashDepositXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularInterestDebitXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularSalaryCreditXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "irregularTransferToPartiesXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "negativeEODBalanceXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "partiesInCreditsAndDebits": {
+                "partyName": "NA"
+            },
+            "salaryAmountNotVaryingXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "taxPaymentXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            }
+        },
+        "possibleFraudIndicators": {
+            "amountBalanceMismatchXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "lowAccountVintage": {
+                "status": "false"
+            },
+            "salaryOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "suspiciousATMXns": [],
+            "suspiciousRTGSXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "transactionOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ]
+        }
+    },
+    "highValueCreditXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "highValueDebitXns": [
+        {
+            "amount": -40332.0,
+            "balance": 8295.06,
+            "category": "transfer",
+            "date": "2025-01-07",
+            "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-500788951047-UPI",
+            "txnid": "0000500788951047"
+        },
+        {
+            "amount": -54457.0,
+            "balance": 0.06,
+            "category": "transfer",
+            "date": "2025-02-03",
+            "narration": "UPI-GOOGLE INDIA DIGITAL-GOOGLEBBPSCREDITCARD@ICICI-ICIC0DC0099-503448902176-UPI",
+            "txnid": "0000503448902176"
+        },
+        {
+            "amount": -21899.0,
+            "balance": 0.06,
+            "category": "transfer",
+            "date": "2025-02-09",
+            "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-504057359494-UPI",
+            "txnid": "0000504057359494"
+        }
+    ],
+    "inwEMIBounceXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "loanDisbursalXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "monthlyDetails": [
+        {
+            "balAvg": 322.77,
+            "balLast": 3.0,
+            "balMax": 10003.0,
+            "balMin": 0.0,
+            "balOpen": 0.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 1,
+            "creditsAPS": 1,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 0,
+            "debitsAPS": 5,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 5,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Aug-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-08-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 15227.0,
+            "totalCreditAPS": 15227.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 0.0,
+            "totalDebitAPS": 15224.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 15224.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 15227.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 824.67,
+            "balLast": 24728.1,
+            "balMax": 24728.1,
+            "balMin": 0.0,
+            "balOpen": 3.0,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 5,
+            "debitsAPS": 5,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Sep-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-09-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 29441.0,
+            "totalCreditAPS": 29441.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 4715.9,
+            "totalDebitAPS": 4715.9,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 3.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 29438.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 1814.58,
+            "balLast": 0.1,
+            "balMax": 19228.1,
+            "balMin": 0.1,
+            "balOpen": 24728.1,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 5,
+            "debitsAPS": 9,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 4,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Oct-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-10-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 29243.0,
+            "totalCreditAPS": 29243.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 16343.0,
+            "totalDebitAPS": 53971.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 233.0,
+            "totalDebitSelf": 37628.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 29238.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 52.07,
+            "balLast": 689.1,
+            "balMax": 870.1,
+            "balMin": 0.1,
+            "balOpen": 0.1,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 1,
+            "creditsAPS": 1,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 15,
+            "debitsAPS": 20,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 5,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Nov-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-11-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 29438.0,
+            "totalCreditAPS": 29438.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 22694.0,
+            "totalDebitAPS": 28749.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 6055.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 29438.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 1047.78,
+            "balLast": 31910.1,
+            "balMax": 31910.1,
+            "balMin": 0.1,
+            "balOpen": 689.1,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 6,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 4,
+            "debits": 17,
+            "debitsAPS": 24,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 7,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Dec-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-12-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 32760.0,
+            "totalCreditAPS": 32760.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 762.0,
+            "totalDebitAPS": 1539.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 777.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 31493.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 13299.1,
+            "balLast": 55126.06,
+            "balMax": 55126.06,
+            "balMin": 4842.06,
+            "balOpen": 31910.1,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 8,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 6,
+            "debits": 27,
+            "debitsAPS": 39,
+            "debitsRev": 1,
+            "debitsSC": 0,
+            "debitsSelf": 11,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jan-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2025-01-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 87265.96,
+            "totalCreditAPS": 87265.96,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 50679.0,
+            "totalDebitAPS": 64050.0,
+            "totalDebitRev": 1.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 13370.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 38438.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 5041.35,
+            "balLast": 33138.06,
+            "balMax": 54046.06,
+            "balMin": 0.06,
+            "balOpen": 55126.06,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 1,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 2,
+            "debits": 6,
+            "debitsAPS": 8,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Feb-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2025-02-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 55522.0,
+            "totalCreditAPS": 55522.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 77360.0,
+            "totalDebitAPS": 77510.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 150.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 33138.0,
+            "totalcreditSubsidy": 0.0
+        }
+    ],
+    "regularDebits": [
+        {
+            "amount": 3.0,
+            "balance": 0.0,
+            "category": "bank_charges",
+            "date": "2024-09-05",
+            "group": 1,
+            "narration": "CARD RE-ISSUANCE FEE 200824-MIR2524906049934",
+            "txnid": "2524906049934"
+        },
+        {
+            "amount": 233.0,
+            "balance": 3000.1,
+            "category": "bank_charges",
+            "date": "2024-10-04",
+            "group": 1,
+            "narration": "CARD RE-ISSUANCE FEE 200824-MIR2527807804107",
+            "txnid": "2527807804107"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 25438.0,
+            "category": "transfer",
+            "date": "2024-09-30",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427496297265-UPI",
+            "txnid": "0000427496297265"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 14233.1,
+            "category": "transfer",
+            "date": "2024-10-03",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727261615-UPI",
+            "txnid": "0000427727261615"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 4233.1,
+            "category": "transfer",
+            "date": "2024-10-03",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727274990-UPI",
+            "txnid": "0000427727274990"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 3233.1,
+            "category": "transfer",
+            "date": "2024-10-03",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-427727488182-UPI",
+            "txnid": "0000427727488182"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 16502.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-433461216788-UPI",
+            "txnid": "0000433461216788"
+        },
+        {
+            "amount": 200.0,
+            "balance": 16302.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 2,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKAXIS-SBIN0017794-433461473219-UPI",
+            "txnid": "0000433461473219"
+        },
+        {
+            "amount": 4200.0,
+            "balance": 49742.06,
+            "category": "transfer",
+            "date": "2025-01-05",
+            "group": 3,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-500508735741-UPI",
+            "txnid": "0000500508735741"
+        },
+        {
+            "amount": 30.0,
+            "balance": 5837.06,
+            "category": "transfer",
+            "date": "2025-01-20",
+            "group": 3,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-502015485719-UPI",
+            "txnid": "0000502015485719"
+        },
+        {
+            "amount": 110.0,
+            "balance": 5727.06,
+            "category": "transfer",
+            "date": "2025-01-22",
+            "group": 3,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-502209104112-UPI",
+            "txnid": "0000502209104112"
+        },
+        {
+            "amount": 550.0,
+            "balance": 42730.06,
+            "category": "transfer",
+            "date": "2025-01-31",
+            "group": 3,
+            "narration": "UPI-BIBI  SAJIDA  HAKIM-SAJIDAHAKIM7-1@OKSBI-SBIN0017794-503130671185-UPI",
+            "txnid": "0000503130671185"
+        },
+        {
+            "amount": 40332.0,
+            "balance": 8295.06,
+            "category": "transfer",
+            "date": "2025-01-07",
+            "group": 4,
+            "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-500788951047-UPI",
+            "txnid": "0000500788951047"
+        },
+        {
+            "amount": 21899.0,
+            "balance": 0.06,
+            "category": "transfer",
+            "date": "2025-02-09",
+            "group": 4,
+            "narration": "UPI-GOOGLE INDIA DIGITAL-GPAY-CREDITCARD@OKPAYAXIS-UTIB0000553-504057359494-UPI",
+            "txnid": "0000504057359494"
+        },
+        {
+            "amount": 22.0,
+            "balance": 25416.0,
+            "category": "transfer",
+            "date": "2024-09-30",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-427497775844-UPI",
+            "txnid": "0000427497775844"
+        },
+        {
+            "amount": 55.0,
+            "balance": 29383.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433460050713-UPI",
+            "txnid": "0000433460050713"
+        },
+        {
+            "amount": 30.0,
+            "balance": 619.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433653220168-UPI",
+            "txnid": "0000433653220168"
+        },
+        {
+            "amount": 40.0,
+            "balance": 110.1,
+            "category": "transfer",
+            "date": "2024-12-03",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-433883782138-UPI",
+            "txnid": "0000433883782138"
+        },
+        {
+            "amount": 50.0,
+            "balance": 25958.1,
+            "category": "transfer",
+            "date": "2025-01-01",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-500124655605-UPI",
+            "txnid": "0000500124655605"
+        },
+        {
+            "amount": 42.0,
+            "balance": 7426.06,
+            "category": "transfer",
+            "date": "2025-01-14",
+            "group": 5,
+            "narration": "UPI-GURURAJ  NAIK-Q255119393@YBL-YESB0YBLUPI-501415231502-UPI",
+            "txnid": "0000501415231502"
+        },
+        {
+            "amount": 20.0,
+            "balance": 599.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "UPI-JAHIR  HUSSAIN-BHARATPE90721122381@YESBANKLTD-YESB0YESUPI-433658139675-PAY TO BHARATPE ME",
+            "txnid": "0000433658139675"
+        },
+        {
+            "amount": 30.0,
+            "balance": 170.1,
+            "category": "transfer",
+            "date": "2024-12-03",
+            "group": 6,
+            "narration": "UPI-JAHIR  HUSSAIN-BHARATPE90721122381@YESBANKLTD-YESB0YESUPI-433850535673-PAY TO BHARATPE ME",
+            "txnid": "0000433850535673"
+        },
+        {
+            "amount": 50.0,
+            "balance": 29333.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 7,
+            "narration": "UPI-MOHAMADYAMEEN  PATWE-8431211099@AXL-CNRB0000033-670707042667-PAYMENT FROM PHONE",
+            "txnid": "0000670707042667"
+        },
+        {
+            "amount": 90.0,
+            "balance": 1212.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 7,
+            "narration": "UPI-MOHAMADYAMEEN  PATWE-8431211099@AXL-CNRB0000033-871755052885-PAYMENT FROM PHONE",
+            "txnid": "0000871755052885"
+        },
+        {
+            "amount": 300.0,
+            "balance": 17502.1,
+            "category": "transfer_to_self",
+            "date": "2024-11-29",
+            "group": 8,
+            "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-433461052762-UPI",
+            "txnid": "0000433461052762"
+        },
+        {
+            "amount": 99.0,
+            "balance": 7468.06,
+            "category": "transfer_to_self",
+            "date": "2025-01-12",
+            "group": 8,
+            "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501262161000-UPI",
+            "txnid": "0000501262161000"
+        },
+        {
+            "amount": 200.0,
+            "balance": 7226.06,
+            "category": "transfer_to_self",
+            "date": "2025-01-14",
+            "group": 8,
+            "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501449627123-UPI",
+            "txnid": "0000501449627123"
+        },
+        {
+            "amount": 450.0,
+            "balance": 5867.06,
+            "category": "transfer_to_self",
+            "date": "2025-01-18",
+            "group": 8,
+            "narration": "UPI-MOHAMMAD NAMEEZ-MOHAMMEDNAMEEZ16@OKICICI-UBIN0902381-501817095617-UPI",
+            "txnid": "0000501817095617"
+        },
+        {
+            "amount": 50.0,
+            "balance": 32580.1,
+            "category": "transfer_to_self",
+            "date": "2025-01-01",
+            "group": 9,
+            "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-409776130150-PAYMENT FROM PHONE",
+            "txnid": "0000409776130150"
+        },
+        {
+            "amount": 20.0,
+            "balance": 7006.06,
+            "category": "transfer_to_self",
+            "date": "2025-01-15",
+            "group": 9,
+            "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-577862026905-PAYMENT FROM PHONE",
+            "txnid": "0000577862026905"
+        },
+        {
+            "amount": 100.0,
+            "balance": 54096.06,
+            "category": "transfer_to_self",
+            "date": "2025-02-01",
+            "group": 9,
+            "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-327787059372-PAYMENT FROM PHONE",
+            "txnid": "0000327787059372"
+        },
+        {
+            "amount": 50.0,
+            "balance": 54046.06,
+            "category": "transfer_to_self",
+            "date": "2025-02-01",
+            "group": 9,
+            "narration": "UPI-MOHAMMED BILAL-7829017290@IBL-CNRB0000033-928572549478-PAYMENT FROM PHONE",
+            "txnid": "0000928572549478"
+        },
+        {
+            "amount": 10.0,
+            "balance": 488.1,
+            "category": "transfer_to_self",
+            "date": "2024-12-01",
+            "group": 10,
+            "narration": "UPI-MOHAMMED HUSSAIN KUR-PAYTMQR5CODTC@PTYS-YESB0PTMUPI-433682140598-UPI",
+            "txnid": "0000433682140598"
+        },
+        {
+            "amount": 20.0,
+            "balance": 32540.1,
+            "category": "transfer_to_self",
+            "date": "2025-01-01",
+            "group": 10,
+            "narration": "UPI-MOHAMMED HUSSAIN KUR-PAYTMQR5CODTC@PTYS-YESB0PTMUPI-500111643127-UPI",
+            "txnid": "0000500111643127"
+        },
+        {
+            "amount": 35.0,
+            "balance": 251.1,
+            "category": "transfer",
+            "date": "2024-12-02",
+            "group": 11,
+            "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433701517607-UPI",
+            "txnid": "0000433701517607"
+        },
+        {
+            "amount": 20.0,
+            "balance": 200.1,
+            "category": "transfer",
+            "date": "2024-12-03",
+            "group": 11,
+            "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433843180424-UPI",
+            "txnid": "0000433843180424"
+        },
+        {
+            "amount": 30.0,
+            "balance": 140.1,
+            "category": "transfer",
+            "date": "2024-12-03",
+            "group": 11,
+            "narration": "UPI-NAGALATA NAIK-PAYTMQR59AENT@PAYTM-YESB0PTMUPI-433859816102-UPI",
+            "txnid": "0000433859816102"
+        },
+        {
+            "amount": 20.0,
+            "balance": 980.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 12,
+            "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433596236572-GENERATING DYNAMIC",
+            "txnid": "0000433596236572"
+        },
+        {
+            "amount": 12.0,
+            "balance": 858.1,
+            "category": "transfer",
+            "date": "2024-11-30",
+            "group": 12,
+            "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433596460035-GENERATING DYNAMIC",
+            "txnid": "0000433596460035"
+        },
+        {
+            "amount": 10.0,
+            "balance": 318.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 12,
+            "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433792209287-GENERATING DYNAMIC",
+            "txnid": "0000433792209287"
+        },
+        {
+            "amount": 20.0,
+            "balance": 25.1,
+            "category": "transfer",
+            "date": "2024-12-03",
+            "group": 12,
+            "narration": "UPI-POMAC HYPER MARKET P-POMACHYPERMARKETPRIV.42366739@HDFCBANK-HDFC0000001-433990122058-GENERATING DYNAMIC",
+            "txnid": "0000433990122058"
+        },
+        {
+            "amount": 50.0,
+            "balance": 930.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 13,
+            "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433596449997-UPI",
+            "txnid": "0000433596449997"
+        },
+        {
+            "amount": 60.0,
+            "balance": 870.1,
+            "category": "transfer",
+            "date": "2024-11-29",
+            "group": 13,
+            "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433596450386-UPI",
+            "txnid": "0000433596450386"
+        },
+        {
+            "amount": 50.0,
+            "balance": 689.1,
+            "category": "transfer",
+            "date": "2024-11-30",
+            "group": 13,
+            "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433644310539-UPI",
+            "txnid": "0000433644310539"
+        },
+        {
+            "amount": 40.0,
+            "balance": 649.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 13,
+            "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433646701649-UPI",
+            "txnid": "0000433646701649"
+        },
+        {
+            "amount": 50.0,
+            "balance": 328.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 13,
+            "narration": "UPI-SANDEEP KUMAR-PAYTMQRBG77F054J1@PAYTM-YESB0PTMUPI-433792192401-UPI",
+            "txnid": "0000433792192401"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 48742.06,
+            "category": "transfer",
+            "date": "2025-01-05",
+            "group": 14,
+            "narration": "UPI-SANIYA ANJUM-8095252518-3@AXL-ICIC0003169-835943186104-PAYMENT FROM PHONE",
+            "txnid": "0000835943186104"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 7225.06,
+            "category": "transfer",
+            "date": "2025-01-07",
+            "group": 14,
+            "narration": "UPI-SANIYA ANJUM-8095252518-3@AXL-ICIC0003169-279852098785-PAYMENT FROM PHONE",
+            "txnid": "0000279852098785"
+        },
+        {
+            "amount": 325.0,
+            "balance": 5342.06,
+            "category": "transfer",
+            "date": "2025-01-30",
+            "group": 15,
+            "narration": "UPI-SATISH KUMAR NISHAD -ITBSSATISHKUMAR1-1@OKHDFCBANK-HDFC0001755-503044942151-UPI",
+            "txnid": "0000503044942151"
+        },
+        {
+            "amount": 500.0,
+            "balance": 4842.06,
+            "category": "transfer",
+            "date": "2025-01-30",
+            "group": 15,
+            "narration": "UPI-SATISH KUMAR NISHAD -ITBSSATISHKUMAR1-1@OKHDFCBANK-HDFC0001755-503090304409-UPI",
+            "txnid": "0000503090304409"
+        },
+        {
+            "amount": 30.0,
+            "balance": 498.1,
+            "category": "transfer",
+            "date": "2024-12-01",
+            "group": 16,
+            "narration": "UPI-SRINIVAS SETTY G V-Q510180741@YBL-YESB0YBLUPI-433682062235-UPI",
+            "txnid": "0000433682062235"
+        },
+        {
+            "amount": 20.0,
+            "balance": 32560.1,
+            "category": "transfer",
+            "date": "2025-01-01",
+            "group": 16,
+            "narration": "UPI-SRINIVAS SETTY G V-Q510180741@YBL-YESB0YBLUPI-500111572572-UPI",
+            "txnid": "0000500111572572"
+        },
+        {
+            "amount": 30.0,
+            "balance": 48712.06,
+            "category": "transfer",
+            "date": "2025-01-06",
+            "group": 17,
+            "narration": "UPI-T HUT-BHARATPE907720058887@YESBANKLTD-YESB0YESUPI-500671239583-PAY TO T HUT",
+            "txnid": "0000500671239583"
+        },
+        {
+            "amount": 25.0,
+            "balance": 48687.06,
+            "category": "transfer",
+            "date": "2025-01-06",
+            "group": 17,
+            "narration": "UPI-T HUT-BHARATPE907720058887@YESBANKLTD-YESB0YESUPI-500671404403-PAY TO T HUT",
+            "txnid": "0000500671404403"
+        }
+    ],
+    "salaryXns": [
+        {
+            "MODE": "NEFT",
+            "amount": 15227.0,
+            "balance": 15227.0,
+            "category": "salary",
+            "date": "2024-08-30",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMEDAKRAM-HSBCN24243525550",
+            "txnid": "TXN_0"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 29438.0,
+            "balance": 29438.0,
+            "category": "salary",
+            "date": "2024-09-30",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN24274804375",
+            "txnid": "TXN_7"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 29238.0,
+            "balance": 29238.1,
+            "category": "salary",
+            "date": "2024-10-30",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN24304088663",
+            "txnid": "TXN_21"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 29438.0,
+            "balance": 29438.1,
+            "category": "salary",
+            "date": "2024-11-29",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN33401504403",
+            "txnid": "TXN_24"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 31493.0,
+            "balance": 31493.1,
+            "category": "salary",
+            "date": "2024-12-31",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED AKRAM-HSBCN36609256079",
+            "txnid": "TXN_71"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 38438.0,
+            "balance": 43280.06,
+            "category": "salary",
+            "date": "2025-01-31",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED  AKRAM-HSBCN52025013116672355",
+            "txnid": "TXN_117"
+        },
+        {
+            "MODE": "NEFT",
+            "amount": 33138.0,
+            "balance": 33138.06,
+            "category": "salary",
+            "date": "2025-02-28",
+            "narration": "NEFT CR-HSBC0560002-ALORICA (INDIA) PRIVATE LIMITED-MOHAMMED  AKRAM-HSBCN52025022823569704",
+            "txnid": "TXN_132"
+        }
+    ],
+    "statementdetails": [
+        {
+            "customerInfo": {
+                "address": "FLAT NO 104 B BLOCK ASHIYANA KAUP,POST PADU UDUPI,.,UDUPI,KARNATAKA,INDIA,574106",
+                "bank": "HDFC Bank",
+                "email": "AKRAM.ASHJ66@GMAIL.COM",
+                "landline": "NA",
+                "mobile": "9880524738",
+                "name": "MOHAMMED AKRAM",
+                "pan": "ELZPA6047M"
+            },
+            "statementAccounts": [
+                {
+                    "Pending_amount": "NA",
+                    "accType": "SAVINGS",
+                    "accountNo": "XXXXXXXXXX0170",
+                    "accountType": "Bank",
+                    "balanceDateTime": "2025-03-26T21:42:36.000+00:00",
+                    "branch": "SARJAPUR ROAD",
+                    "currency": "INR",
+                    "currentODLimit": "0",
+                    "drawingLimit": "0",
+                    "facility": "NA",
+                    "xnsEndDate": "2025-03-27",
+                    "xnsStartDate": "2024-03-01"
+                }
+            ]
+        }
+    ],
+    "summaryInfo": {
+        "accNo": "XXXXXXXXXX0170",
+        "accType": "SAVINGS",
+        "average": {
+            "balAvg": 3200.33,
+            "balLast": 20799.22,
+            "balMax": 27987.36,
+            "balMin": 691.77,
+            "balOpen": 16065.21,
+            "cashDeposits": 0.0,
+            "cashWithdrawals": 0.0,
+            "chqDeposits": 0.0,
+            "chqIssues": 0.0,
+            "credits": 2.0,
+            "creditsAPS": 3.0,
+            "creditsRev": 0.0,
+            "creditsSC": 0.0,
+            "creditsSelf": 2.0,
+            "debits": 11.0,
+            "debitsAPS": 16.0,
+            "debitsRev": 0.0,
+            "debitsSC": 0.0,
+            "debitsSelf": 4.86,
+            "emiEcsLoanIssues": 0.0,
+            "invIncomes": 0.0,
+            "inwBounces": 0.0,
+            "inwChqBounceNonTechnical": 0.0,
+            "inwEMIBounces": 0.0,
+            "loanDisbursals": 0.0,
+            "outwBounces": 0.0,
+            "salaries": 1.0,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0.0,
+            "totalCredit": 39842.42,
+            "totalCreditAPS": 39842.42,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0.0,
+            "totalCreditSelf": 0.0,
+            "totalDebit": 24650.56,
+            "totalDebitAPS": 35108.41,
+            "totalDebitRev": 0.14,
+            "totalDebitSC": 33.71,
+            "totalDebitSelf": 10457.71,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 29487.14
+        },
+        "fullMonthCount": 12,
+        "instName": "HDFC Bank, India",
+        "total": {
+            "balAvg": 22402.32,
+            "balLast": 145594.52,
+            "balMax": 195911.52,
+            "balMin": 4842.42,
+            "balOpen": 112456.46,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "credits": 11,
+            "creditsAPS": 23,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 12,
+            "debits": 75,
+            "debitsAPS": 110,
+            "debitsRev": 1,
+            "debitsSC": 2,
+            "debitsSelf": 34,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "outwBounces": 0,
+            "salaries": 7,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 278896.96,
+            "totalCreditAPS": 278896.96,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 172553.9,
+            "totalDebitAPS": 245758.9,
+            "totalDebitRev": 1.0,
+            "totalDebitSC": 236.0,
+            "totalDebitSelf": 73204.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 206410.0
+        }
+    },
+    "top5FundsReceived": [
+        {
+            "amount": 590.0,
+            "category": "Upi Mohammad Nameez Mohammednameez Okicici Ubin Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 7.0,
+            "category": "Interest Paid Till Dec",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 720.0,
+            "category": "Upi Mohammed Bilal Ibl Cnrb Payment From Phone",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 1.0,
+            "category": "Upiret",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 3.0,
+            "category": "Interest Paid Till Sep",
+            "month": "Sep-24"
+        }
+    ],
+    "top5FundsTransferred": [
+        {
+            "amount": 180.0,
+            "category": "Upi Rahmatiya Hotel Paytmqrhlgbgq Paytm Yesbptmupi Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 110.0,
+            "category": "Upi Indian Oil Petrol Pu Q Ybl Yesbyblupi Payment From Phone",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 90.0,
+            "category": "Upi Sandeep Kumar Paytmqrbgfj Paytm Yesbptmupi Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 85.0,
+            "category": "Upi Nagalata Naik Paytmqraent Paytm Yesbptmupi Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 70.0,
+            "category": "Upi Gururaj Naik Q Ybl Yesbyblupi Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 54457.0,
+            "category": "Upi Google India Digital Googlebbpscreditcard Icici Icicdc Upi",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 21899.0,
+            "category": "Upi Google India Digital Gpay Creditcard Okpayaxis Utib Upi",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 710.0,
+            "category": "Upi Raghavendra Ibl Icic Upi",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 170.0,
+            "category": "Upi Sri Krishna Sagar Ve Paytmqreodwc Ptys Yesbptmupi Upi",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 150.0,
+            "category": "Upi Mohammed Bilal Ibl Cnrb Payment From Phone",
+            "month": "Feb-25"
+        },
+        {
+            "amount": 40332.0,
+            "category": "Upi Google India Digital Gpay Creditcard Okpayaxis Utib Upi",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 4890.0,
+            "category": "Upi Bibi Sajida Hakim Sajidahakim Oksbi Sbin Upi",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Upi Saniya Anjum Axl Icic Payment From Phone",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 1000.0,
+            "category": "Upi Otium Hospitality Se Paytmqrzkokief Paytm Yesbptmupi Upi",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 825.0,
+            "category": "Upi Satish Kumar Nishad Itbssatishkumar Okhdfcbank Hdfc Upi",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 15000.0,
+            "category": "Upi Ritika Tyagi Axl Hdfc Payment From Phone",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 6000.0,
+            "category": "Upi Sidhik K C Calicutsidhique Okaxis Utib Upi",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 1200.0,
+            "category": "Upi Bibi Sajida Hakim Sajidahakim Okaxis Sbin Upi",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 300.0,
+            "category": "Upi Mohammad Nameez Mohammednameez Okicici Ubin Upi",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 160.0,
+            "category": "Upi Sandeep Kumar Paytmqrbgfj Paytm Yesbptmupi Upi",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 16000.0,
+            "category": "Upi Bibi Sajida Hakim Sajidahakim Okaxis Sbin Upi",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 233.0,
+            "category": "Card Re Issuance Fee Mir",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 110.0,
+            "category": "Upi Universal Filling St Paytmqrdaqsa Ptys Yesbptmupi Upi",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 4000.0,
+            "category": "Upi Bibi Sajida Hakim Sajidahakim Okaxis Sbin Upi",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 580.9,
+            "category": "Upi Google India Digital Gpayrecharge Okpayaxis Utib Upi",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 110.0,
+            "category": "Upi R B Petro Services Paytm Ptys Yesbptmupi Upi",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 22.0,
+            "category": "Upi Gururaj Naik Q Ybl Yesbyblupi Upi",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 3.0,
+            "category": "Card Re Issuance Fee Mir",
+            "month": "Sep-24"
+        }
+    ]
+}

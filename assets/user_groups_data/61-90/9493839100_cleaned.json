@@ -1,0 +1,5605 @@
+{
+    "accountXns": [
+        {
+            "accountNo": "XXXXXXX2610",
+            "accountType": "SAVINGS",
+            "ifscCode": "IDFB0080231",
+            "location": "S/O,R. Venkat Reddy,4-7-10 / 4 / 4,Ragha,vendra Nagar,Near Johnson Grammar School,,Nacharam,Uppal,K.v. Rangareddy,500076",
+            "micrCode": "500751015",
+            "xns": [
+                {
+                    "amount": -2000.0,
+                    "balance": 6568.87,
+                    "category": "cash_withdrawal",
+                    "date": "2024-02-10",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/BHAVANI P/404111005275/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_0"
+                },
+                {
+                    "amount": -6500.0,
+                    "balance": 68.87,
+                    "category": "transfer",
+                    "date": "2024-02-11",
+                    "narration": "IMPS-OPM/Fund Trf/404212997903/20103820291SBIN/",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_1"
+                },
+                {
+                    "amount": 6.0,
+                    "balance": 74.87,
+                    "category": "income_interest",
+                    "date": "2024-02-28",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_2"
+                },
+                {
+                    "amount": -74.0,
+                    "balance": 0.87,
+                    "category": "transfer_to_self",
+                    "date": "2024-03-02",
+                    "narration": "IMPS-OPM/Fund Trf/406207180320/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_3"
+                },
+                {
+                    "amount": 58567.0,
+                    "balance": 58567.87,
+                    "category": "salary",
+                    "date": "2024-03-02",
+                    "narration": "NEFT/AXISP00476603078/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+                    "sub_category": "salary",
+                    "txnid": "TXN_4"
+                },
+                {
+                    "amount": -28000.0,
+                    "balance": 30567.87,
+                    "category": "transfer_to_self",
+                    "date": "2024-03-02",
+                    "narration": "IMPS-OPM/Fund Trf/406217598198/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_5"
+                },
+                {
+                    "amount": 10000.0,
+                    "balance": 40567.87,
+                    "category": "transfer",
+                    "date": "2024-03-02",
+                    "narration": "UPI/MOB/406223579522/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_6"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 39567.87,
+                    "category": "cash_withdrawal",
+                    "date": "2024-03-07",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/PANCHAYAT/406721006541/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_7"
+                },
+                {
+                    "amount": -19567.0,
+                    "balance": 20000.87,
+                    "category": "transfer_to_self",
+                    "date": "2024-03-10",
+                    "narration": "IMPS-OPM/Fund Trf/407009819830/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_8"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 17000.87,
+                    "category": "cash_withdrawal",
+                    "date": "2024-03-24",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/BHAVANI P/408411008448/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_9"
+                },
+                {
+                    "amount": 3000.0,
+                    "balance": 20000.87,
+                    "category": "transfer",
+                    "date": "2024-03-24",
+                    "narration": "UPI/MOB/445056769752/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_10"
+                },
+                {
+                    "amount": -430.0,
+                    "balance": 19570.87,
+                    "category": "transfer",
+                    "date": "2024-03-29",
+                    "narration": "POS-VISA/AVENUE SUPERMARTS LIMIVIJAYAWA/4089150437/VIJAYAWADA/15:21:59",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_11"
+                },
+                {
+                    "amount": 62.0,
+                    "balance": 17132.87,
+                    "category": "income_interest",
+                    "date": "2024-03-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_13"
+                },
+                {
+                    "amount": -2500.0,
+                    "balance": 17070.87,
+                    "category": "cash_withdrawal",
+                    "date": "2024-03-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409110002184/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_12"
+                },
+                {
+                    "amount": -2100.0,
+                    "balance": 15032.87,
+                    "category": "transfer_to_self",
+                    "date": "2024-04-01",
+                    "narration": "IMPS-OPM/Fund Trf/409210394364/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_14"
+                },
+                {
+                    "amount": 58567.0,
+                    "balance": 73599.87,
+                    "category": "salary",
+                    "date": "2024-04-02",
+                    "narration": "NEFT/AXISP00487479113/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+                    "sub_category": "salary",
+                    "txnid": "TXN_15"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 72599.87,
+                    "category": "cash_withdrawal",
+                    "date": "2024-04-04",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409520003719/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_16"
+                },
+                {
+                    "amount": -444.43,
+                    "balance": 72155.44,
+                    "category": "transfer",
+                    "date": "2024-04-06",
+                    "narration": "POS-VISA/AVENUE SUPERMARTS LIMIVIJAYAWA/4097110197/VIJAYAWADA/11:24:54",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_17"
+                },
+                {
+                    "amount": -1500.0,
+                    "balance": 70655.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-04-07",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409819004431/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_18"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 60655.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-04-09",
+                    "narration": "IMPS-OPM/Fund Trf/410008797170/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_19"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 50655.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-04-18",
+                    "narration": "IMPS-OPM/Fund Trf/410919545989/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_20"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40655.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-04-27",
+                    "narration": "IMPS-OPM/Fund Trf/411807194442/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_21"
+                },
+                {
+                    "amount": 139.0,
+                    "balance": 40794.44,
+                    "category": "income_interest",
+                    "date": "2024-04-29",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_22"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 30794.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-05-03",
+                    "narration": "IMPS-OPM/Fund Trf/412405252662/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_23"
+                },
+                {
+                    "amount": 58567.0,
+                    "balance": 89361.44,
+                    "category": "salary",
+                    "date": "2024-05-03",
+                    "narration": "NEFT/AXISP00496515872/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+                    "sub_category": "salary",
+                    "txnid": "TXN_24"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 79361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-03",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000193/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_25"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 69361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-03",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000194/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_26"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 59361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-03",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000195/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_27"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 49361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-03",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000196/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_28"
+                },
+                {
+                    "amount": -4000.0,
+                    "balance": 45361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-05",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412607000640/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_29"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 42361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-06",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412710001038/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_30"
+                },
+                {
+                    "amount": -15000.0,
+                    "balance": 27361.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-05-07",
+                    "narration": "IMPS-OPM/Fund Trf/412806990681/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_31"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 17361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-07",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+SHAMSHAB/412814013280/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_32"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 7361.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-05-07",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+SHAMSHAB/412814013672/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_33"
+                },
+                {
+                    "amount": -7300.0,
+                    "balance": 61.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-05-12",
+                    "narration": "IMPS-OPM/Fund Trf/413308878584/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_34"
+                },
+                {
+                    "amount": -61.0,
+                    "balance": 0.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-05-18",
+                    "narration": "IMPS-OPM/Fund Trf/413922765850/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_35"
+                },
+                {
+                    "amount": 25.0,
+                    "balance": 25.44,
+                    "category": "income_interest",
+                    "date": "2024-05-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_36"
+                },
+                {
+                    "amount": -25.0,
+                    "balance": 0.44,
+                    "category": "bank_charges",
+                    "date": "2024-06-03",
+                    "narration": "NEFT/IDFBH24155244949/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "bank_charges",
+                    "txnid": "TXN_37"
+                },
+                {
+                    "amount": 1.0,
+                    "balance": 1.44,
+                    "category": "transfer",
+                    "date": "2024-06-06",
+                    "narration": "IMPS-MOB/Fund Trf/415817463339/ACCOMPLISHEDUCA/426601001336/IMPSTransaction",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_38"
+                },
+                {
+                    "amount": 108000.0,
+                    "balance": 108001.44,
+                    "category": "salary",
+                    "date": "2024-06-06",
+                    "narration": "IMPS-INET/Fund Trf/415817561491/ACCOMPLISHEDUCA/426601001336/Salary",
+                    "sub_category": "salary",
+                    "txnid": "TXN_39"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 107001.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-06-06",
+                    "narration": "NEFT/IDFBH24158043582/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_40"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 105001.44,
+                    "category": "expenses_fuel",
+                    "date": "2024-06-07",
+                    "narration": "POS-VISA/HPCL HANUMAN FILLING SHYDERABA/4159129414/HYDERABAD/12:59:31",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_41"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 104001.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-06-08",
+                    "narration": "NEFT/IDFBH24160363334/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_42"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 94001.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-06-08",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/416018027067/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_43"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 84001.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-06-08",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/416018028258/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_44"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 34001.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-06-09",
+                    "narration": "NEFT/IDFBH24161594432/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_45"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 33001.44,
+                    "category": "loan_repayment",
+                    "date": "2024-06-09",
+                    "narration": "POS-VISA/BROOK FIELD INTERNAT/416107800689/HYDERABAD/07:33:14",
+                    "sub_category": "loan_repayment",
+                    "txnid": "TXN_46"
+                },
+                {
+                    "amount": -30000.0,
+                    "balance": 3001.44,
+                    "category": "loan_repayment",
+                    "date": "2024-06-19",
+                    "narration": "POS-VISA/BROOK FIELD INTERNAT/417110460369/HYDERABAD/10:00:30",
+                    "sub_category": "loan_repayment",
+                    "txnid": "TXN_47"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 1001.44,
+                    "category": "expenses_fuel",
+                    "date": "2024-06-21",
+                    "narration": "POS-VISA/HPCL HANUMAN FILLING SHYDERABA/4173103479/HYDERABAD/10:39:45",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_48"
+                },
+                {
+                    "amount": 53.0,
+                    "balance": 1054.44,
+                    "category": "income_interest",
+                    "date": "2024-06-29",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_49"
+                },
+                {
+                    "amount": -1054.0,
+                    "balance": 0.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-07",
+                    "narration": "NEFT/IDFBH24189073449/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_50"
+                },
+                {
+                    "amount": 108000.0,
+                    "balance": 108000.44,
+                    "category": "salary",
+                    "date": "2024-07-09",
+                    "narration": "NEFT/36898934671DC/ACCOMPLISH EDUCATION/ICIC0SF0002",
+                    "sub_category": "salary",
+                    "txnid": "TXN_51"
+                },
+                {
+                    "amount": -6000.0,
+                    "balance": 102000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-10",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/419219002982/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_52"
+                },
+                {
+                    "amount": -52000.0,
+                    "balance": 50000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-11",
+                    "narration": "NEFT/IDFBH24193764203/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_53"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311015754/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_54"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 30000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311016620/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_55"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 20000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311017396/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_56"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 10000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311018267/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_57"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 5000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311020222/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_58"
+                },
+                {
+                    "amount": 5000.0,
+                    "balance": 10000.44,
+                    "category": "reversal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/WITHDRAWAL REVERSED/+MADHURA/420311020222",
+                    "sub_category": "reversal",
+                    "txnid": "TXN_59"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 7000.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311020673/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_60"
+                },
+                {
+                    "amount": -434.0,
+                    "balance": 6566.44,
+                    "category": "loan_repayment",
+                    "date": "2024-07-27",
+                    "narration": "POS-VISA/VIJAYADURGA GRAND/420914478544/HYDERABAD/14:17:44",
+                    "sub_category": "loan_repayment",
+                    "txnid": "TXN_61"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 4566.44,
+                    "category": "expenses_fuel",
+                    "date": "2024-07-27",
+                    "narration": "POS-VISA/HANUMAN FILLING STATIOKVRANGAR/4209143605/KVRANGAREDDY/14:28:15",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_62"
+                },
+                {
+                    "amount": 64.0,
+                    "balance": 630.44,
+                    "category": "income_interest",
+                    "date": "2024-07-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_64"
+                },
+                {
+                    "amount": -4000.0,
+                    "balance": 566.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-07-31",
+                    "narration": "NEFT/IDFBH24213656525/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_63"
+                },
+                {
+                    "amount": -576.0,
+                    "balance": 54.44,
+                    "category": "loan_repayment",
+                    "date": "2024-08-10",
+                    "narration": "POS-VISA/VIJAYADURGA GRAND/422314636417/HYDERABAD/14:20:09",
+                    "sub_category": "loan_repayment",
+                    "txnid": "TXN_65"
+                },
+                {
+                    "amount": 82000.0,
+                    "balance": 82054.44,
+                    "category": "salary",
+                    "date": "2024-08-19",
+                    "narration": "IMPS-INET/Fund Trf/423208534683/ACCOMPLISHEDUCA/426601001336/Salary",
+                    "sub_category": "salary",
+                    "txnid": "TXN_66"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 80054.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-19",
+                    "narration": "NEFT/IDFBH24232905698/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_67"
+                },
+                {
+                    "amount": -40000.0,
+                    "balance": 40054.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-22",
+                    "narration": "NEFT/IDFBH24235414032/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_68"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 35054.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-22",
+                    "narration": "NEFT/IDFBH24235527918/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_69"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 33054.44,
+                    "category": "transfer",
+                    "date": "2024-08-24",
+                    "narration": "POS-VISA/LAKSHMI NARASIMHA FILLHYDERABA/4237023020/HYDERABAD/02:45:56",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_70"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 28054.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-24",
+                    "narration": "NEFT/IDFBH24237721576/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_71"
+                },
+                {
+                    "amount": 1.0,
+                    "balance": 28055.44,
+                    "category": "transfer",
+                    "date": "2024-08-25",
+                    "narration": "UPI/MOB/423802066262/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_72"
+                },
+                {
+                    "amount": 50000.0,
+                    "balance": 78055.44,
+                    "category": "transfer",
+                    "date": "2024-08-25",
+                    "narration": "UPI/MOB/423847874520/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_73"
+                },
+                {
+                    "amount": 68.0,
+                    "balance": 10123.44,
+                    "category": "income_interest",
+                    "date": "2024-08-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_80"
+                },
+                {
+                    "amount": -18000.0,
+                    "balance": 60055.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-08-31",
+                    "narration": "NEFT/IDFBH24244601426/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_74"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 50055.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019063/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_75"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40055.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019431/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_76"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 30055.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019924/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_77"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 20055.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419022402/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_78"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 10055.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-08-31",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419022789/SEL",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_79"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 123.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-09-01",
+                    "narration": "NEFT/IDFBH24245836249/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_81"
+                },
+                {
+                    "amount": -100.0,
+                    "balance": 23.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-09-30",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/427419027180/SELF",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_82"
+                },
+                {
+                    "amount": 104000.0,
+                    "balance": 104023.44,
+                    "category": "salary",
+                    "date": "2024-10-05",
+                    "narration": "IMPS-INET/Fund Trf/427914930579/ACCOMPLISHEDUCA/426601001336/Salary",
+                    "sub_category": "salary",
+                    "txnid": "TXN_83"
+                },
+                {
+                    "amount": 4000.0,
+                    "balance": 108023.44,
+                    "category": "loan_disbursed",
+                    "date": "2024-10-06",
+                    "narration": "IMPS-INET/Fund Trf/428007570056/ACCOMPLISHEDUCA/426601001336/Salary",
+                    "sub_category": "loan_disbursed",
+                    "txnid": "TXN_84"
+                },
+                {
+                    "amount": 108000.0,
+                    "balance": 216023.44,
+                    "category": "salary",
+                    "date": "2024-10-18",
+                    "narration": "IMPS-INET/Fund Trf/429219786658/ACCOMPLISHEDUCA/426601001336/Salary",
+                    "sub_category": "salary",
+                    "txnid": "TXN_85"
+                },
+                {
+                    "amount": 47.0,
+                    "balance": 216070.44,
+                    "category": "transfer",
+                    "date": "2024-10-19",
+                    "narration": "UPI/MOB/429324987562/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_86"
+                },
+                {
+                    "amount": -16000.0,
+                    "balance": 200070.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-19",
+                    "narration": "NEFT/IDFBH24293756260/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_87"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 150070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "NEFT/IDFBH24294800973/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_88"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 149070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_89"
+                },
+                {
+                    "amount": -9000.0,
+                    "balance": 140070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_90"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 130070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_91"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 120070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_92"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 110070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_93"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 100070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_94"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 90070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_95"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 89070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_96"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 79070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_97"
+                },
+                {
+                    "amount": -9000.0,
+                    "balance": 70070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-20",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_98"
+                },
+                {
+                    "amount": -20000.0,
+                    "balance": 50070.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-10-23",
+                    "narration": "NEFT/IDFBH24297318626/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_99"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-25",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_100"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 30070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-25",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_101"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 20070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-25",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_102"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 10070.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-25",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_103"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 70.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-10-25",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_104"
+                },
+                {
+                    "amount": 175.0,
+                    "balance": 245.44,
+                    "category": "income_interest",
+                    "date": "2024-10-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_105"
+                },
+                {
+                    "amount": -245.0,
+                    "balance": 0.44,
+                    "category": "transfer_to_self",
+                    "date": "2024-11-05",
+                    "narration": "NEFT/IDFBH24310942917/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "transfer_to_self",
+                    "txnid": "TXN_106"
+                },
+                {
+                    "amount": 108000.0,
+                    "balance": 108000.44,
+                    "category": "salary",
+                    "date": "2024-11-27",
+                    "narration": "NEFT/BKIDY24332510136/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0005663",
+                    "sub_category": "salary",
+                    "txnid": "TXN_107"
+                },
+                {
+                    "amount": 36.0,
+                    "balance": 108036.44,
+                    "category": "income_interest",
+                    "date": "2024-11-29",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_108"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 105036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "NEFT/IDFBH24336949519/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_109"
+                },
+                {
+                    "amount": -50000.0,
+                    "balance": 55036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "NEFT/IDFBH24336987548/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_110"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 45036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_111"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 35036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_112"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 25036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_113"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 15036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_114"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 12036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_115"
+                },
+                {
+                    "amount": -8000.0,
+                    "balance": 4036.44,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-01",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_116"
+                },
+                {
+                    "amount": 6000.0,
+                    "balance": 10036.44,
+                    "category": "transfer",
+                    "date": "2024-12-01",
+                    "narration": "UPI/MOB/433692708328/NA",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_117"
+                },
+                {
+                    "amount": 40000.0,
+                    "balance": 50036.44,
+                    "category": "transfer",
+                    "date": "2024-12-05",
+                    "narration": "UPI/MOB/434004809308/UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_118"
+                },
+                {
+                    "amount": 0.02,
+                    "balance": 50036.46,
+                    "category": "income_interest",
+                    "date": "2024-12-08",
+                    "narration": "Savings Account Interest Adjustment Nov-24",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_119"
+                },
+                {
+                    "amount": -26250.0,
+                    "balance": 23786.46,
+                    "category": "utility_others",
+                    "date": "2024-12-15",
+                    "narration": "POS-VISA/BAJAJ ELECTRONICS/435014499678/HYDERABAD/14:01:39",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_120"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 22786.46,
+                    "category": "utility_others",
+                    "date": "2024-12-15",
+                    "narration": "POS-VISA/BAJAJ ELECTRONICS/435014504593/HYDERABAD/14:05:52",
+                    "sub_category": "utility_others",
+                    "txnid": "TXN_121"
+                },
+                {
+                    "amount": -22700.0,
+                    "balance": 86.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-15",
+                    "narration": "NEFT/IDFBH24351395481/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_122"
+                },
+                {
+                    "amount": 97200.0,
+                    "balance": 97286.46,
+                    "category": "salary",
+                    "date": "2024-12-20",
+                    "narration": "NEFT/BKIDY24355543478/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0000200",
+                    "sub_category": "salary",
+                    "txnid": "TXN_123"
+                },
+                {
+                    "amount": 3000.0,
+                    "balance": 100286.46,
+                    "category": "transfer",
+                    "date": "2024-12-20",
+                    "narration": "UPI/MOB/435509248763/Sent using Paytm UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_124"
+                },
+                {
+                    "amount": -40000.0,
+                    "balance": 60286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "NEFT/IDFBH24357300407/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_125"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 50286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_126"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 40286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_127"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 30286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_128"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 20286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_129"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 10286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_130"
+                },
+                {
+                    "amount": -5000.0,
+                    "balance": 5286.46,
+                    "category": "cash_withdrawal",
+                    "date": "2024-12-22",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+RALLAGUDA            HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_131"
+                },
+                {
+                    "amount": 67.0,
+                    "balance": 5353.46,
+                    "category": "income_interest",
+                    "date": "2024-12-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_132"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 3353.46,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-07",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+Shamshabad           Hyde",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_133"
+                },
+                {
+                    "amount": -339.24,
+                    "balance": 3014.22,
+                    "category": "transfer",
+                    "date": "2025-01-07",
+                    "narration": "POS-VISA/TRUST CHEMISTS AND DRUHYDERABA/5007191647/HYDERABAD/19:53:07",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_134"
+                },
+                {
+                    "amount": -3000.0,
+                    "balance": 14.22,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-10",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+Shamshabad           Hyde",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_135"
+                },
+                {
+                    "amount": 108000.0,
+                    "balance": 108014.22,
+                    "category": "loan_disbursed",
+                    "date": "2025-01-10",
+                    "narration": "NEFT/BKIDY25010402931/SREE SREE GAYATHRI EDUCATIONAL/BKID0005663",
+                    "sub_category": "loan_disbursed",
+                    "txnid": "TXN_136"
+                },
+                {
+                    "amount": 100.0,
+                    "balance": 108114.22,
+                    "category": "transfer",
+                    "date": "2025-01-11",
+                    "narration": "UPI/MOB/501171298848/Sent using Paytm UPI",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_137"
+                },
+                {
+                    "amount": -2620.31,
+                    "balance": 105493.91,
+                    "category": "expenses_fuel",
+                    "date": "2025-01-12",
+                    "narration": "POS-VISA/HANUMAN FILLING STATIOKVRangar/5012124041/KVRangareddy/12:15:34",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_138"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 103493.91,
+                    "category": "transfer",
+                    "date": "2025-01-16",
+                    "narration": "POS-VISA/PARTHASARATHY FILLING NALGONDA/5016113431/NALGONDA/11:04:10",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_139"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 101493.91,
+                    "category": "expenses_fuel",
+                    "date": "2025-01-20",
+                    "narration": "POS-VISA/HANUMAN FILLING STATIORANGA RE/5020107133/RANGA REDDY/10:32:47",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_140"
+                },
+                {
+                    "amount": -1000.0,
+                    "balance": 100493.91,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-21",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/+RALLAGUDA            HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_141"
+                },
+                {
+                    "amount": -779.13,
+                    "balance": 99714.78,
+                    "category": "transfer",
+                    "date": "2025-01-22",
+                    "narration": "POS-VISA/VIJETHA SUPERMARKETS PHYDERABA/5022107219/HYDERABAD/10:43:43",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_142"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 97714.78,
+                    "category": "transfer",
+                    "date": "2025-01-23",
+                    "narration": "POS-VISA/SRI DURGA TURBO FUELS MERAYALA/5023102170/MERAYALAGUDA/10:47:42",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_143"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 95714.78,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-24",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_144"
+                },
+                {
+                    "amount": -10000.0,
+                    "balance": 85714.78,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-27",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/23   171 1Shamshabad  Sham",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_145"
+                },
+                {
+                    "amount": -8000.0,
+                    "balance": 77714.78,
+                    "category": "cash_withdrawal",
+                    "date": "2025-01-28",
+                    "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+                    "sub_category": "cash_withdrawal",
+                    "txnid": "TXN_146"
+                },
+                {
+                    "amount": 1.0,
+                    "balance": 77715.78,
+                    "category": "transfer",
+                    "date": "2025-01-30",
+                    "narration": "IFT/10106399432/PERFIOS SOFTWARE SOL/903144/cars24ServicesPrivateLimitedSellerTeamBankAccountValidation",
+                    "sub_category": "transfer",
+                    "txnid": "TXN_147"
+                },
+                {
+                    "amount": -2000.0,
+                    "balance": 75715.78,
+                    "category": "expenses_fuel",
+                    "date": "2025-01-30",
+                    "narration": "POS-VISA/HANUMAN FILLING STATIORANGA RE/5030140322/RANGA REDDY/14:22:16",
+                    "sub_category": "expenses_fuel",
+                    "txnid": "TXN_148"
+                },
+                {
+                    "amount": 179.0,
+                    "balance": 75894.78,
+                    "category": "income_interest",
+                    "date": "2025-01-30",
+                    "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+                    "sub_category": "income_interest",
+                    "txnid": "TXN_149"
+                }
+            ]
+        }
+    ],
+    "bouncedOrPenalXns": [
+        {
+            "amount": -25.0,
+            "balance": 0.44,
+            "category": "BANK_CHARGES",
+            "date": "2024-06-03",
+            "narration": "NEFT/IDFBH24155244949/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "TXN_37"
+        }
+    ],
+    "customerInfo": {
+        "accountRef": "02597d50-d4ad-49c2-b546-297a7a88ee32",
+        "address": "S/O,R. Venkat Reddy,4-7-10 / 4 / 4,Ragha,vendra Nagar,Near Johnson Grammar School,,Nacharam,Uppal,K.v. Rangareddy,500076",
+        "bank": "IDFC FIRST BANK",
+        "ckycCompliance": "false",
+        "consent_id": "2b914254-5b7b-434d-b9d4-6c72c378b597",
+        "custId": "9493839100@finvu",
+        "dob": "1979-04-01",
+        "email": "ranabothu.krishna@gmail.com",
+        "fip_id": "IDFCFirstBank-FIP",
+        "landline": "NA",
+        "marital_status": "NA",
+        "mobile": "9493839100",
+        "name": "Mr. Ranabothu Krishna Reddy",
+        "pan": "AZLPR6296D",
+        "session_id": "735ea236-201d-408e-967f-cee7a0c67ddf"
+    },
+    "eMIECSLOANXns": [
+        {
+            "amount": -1000.0,
+            "balance": 33001.44,
+            "category": "loan_repayment",
+            "date": "2024-06-09",
+            "narration": "POS-VISA/BROOK FIELD INTERNAT/416107800689/HYDERABAD/07:33:14",
+            "txnid": "TXN_46"
+        },
+        {
+            "amount": -30000.0,
+            "balance": 3001.44,
+            "category": "loan_repayment",
+            "date": "2024-06-19",
+            "narration": "POS-VISA/BROOK FIELD INTERNAT/417110460369/HYDERABAD/10:00:30",
+            "txnid": "TXN_47"
+        },
+        {
+            "amount": -434.0,
+            "balance": 6566.44,
+            "category": "loan_repayment",
+            "date": "2024-07-27",
+            "narration": "POS-VISA/VIJAYADURGA GRAND/420914478544/HYDERABAD/14:17:44",
+            "txnid": "TXN_61"
+        },
+        {
+            "amount": -576.0,
+            "balance": 54.44,
+            "category": "loan_repayment",
+            "date": "2024-08-10",
+            "narration": "POS-VISA/VIJAYADURGA GRAND/422314636417/HYDERABAD/14:20:09",
+            "txnid": "TXN_65"
+        }
+    ],
+    "eODBalances": [
+        {
+            "balance": 6568.87,
+            "date": "2024-02-10"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-11"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-12"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-13"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-14"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-15"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-16"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-17"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-18"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-19"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-20"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-21"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-22"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-23"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-24"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-25"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-26"
+        },
+        {
+            "balance": 68.87,
+            "date": "2024-02-27"
+        },
+        {
+            "balance": 74.87,
+            "date": "2024-02-28"
+        },
+        {
+            "balance": 74.87,
+            "date": "2024-02-29"
+        },
+        {
+            "balance": 74.87,
+            "date": "2024-03-01"
+        },
+        {
+            "balance": 40567.87,
+            "date": "2024-03-02"
+        },
+        {
+            "balance": 40567.87,
+            "date": "2024-03-03"
+        },
+        {
+            "balance": 40567.87,
+            "date": "2024-03-04"
+        },
+        {
+            "balance": 40567.87,
+            "date": "2024-03-05"
+        },
+        {
+            "balance": 40567.87,
+            "date": "2024-03-06"
+        },
+        {
+            "balance": 39567.87,
+            "date": "2024-03-07"
+        },
+        {
+            "balance": 39567.87,
+            "date": "2024-03-08"
+        },
+        {
+            "balance": 39567.87,
+            "date": "2024-03-09"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-10"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-11"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-12"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-13"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-14"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-15"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-16"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-17"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-18"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-19"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-20"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-21"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-22"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-23"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-24"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-25"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-26"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-27"
+        },
+        {
+            "balance": 20000.87,
+            "date": "2024-03-28"
+        },
+        {
+            "balance": 19570.87,
+            "date": "2024-03-29"
+        },
+        {
+            "balance": 17132.87,
+            "date": "2024-03-30"
+        },
+        {
+            "balance": 17070.87,
+            "date": "2024-03-31"
+        },
+        {
+            "balance": 15032.87,
+            "date": "2024-04-01"
+        },
+        {
+            "balance": 73599.87,
+            "date": "2024-04-02"
+        },
+        {
+            "balance": 73599.87,
+            "date": "2024-04-03"
+        },
+        {
+            "balance": 72599.87,
+            "date": "2024-04-04"
+        },
+        {
+            "balance": 72599.87,
+            "date": "2024-04-05"
+        },
+        {
+            "balance": 72155.44,
+            "date": "2024-04-06"
+        },
+        {
+            "balance": 70655.44,
+            "date": "2024-04-07"
+        },
+        {
+            "balance": 70655.44,
+            "date": "2024-04-08"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-09"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-10"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-11"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-12"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-13"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-14"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-15"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-16"
+        },
+        {
+            "balance": 60655.44,
+            "date": "2024-04-17"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-18"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-19"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-20"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-21"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-22"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-23"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-24"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-25"
+        },
+        {
+            "balance": 50655.44,
+            "date": "2024-04-26"
+        },
+        {
+            "balance": 40655.44,
+            "date": "2024-04-27"
+        },
+        {
+            "balance": 40655.44,
+            "date": "2024-04-28"
+        },
+        {
+            "balance": 40794.44,
+            "date": "2024-04-29"
+        },
+        {
+            "balance": 40794.44,
+            "date": "2024-04-30"
+        },
+        {
+            "balance": 40794.44,
+            "date": "2024-05-01"
+        },
+        {
+            "balance": 40794.44,
+            "date": "2024-05-02"
+        },
+        {
+            "balance": 49361.44,
+            "date": "2024-05-03"
+        },
+        {
+            "balance": 49361.44,
+            "date": "2024-05-04"
+        },
+        {
+            "balance": 45361.44,
+            "date": "2024-05-05"
+        },
+        {
+            "balance": 42361.44,
+            "date": "2024-05-06"
+        },
+        {
+            "balance": 7361.44,
+            "date": "2024-05-07"
+        },
+        {
+            "balance": 7361.44,
+            "date": "2024-05-08"
+        },
+        {
+            "balance": 7361.44,
+            "date": "2024-05-09"
+        },
+        {
+            "balance": 7361.44,
+            "date": "2024-05-10"
+        },
+        {
+            "balance": 7361.44,
+            "date": "2024-05-11"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-12"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-13"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-14"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-15"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-16"
+        },
+        {
+            "balance": 61.44,
+            "date": "2024-05-17"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-18"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-19"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-20"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-21"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-22"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-23"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-24"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-25"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-26"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-27"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-28"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-05-29"
+        },
+        {
+            "balance": 25.44,
+            "date": "2024-05-30"
+        },
+        {
+            "balance": 25.44,
+            "date": "2024-05-31"
+        },
+        {
+            "balance": 25.44,
+            "date": "2024-06-01"
+        },
+        {
+            "balance": 25.44,
+            "date": "2024-06-02"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-06-03"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-06-04"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-06-05"
+        },
+        {
+            "balance": 107001.44,
+            "date": "2024-06-06"
+        },
+        {
+            "balance": 105001.44,
+            "date": "2024-06-07"
+        },
+        {
+            "balance": 84001.44,
+            "date": "2024-06-08"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-09"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-10"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-11"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-12"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-13"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-14"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-15"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-16"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-17"
+        },
+        {
+            "balance": 33001.44,
+            "date": "2024-06-18"
+        },
+        {
+            "balance": 3001.44,
+            "date": "2024-06-19"
+        },
+        {
+            "balance": 3001.44,
+            "date": "2024-06-20"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-21"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-22"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-23"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-24"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-25"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-26"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-27"
+        },
+        {
+            "balance": 1001.44,
+            "date": "2024-06-28"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-06-29"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-06-30"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-01"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-02"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-03"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-04"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-05"
+        },
+        {
+            "balance": 1054.44,
+            "date": "2024-07-06"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-07-07"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-07-08"
+        },
+        {
+            "balance": 108000.44,
+            "date": "2024-07-09"
+        },
+        {
+            "balance": 102000.44,
+            "date": "2024-07-10"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-11"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-12"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-13"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-14"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-15"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-16"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-17"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-18"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-19"
+        },
+        {
+            "balance": 50000.44,
+            "date": "2024-07-20"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-21"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-22"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-23"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-24"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-25"
+        },
+        {
+            "balance": 7000.44,
+            "date": "2024-07-26"
+        },
+        {
+            "balance": 4566.44,
+            "date": "2024-07-27"
+        },
+        {
+            "balance": 4566.44,
+            "date": "2024-07-28"
+        },
+        {
+            "balance": 4566.44,
+            "date": "2024-07-29"
+        },
+        {
+            "balance": 630.44,
+            "date": "2024-07-30"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-07-31"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-01"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-02"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-03"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-04"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-05"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-06"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-07"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-08"
+        },
+        {
+            "balance": 566.44,
+            "date": "2024-08-09"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-10"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-11"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-12"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-13"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-14"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-15"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-16"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-17"
+        },
+        {
+            "balance": 54.44,
+            "date": "2024-08-18"
+        },
+        {
+            "balance": 80054.44,
+            "date": "2024-08-19"
+        },
+        {
+            "balance": 80054.44,
+            "date": "2024-08-20"
+        },
+        {
+            "balance": 80054.44,
+            "date": "2024-08-21"
+        },
+        {
+            "balance": 35054.44,
+            "date": "2024-08-22"
+        },
+        {
+            "balance": 35054.44,
+            "date": "2024-08-23"
+        },
+        {
+            "balance": 28054.44,
+            "date": "2024-08-24"
+        },
+        {
+            "balance": 78055.44,
+            "date": "2024-08-25"
+        },
+        {
+            "balance": 78055.44,
+            "date": "2024-08-26"
+        },
+        {
+            "balance": 78055.44,
+            "date": "2024-08-27"
+        },
+        {
+            "balance": 78055.44,
+            "date": "2024-08-28"
+        },
+        {
+            "balance": 78055.44,
+            "date": "2024-08-29"
+        },
+        {
+            "balance": 10123.44,
+            "date": "2024-08-30"
+        },
+        {
+            "balance": 10055.44,
+            "date": "2024-08-31"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-01"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-02"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-03"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-04"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-05"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-06"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-07"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-08"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-09"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-10"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-11"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-12"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-13"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-14"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-15"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-16"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-17"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-18"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-19"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-20"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-21"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-22"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-23"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-24"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-25"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-26"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-27"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-28"
+        },
+        {
+            "balance": 123.44,
+            "date": "2024-09-29"
+        },
+        {
+            "balance": 23.44,
+            "date": "2024-09-30"
+        },
+        {
+            "balance": 23.44,
+            "date": "2024-10-01"
+        },
+        {
+            "balance": 23.44,
+            "date": "2024-10-02"
+        },
+        {
+            "balance": 23.44,
+            "date": "2024-10-03"
+        },
+        {
+            "balance": 23.44,
+            "date": "2024-10-04"
+        },
+        {
+            "balance": 104023.44,
+            "date": "2024-10-05"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-06"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-07"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-08"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-09"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-10"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-11"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-12"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-13"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-14"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-15"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-16"
+        },
+        {
+            "balance": 108023.44,
+            "date": "2024-10-17"
+        },
+        {
+            "balance": 216023.44,
+            "date": "2024-10-18"
+        },
+        {
+            "balance": 200070.44,
+            "date": "2024-10-19"
+        },
+        {
+            "balance": 70070.44,
+            "date": "2024-10-20"
+        },
+        {
+            "balance": 70070.44,
+            "date": "2024-10-21"
+        },
+        {
+            "balance": 70070.44,
+            "date": "2024-10-22"
+        },
+        {
+            "balance": 50070.44,
+            "date": "2024-10-23"
+        },
+        {
+            "balance": 50070.44,
+            "date": "2024-10-24"
+        },
+        {
+            "balance": 70.44,
+            "date": "2024-10-25"
+        },
+        {
+            "balance": 70.44,
+            "date": "2024-10-26"
+        },
+        {
+            "balance": 70.44,
+            "date": "2024-10-27"
+        },
+        {
+            "balance": 70.44,
+            "date": "2024-10-28"
+        },
+        {
+            "balance": 70.44,
+            "date": "2024-10-29"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-10-30"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-10-31"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-11-01"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-11-02"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-11-03"
+        },
+        {
+            "balance": 245.44,
+            "date": "2024-11-04"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-05"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-06"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-07"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-08"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-09"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-10"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-11"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-12"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-13"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-14"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-15"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-16"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-17"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-18"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-19"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-20"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-21"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-22"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-23"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-24"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-25"
+        },
+        {
+            "balance": 0.44,
+            "date": "2024-11-26"
+        },
+        {
+            "balance": 108000.44,
+            "date": "2024-11-27"
+        },
+        {
+            "balance": 108000.44,
+            "date": "2024-11-28"
+        },
+        {
+            "balance": 108036.44,
+            "date": "2024-11-29"
+        },
+        {
+            "balance": 108036.44,
+            "date": "2024-11-30"
+        },
+        {
+            "balance": 10036.44,
+            "date": "2024-12-01"
+        },
+        {
+            "balance": 10036.44,
+            "date": "2024-12-02"
+        },
+        {
+            "balance": 10036.44,
+            "date": "2024-12-03"
+        },
+        {
+            "balance": 10036.44,
+            "date": "2024-12-04"
+        },
+        {
+            "balance": 50036.44,
+            "date": "2024-12-05"
+        },
+        {
+            "balance": 50036.44,
+            "date": "2024-12-06"
+        },
+        {
+            "balance": 50036.44,
+            "date": "2024-12-07"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-08"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-09"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-10"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-11"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-12"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-13"
+        },
+        {
+            "balance": 50036.46,
+            "date": "2024-12-14"
+        },
+        {
+            "balance": 86.46,
+            "date": "2024-12-15"
+        },
+        {
+            "balance": 86.46,
+            "date": "2024-12-16"
+        },
+        {
+            "balance": 86.46,
+            "date": "2024-12-17"
+        },
+        {
+            "balance": 86.46,
+            "date": "2024-12-18"
+        },
+        {
+            "balance": 86.46,
+            "date": "2024-12-19"
+        },
+        {
+            "balance": 100286.46,
+            "date": "2024-12-20"
+        },
+        {
+            "balance": 100286.46,
+            "date": "2024-12-21"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-22"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-23"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-24"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-25"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-26"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-27"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-28"
+        },
+        {
+            "balance": 5286.46,
+            "date": "2024-12-29"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2024-12-30"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2024-12-31"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-01"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-02"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-03"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-04"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-05"
+        },
+        {
+            "balance": 5353.46,
+            "date": "2025-01-06"
+        },
+        {
+            "balance": 3014.22,
+            "date": "2025-01-07"
+        },
+        {
+            "balance": 3014.22,
+            "date": "2025-01-08"
+        },
+        {
+            "balance": 3014.22,
+            "date": "2025-01-09"
+        },
+        {
+            "balance": 108014.22,
+            "date": "2025-01-10"
+        },
+        {
+            "balance": 108114.22,
+            "date": "2025-01-11"
+        },
+        {
+            "balance": 105493.91,
+            "date": "2025-01-12"
+        },
+        {
+            "balance": 105493.91,
+            "date": "2025-01-13"
+        },
+        {
+            "balance": 105493.91,
+            "date": "2025-01-14"
+        },
+        {
+            "balance": 105493.91,
+            "date": "2025-01-15"
+        },
+        {
+            "balance": 103493.91,
+            "date": "2025-01-16"
+        },
+        {
+            "balance": 103493.91,
+            "date": "2025-01-17"
+        },
+        {
+            "balance": 103493.91,
+            "date": "2025-01-18"
+        },
+        {
+            "balance": 103493.91,
+            "date": "2025-01-19"
+        },
+        {
+            "balance": 101493.91,
+            "date": "2025-01-20"
+        },
+        {
+            "balance": 100493.91,
+            "date": "2025-01-21"
+        },
+        {
+            "balance": 99714.78,
+            "date": "2025-01-22"
+        },
+        {
+            "balance": 97714.78,
+            "date": "2025-01-23"
+        },
+        {
+            "balance": 95714.78,
+            "date": "2025-01-24"
+        },
+        {
+            "balance": 95714.78,
+            "date": "2025-01-25"
+        },
+        {
+            "balance": 95714.78,
+            "date": "2025-01-26"
+        },
+        {
+            "balance": 85714.78,
+            "date": "2025-01-27"
+        },
+        {
+            "balance": 77714.78,
+            "date": "2025-01-28"
+        },
+        {
+            "balance": 77714.78,
+            "date": "2025-01-29"
+        },
+        {
+            "balance": 75894.78,
+            "date": "2025-01-30"
+        }
+    ],
+    "fCUAnalysis": {
+        "behaviouralTransactionalIndicators": {
+            "bigDebitAfterSalaryXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "discontinuityInCredits": {
+                "status": "false"
+            },
+            "equalCreditDebitXns": {
+                "status": "false"
+            },
+            "highCashDepositXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularInterestDebitXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "irregularSalaryCreditXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "irregularTransferToPartiesXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "negativeEODBalanceXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "partiesInCreditsAndDebits": {
+                "partyName": "NA"
+            },
+            "salaryAmountNotVaryingXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            },
+            "taxPaymentXns": {
+                "amount": "NA",
+                "balance": "NA",
+                "category": "NA",
+                "date": "NA",
+                "narration": "NA",
+                "txnid": "NA"
+            }
+        },
+        "possibleFraudIndicators": {
+            "amountBalanceMismatchXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "lowAccountVintage": {
+                "status": "false"
+            },
+            "salaryOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "suspiciousATMXns": [],
+            "suspiciousRTGSXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ],
+            "transactionOnHolidayXns": [
+                {
+                    "amount": "NA",
+                    "balance": "NA",
+                    "category": "NA",
+                    "date": "NA",
+                    "narration": "NA",
+                    "txnid": "NA"
+                }
+            ]
+        }
+    },
+    "highValueCreditXns": [
+        {
+            "amount": 58567.0,
+            "balance": 58567.87,
+            "category": "salary",
+            "date": "2024-03-02",
+            "narration": "NEFT/AXISP00476603078/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 58567.0,
+            "balance": 73599.87,
+            "category": "salary",
+            "date": "2024-04-02",
+            "narration": "NEFT/AXISP00487479113/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 58567.0,
+            "balance": 89361.44,
+            "category": "salary",
+            "date": "2024-05-03",
+            "narration": "NEFT/AXISP00496515872/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108001.44,
+            "category": "salary",
+            "date": "2024-06-06",
+            "narration": "IMPS-INET/Fund Trf/415817561491/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "415817561491"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108000.44,
+            "category": "salary",
+            "date": "2024-07-09",
+            "narration": "NEFT/36898934671DC/ACCOMPLISH EDUCATION/ICIC0SF0002",
+            "txnid": "0"
+        },
+        {
+            "amount": 82000.0,
+            "balance": 82054.44,
+            "category": "salary",
+            "date": "2024-08-19",
+            "narration": "IMPS-INET/Fund Trf/423208534683/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "423208534683"
+        },
+        {
+            "amount": 104000.0,
+            "balance": 104023.44,
+            "category": "salary",
+            "date": "2024-10-05",
+            "narration": "IMPS-INET/Fund Trf/427914930579/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "427914930579"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 216023.44,
+            "category": "salary",
+            "date": "2024-10-18",
+            "narration": "IMPS-INET/Fund Trf/429219786658/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "429219786658"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108000.44,
+            "category": "salary",
+            "date": "2024-11-27",
+            "narration": "NEFT/BKIDY24332510136/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0005663",
+            "txnid": "0"
+        },
+        {
+            "amount": 97200.0,
+            "balance": 97286.46,
+            "category": "salary",
+            "date": "2024-12-20",
+            "narration": "NEFT/BKIDY24355543478/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0000200",
+            "txnid": "0"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108014.22,
+            "category": "loan_disbursed",
+            "date": "2025-01-10",
+            "narration": "NEFT/BKIDY25010402931/SREE SREE GAYATHRI EDUCATIONAL/BKID0005663",
+            "txnid": "0"
+        }
+    ],
+    "highValueDebitXns": [
+        {
+            "amount": -50000.0,
+            "balance": 34001.44,
+            "category": "cash_withdrawal",
+            "date": "2024-06-09",
+            "narration": "NEFT/IDFBH24161594432/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241619560206"
+        },
+        {
+            "amount": -30000.0,
+            "balance": 3001.44,
+            "category": "loan_repayment",
+            "date": "2024-06-19",
+            "narration": "POS-VISA/BROOK FIELD INTERNAT/417110460369/HYDERABAD/10:00:30",
+            "txnid": "0"
+        },
+        {
+            "amount": -52000.0,
+            "balance": 50000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-11",
+            "narration": "NEFT/IDFBH24193764203/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241935464709"
+        },
+        {
+            "amount": -50000.0,
+            "balance": 150070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "narration": "NEFT/IDFBH24294800973/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242944839002"
+        },
+        {
+            "amount": -50000.0,
+            "balance": 55036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "narration": "NEFT/IDFBH24336987548/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243363258226"
+        },
+        {
+            "amount": -26250.0,
+            "balance": 23786.46,
+            "category": "utility_others",
+            "date": "2024-12-15",
+            "narration": "POS-VISA/BAJAJ ELECTRONICS/435014499678/HYDERABAD/14:01:39",
+            "txnid": "0"
+        },
+        {
+            "amount": -22700.0,
+            "balance": 86.46,
+            "category": "NA",
+            "date": "2024-12-15",
+            "narration": "NEFT/IDFBH24351395481/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243516417258"
+        },
+        {
+            "amount": -40000.0,
+            "balance": 60286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "narration": "NEFT/IDFBH24357300407/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243577675131"
+        }
+    ],
+    "inwEMIBounceXns": [
+        {
+            "amount": "NA",
+            "balance": "NA",
+            "category": "NA",
+            "date": "NA",
+            "narration": "NA",
+            "txnid": "NA"
+        }
+    ],
+    "loanDisbursalXns": [
+        {
+            "amount": 4000.0,
+            "balance": 108023.44,
+            "category": "loan_disbursed",
+            "date": "2024-10-06",
+            "narration": "IMPS-INET/Fund Trf/428007570056/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "TXN_84"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108014.22,
+            "category": "loan_disbursed",
+            "date": "2025-01-10",
+            "narration": "NEFT/BKIDY25010402931/SREE SREE GAYATHRI EDUCATIONAL/BKID0005663",
+            "txnid": "TXN_136"
+        }
+    ],
+    "monthlyDetails": [
+        {
+            "balAvg": 2931.35,
+            "balLast": 74.87,
+            "balMax": 8568.87,
+            "balMin": 68.87,
+            "balOpen": 8568.87,
+            "cashDeposits": 0,
+            "cashWithdrawals": 1,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 1,
+            "creditsAPS": 1,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 2,
+            "debitsAPS": 2,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Feb-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-02-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 2000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 6.0,
+            "totalCreditAPS": 6.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 8500.0,
+            "totalDebitAPS": 8500.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 24368.03,
+            "balLast": 17070.87,
+            "balMax": 40567.87,
+            "balMin": 74.87,
+            "balOpen": 74.87,
+            "cashDeposits": 0,
+            "cashWithdrawals": 3,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 4,
+            "debitsAPS": 7,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 3,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Mar-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-03-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 6500.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 71629.0,
+            "totalCreditAPS": 71629.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 6930.0,
+            "totalDebitAPS": 54571.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 47641.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 58567.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 56186.54,
+            "balLast": 40794.44,
+            "balMax": 73599.87,
+            "balMin": 15032.87,
+            "balOpen": 17132.87,
+            "cashDeposits": 0,
+            "cashWithdrawals": 2,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 3,
+            "debitsAPS": 7,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 4,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Apr-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-04-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 2500.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 58706.0,
+            "totalCreditAPS": 58706.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 2944.43,
+            "totalDebitAPS": 35044.43,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 32100.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 58567.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 9847.31,
+            "balLast": 25.44,
+            "balMax": 49361.44,
+            "balMin": 0.44,
+            "balOpen": 40794.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 8,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 8,
+            "debitsAPS": 12,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 4,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "May-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-05-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 67000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 58592.0,
+            "totalCreditAPS": 58592.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 67000.0,
+            "totalDebitAPS": 99361.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 32361.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 58567.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 21406.47,
+            "balLast": 1054.44,
+            "balMax": 107001.44,
+            "balMin": 0.44,
+            "balOpen": 25.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 4,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 9,
+            "debitsAPS": 10,
+            "debitsRev": 0,
+            "debitsSC": 1,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 2,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jun-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-06-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 71000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 108054.0,
+            "totalCreditAPS": 108054.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 106025.0,
+            "totalDebitAPS": 107025.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 25.0,
+            "totalDebitSelf": 1000.0,
+            "totalEmiEcsLoanIssue": 31000.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 108000.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 24942.96,
+            "balLast": 566.44,
+            "balMax": 108000.44,
+            "balMin": 0.44,
+            "balOpen": 1054.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 10,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 3,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 11,
+            "debitsAPS": 12,
+            "debitsRev": 1,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 1,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Jul-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-07-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 111054.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 113064.0,
+            "totalCreditAPS": 113064.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 108488.0,
+            "totalDebitAPS": 113488.0,
+            "totalDebitRev": 5000.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 434.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 108000.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 24353.12,
+            "balLast": 10055.44,
+            "balMax": 80054.44,
+            "balMin": 54.44,
+            "balOpen": 630.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 8,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 10,
+            "debitsAPS": 12,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 1,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Aug-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-08-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 62000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 132069.0,
+            "totalCreditAPS": 132069.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 64576.0,
+            "totalDebitAPS": 122576.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 58000.0,
+            "totalEmiEcsLoanIssue": 576.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 82000.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 120.11,
+            "balLast": 23.44,
+            "balMax": 123.44,
+            "balMin": 23.44,
+            "balOpen": 10123.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 2,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 0,
+            "creditsAPS": 0,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 2,
+            "debitsAPS": 2,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Sep-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2024-09-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 10100.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 0.0,
+            "totalCreditAPS": 0.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 10100.0,
+            "totalDebitAPS": 10100.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 68635.09,
+            "balLast": 245.44,
+            "balMax": 216023.44,
+            "balMin": 23.44,
+            "balOpen": 23.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 16,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 4,
+            "creditsAPS": 5,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 16,
+            "debitsAPS": 18,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 2,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 1,
+            "monthName": "Oct-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 2,
+            "startDate": "2024-10-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 180000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 212222.0,
+            "totalCreditAPS": 216222.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 180000.0,
+            "totalDebitAPS": 216000.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 36000.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 4000.0,
+            "totalSalary": 212000.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 14435.51,
+            "balLast": 108036.44,
+            "balMax": 108036.44,
+            "balMin": 0.44,
+            "balOpen": 245.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 0,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 2,
+            "creditsAPS": 2,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 0,
+            "debitsAPS": 1,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 1,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Nov-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-11-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 0.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 108036.0,
+            "totalCreditAPS": 108036.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 0.0,
+            "totalDebitAPS": 245.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 245.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 108000.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 25629.49,
+            "balLast": 5353.46,
+            "balMax": 100286.46,
+            "balMin": 86.46,
+            "balOpen": 108036.44,
+            "cashDeposits": 0,
+            "cashWithdrawals": 16,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 6,
+            "creditsAPS": 6,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 18,
+            "debitsAPS": 18,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 0,
+            "monthName": "Dec-24",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 1,
+            "startDate": "2024-12-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 221700.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 146267.02,
+            "totalCreditAPS": 146267.02,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 248950.0,
+            "totalDebitAPS": 248950.0,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 0.0,
+            "totalSalary": 97200.0,
+            "totalcreditSubsidy": 0.0
+        },
+        {
+            "balAvg": 70088.35,
+            "balLast": 75894.78,
+            "balMax": 108114.22,
+            "balMin": 3014.22,
+            "balOpen": 5353.46,
+            "cashDeposits": 0,
+            "cashWithdrawals": 6,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "creditSubsidy": 0,
+            "credits": 3,
+            "creditsAPS": 4,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 13,
+            "debitsAPS": 13,
+            "debitsRev": 0,
+            "debitsSC": 0,
+            "debitsSelf": 0,
+            "emiEcsLoanIssues": 0,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 1,
+            "monthName": "Jan-25",
+            "n_months": 12,
+            "outwBounces": 0,
+            "salaries": 0,
+            "startDate": "2025-01-01",
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 26000.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 280.0,
+            "totalCreditAPS": 108280.0,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 37738.68,
+            "totalDebitAPS": 37738.68,
+            "totalDebitRev": 0.0,
+            "totalDebitSC": 0.0,
+            "totalDebitSelf": 0.0,
+            "totalEmiEcsLoanIssue": 0.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 108000.0,
+            "totalSalary": 0.0,
+            "totalcreditSubsidy": 0.0
+        }
+    ],
+    "regularCredits": [
+        {
+            "amount": 108000.0,
+            "balance": 108001.44,
+            "category": "salary",
+            "date": "2024-06-06",
+            "group": 1,
+            "narration": "IMPS-INET/Fund Trf/415817561491/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "415817561491"
+        },
+        {
+            "amount": 82000.0,
+            "balance": 82054.44,
+            "category": "salary",
+            "date": "2024-08-19",
+            "group": 1,
+            "narration": "IMPS-INET/Fund Trf/423208534683/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "423208534683"
+        },
+        {
+            "amount": 104000.0,
+            "balance": 104023.44,
+            "category": "salary",
+            "date": "2024-10-05",
+            "group": 1,
+            "narration": "IMPS-INET/Fund Trf/427914930579/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "427914930579"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 108023.44,
+            "category": "loan_disbursed",
+            "date": "2024-10-06",
+            "group": 1,
+            "narration": "IMPS-INET/Fund Trf/428007570056/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "428007570056"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 216023.44,
+            "category": "salary",
+            "date": "2024-10-18",
+            "group": 1,
+            "narration": "IMPS-INET/Fund Trf/429219786658/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "429219786658"
+        },
+        {
+            "amount": 6.0,
+            "balance": 74.87,
+            "category": "income_interest",
+            "date": "2024-02-28",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 62.0,
+            "balance": 17132.87,
+            "category": "income_interest",
+            "date": "2024-03-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 139.0,
+            "balance": 40794.44,
+            "category": "income_interest",
+            "date": "2024-04-29",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 25.0,
+            "balance": 25.44,
+            "category": "income_interest",
+            "date": "2024-05-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 53.0,
+            "balance": 1054.44,
+            "category": "income_interest",
+            "date": "2024-06-29",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 64.0,
+            "balance": 630.44,
+            "category": "income_interest",
+            "date": "2024-07-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 68.0,
+            "balance": 10123.44,
+            "category": "income_interest",
+            "date": "2024-08-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 175.0,
+            "balance": 245.44,
+            "category": "income_interest",
+            "date": "2024-10-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 36.0,
+            "balance": 108036.44,
+            "category": "income_interest",
+            "date": "2024-11-29",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 67.0,
+            "balance": 5353.46,
+            "category": "income_interest",
+            "date": "2024-12-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 179.0,
+            "balance": 75894.78,
+            "category": "income_interest",
+            "date": "2025-01-30",
+            "group": 2,
+            "narration": "MONTHLY SAVINGS INTEREST CREDIT",
+            "txnid": "0"
+        },
+        {
+            "amount": 58567.0,
+            "balance": 58567.87,
+            "category": "salary",
+            "date": "2024-03-02",
+            "group": 3,
+            "narration": "NEFT/AXISP00476603078/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 58567.0,
+            "balance": 73599.87,
+            "category": "salary",
+            "date": "2024-04-02",
+            "group": 3,
+            "narration": "NEFT/AXISP00487479113/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 58567.0,
+            "balance": 89361.44,
+            "category": "salary",
+            "date": "2024-05-03",
+            "group": 3,
+            "narration": "NEFT/AXISP00496515872/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "0"
+        },
+        {
+            "amount": 108000.0,
+            "balance": 108000.44,
+            "category": "salary",
+            "date": "2024-11-27",
+            "group": 4,
+            "narration": "NEFT/BKIDY24332510136/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0005663",
+            "txnid": "0"
+        },
+        {
+            "amount": 97200.0,
+            "balance": 97286.46,
+            "category": "salary",
+            "date": "2024-12-20",
+            "group": 4,
+            "narration": "NEFT/BKIDY24355543478/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0000200",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 100286.46,
+            "category": "transfer",
+            "date": "2024-12-20",
+            "group": 5,
+            "narration": "UPI/MOB/435509248763/Sent using Paytm UPI",
+            "txnid": "243550002043814288"
+        },
+        {
+            "amount": 100.0,
+            "balance": 108114.22,
+            "category": "transfer",
+            "date": "2025-01-11",
+            "group": 5,
+            "narration": "UPI/MOB/501171298848/Sent using Paytm UPI",
+            "txnid": "250110002155574595"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40567.87,
+            "category": "transfer",
+            "date": "2024-03-02",
+            "group": 6,
+            "narration": "UPI/MOB/406223579522/UPI",
+            "txnid": "240620000744032444"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 20000.87,
+            "category": "transfer",
+            "date": "2024-03-24",
+            "group": 6,
+            "narration": "UPI/MOB/445056769752/UPI",
+            "txnid": "240840000833485074"
+        },
+        {
+            "amount": 1.0,
+            "balance": 28055.44,
+            "category": "transfer",
+            "date": "2024-08-25",
+            "group": 6,
+            "narration": "UPI/MOB/423802066262/UPI",
+            "txnid": "242380001482494314"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 78055.44,
+            "category": "transfer",
+            "date": "2024-08-25",
+            "group": 6,
+            "narration": "UPI/MOB/423847874520/UPI",
+            "txnid": "242380001482618921"
+        },
+        {
+            "amount": 47.0,
+            "balance": 216070.44,
+            "category": "transfer",
+            "date": "2024-10-19",
+            "group": 6,
+            "narration": "UPI/MOB/429324987562/UPI",
+            "txnid": "242930001741293637"
+        },
+        {
+            "amount": 40000.0,
+            "balance": 50036.44,
+            "category": "transfer",
+            "date": "2024-12-05",
+            "group": 6,
+            "narration": "UPI/MOB/434004809308/UPI",
+            "txnid": "243400001970886573"
+        }
+    ],
+    "regularDebits": [
+        {
+            "amount": 2000.0,
+            "balance": 6568.87,
+            "category": "cash_withdrawal",
+            "date": "2024-02-10",
+            "group": 1,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/BHAVANI P/404111005275/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 17000.87,
+            "category": "cash_withdrawal",
+            "date": "2024-03-24",
+            "group": 1,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/BHAVANI P/408411008448/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 2500.0,
+            "balance": 17070.87,
+            "category": "cash_withdrawal",
+            "date": "2024-03-31",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409110002184/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 72599.87,
+            "category": "cash_withdrawal",
+            "date": "2024-04-04",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409520003719/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 1500.0,
+            "balance": 70655.44,
+            "category": "cash_withdrawal",
+            "date": "2024-04-07",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/409819004431/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 79361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-03",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000193/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 69361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-03",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000194/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 59361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-03",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000195/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 49361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-03",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412418000196/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 45361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-05",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412607000640/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 42361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-06",
+            "group": 2,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/GOLLAPUDI/412710001038/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 149070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 9000.0,
+            "balance": 140070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 130070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 120070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 110070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 100070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 90070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 89070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 79070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 9000.0,
+            "balance": 70070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 3,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA NAGAR        RANG",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 94001.44,
+            "category": "cash_withdrawal",
+            "date": "2024-06-08",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/416018027067/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 84001.44,
+            "category": "cash_withdrawal",
+            "date": "2024-06-08",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/416018028258/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 6000.0,
+            "balance": 102000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-10",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/419219002982/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311015754/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 30000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311016620/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 20000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311017396/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311018267/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 5000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311020222/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 7000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-21",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/420311020673/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 100.0,
+            "balance": 23.44,
+            "category": "cash_withdrawal",
+            "date": "2024-09-30",
+            "group": 4,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+MADHURA/427419027180/SELF",
+            "txnid": "0"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 5286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 5,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+RALLAGUDA            HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 100493.91,
+            "category": "cash_withdrawal",
+            "date": "2025-01-21",
+            "group": 5,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+RALLAGUDA            HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-25",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 30070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-25",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 20070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-25",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-25",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 70.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-25",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 45036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 35036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 25036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 15036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 12036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 6,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/SBI SHAMSHABAD BRANCH GHMC",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 17361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-07",
+            "group": 7,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+SHAMSHAB/412814013280/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 7361.44,
+            "category": "cash_withdrawal",
+            "date": "2024-05-07",
+            "group": 7,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+SHAMSHAB/412814013672/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 3353.46,
+            "category": "cash_withdrawal",
+            "date": "2025-01-07",
+            "group": 8,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+Shamshabad           Hyde",
+            "txnid": "0"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 14.22,
+            "category": "cash_withdrawal",
+            "date": "2025-01-10",
+            "group": 8,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+Shamshabad           Hyde",
+            "txnid": "0"
+        },
+        {
+            "amount": 8000.0,
+            "balance": 4036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 50286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 30286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 20286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 95714.78,
+            "category": "cash_withdrawal",
+            "date": "2025-01-24",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 8000.0,
+            "balance": 77714.78,
+            "category": "cash_withdrawal",
+            "date": "2025-01-28",
+            "group": 9,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/THE PRINCIPAL OFFICER HYDE",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 50055.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-31",
+            "group": 10,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019063/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40055.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-31",
+            "group": 10,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019431/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 30055.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-31",
+            "group": 10,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419019924/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 20055.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-31",
+            "group": 10,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419022402/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 10055.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-31",
+            "group": 10,
+            "narration": "ATM-NFS/CASH WITHDRAWAL/+UBI SHAM/424419022789/SEL",
+            "txnid": "0"
+        },
+        {
+            "amount": 74.0,
+            "balance": 0.87,
+            "category": "transfer_to_self",
+            "date": "2024-03-02",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/406207180320/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "406207180320"
+        },
+        {
+            "amount": 28000.0,
+            "balance": 30567.87,
+            "category": "transfer_to_self",
+            "date": "2024-03-02",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/406217598198/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "406217598198"
+        },
+        {
+            "amount": 19567.0,
+            "balance": 20000.87,
+            "category": "transfer_to_self",
+            "date": "2024-03-10",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/407009819830/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "407009819830"
+        },
+        {
+            "amount": 2100.0,
+            "balance": 15032.87,
+            "category": "transfer_to_self",
+            "date": "2024-04-01",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/409210394364/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "409210394364"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 60655.44,
+            "category": "transfer_to_self",
+            "date": "2024-04-09",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/410008797170/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "410008797170"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 50655.44,
+            "category": "transfer_to_self",
+            "date": "2024-04-18",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/410919545989/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "410919545989"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 40655.44,
+            "category": "transfer_to_self",
+            "date": "2024-04-27",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/411807194442/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "411807194442"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 30794.44,
+            "category": "transfer_to_self",
+            "date": "2024-05-03",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/412405252662/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "412405252662"
+        },
+        {
+            "amount": 15000.0,
+            "balance": 27361.44,
+            "category": "transfer_to_self",
+            "date": "2024-05-07",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/412806990681/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "412806990681"
+        },
+        {
+            "amount": 7300.0,
+            "balance": 61.44,
+            "category": "transfer_to_self",
+            "date": "2024-05-12",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/413308878584/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "413308878584"
+        },
+        {
+            "amount": 61.0,
+            "balance": 0.44,
+            "category": "transfer_to_self",
+            "date": "2024-05-18",
+            "group": 11,
+            "narration": "IMPS-OPM/Fund Trf/413922765850/Mr RANABOTHU  KRISHNA REDDY/20103820291SBIN/",
+            "txnid": "413922765850"
+        },
+        {
+            "amount": 25.0,
+            "balance": 0.44,
+            "category": "bank_charges",
+            "date": "2024-06-03",
+            "group": 12,
+            "narration": "NEFT/IDFBH24155244949/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241558393277"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 107001.44,
+            "category": "cash_withdrawal",
+            "date": "2024-06-06",
+            "group": 12,
+            "narration": "NEFT/IDFBH24158043582/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241589110035"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 104001.44,
+            "category": "transfer_to_self",
+            "date": "2024-06-08",
+            "group": 12,
+            "narration": "NEFT/IDFBH24160363334/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241609352119"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 34001.44,
+            "category": "cash_withdrawal",
+            "date": "2024-06-09",
+            "group": 12,
+            "narration": "NEFT/IDFBH24161594432/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241619560206"
+        },
+        {
+            "amount": 1054.0,
+            "balance": 0.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-07",
+            "group": 12,
+            "narration": "NEFT/IDFBH24189073449/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241894767581"
+        },
+        {
+            "amount": 52000.0,
+            "balance": 50000.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-11",
+            "group": 12,
+            "narration": "NEFT/IDFBH24193764203/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20241935464709"
+        },
+        {
+            "amount": 4000.0,
+            "balance": 566.44,
+            "category": "cash_withdrawal",
+            "date": "2024-07-31",
+            "group": 12,
+            "narration": "NEFT/IDFBH24213656525/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242139053012"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 80054.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-19",
+            "group": 12,
+            "narration": "NEFT/IDFBH24232905698/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242322693471"
+        },
+        {
+            "amount": 40000.0,
+            "balance": 40054.44,
+            "category": "transfer_to_self",
+            "date": "2024-08-22",
+            "group": 12,
+            "narration": "NEFT/IDFBH24235414032/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242353207966"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 35054.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-22",
+            "group": 12,
+            "narration": "NEFT/IDFBH24235527918/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242353333183"
+        },
+        {
+            "amount": 5000.0,
+            "balance": 28054.44,
+            "category": "cash_withdrawal",
+            "date": "2024-08-24",
+            "group": 12,
+            "narration": "NEFT/IDFBH24237721576/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242373577251"
+        },
+        {
+            "amount": 18000.0,
+            "balance": 60055.44,
+            "category": "transfer_to_self",
+            "date": "2024-08-31",
+            "group": 12,
+            "narration": "NEFT/IDFBH24244601426/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242444728267"
+        },
+        {
+            "amount": 10000.0,
+            "balance": 123.44,
+            "category": "cash_withdrawal",
+            "date": "2024-09-01",
+            "group": 12,
+            "narration": "NEFT/IDFBH24245836249/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242454959290"
+        },
+        {
+            "amount": 16000.0,
+            "balance": 200070.44,
+            "category": "transfer_to_self",
+            "date": "2024-10-19",
+            "group": 12,
+            "narration": "NEFT/IDFBH24293756260/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242934783924"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 150070.44,
+            "category": "cash_withdrawal",
+            "date": "2024-10-20",
+            "group": 12,
+            "narration": "NEFT/IDFBH24294800973/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242944839002"
+        },
+        {
+            "amount": 20000.0,
+            "balance": 50070.44,
+            "category": "transfer_to_self",
+            "date": "2024-10-23",
+            "group": 12,
+            "narration": "NEFT/IDFBH24297318626/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20242975574238"
+        },
+        {
+            "amount": 245.0,
+            "balance": 0.44,
+            "category": "transfer_to_self",
+            "date": "2024-11-05",
+            "group": 12,
+            "narration": "NEFT/IDFBH24310942917/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243108127939"
+        },
+        {
+            "amount": 3000.0,
+            "balance": 105036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 12,
+            "narration": "NEFT/IDFBH24336949519/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243363158917"
+        },
+        {
+            "amount": 50000.0,
+            "balance": 55036.44,
+            "category": "cash_withdrawal",
+            "date": "2024-12-01",
+            "group": 12,
+            "narration": "NEFT/IDFBH24336987548/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243363258226"
+        },
+        {
+            "amount": 22700.0,
+            "balance": 86.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-15",
+            "group": 12,
+            "narration": "NEFT/IDFBH24351395481/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243516417258"
+        },
+        {
+            "amount": 40000.0,
+            "balance": 60286.46,
+            "category": "cash_withdrawal",
+            "date": "2024-12-22",
+            "group": 12,
+            "narration": "NEFT/IDFBH24357300407/Mr RANABOTHU  KRISHNA REDDY/SBIN0007484",
+            "txnid": "20243577675131"
+        },
+        {
+            "amount": 430.0,
+            "balance": 19570.87,
+            "category": "transfer",
+            "date": "2024-03-29",
+            "group": 13,
+            "narration": "POS-VISA/AVENUE SUPERMARTS LIMIVIJAYAWA/4089150437/VIJAYAWADA/15:21:59",
+            "txnid": "0"
+        },
+        {
+            "amount": 444.43,
+            "balance": 72155.44,
+            "category": "transfer",
+            "date": "2024-04-06",
+            "group": 13,
+            "narration": "POS-VISA/AVENUE SUPERMARTS LIMIVIJAYAWA/4097110197/VIJAYAWADA/11:24:54",
+            "txnid": "0"
+        },
+        {
+            "amount": 26250.0,
+            "balance": 23786.46,
+            "category": "utility_others",
+            "date": "2024-12-15",
+            "group": 14,
+            "narration": "POS-VISA/BAJAJ ELECTRONICS/435014499678/HYDERABAD/14:01:39",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 22786.46,
+            "category": "utility_others",
+            "date": "2024-12-15",
+            "group": 14,
+            "narration": "POS-VISA/BAJAJ ELECTRONICS/435014504593/HYDERABAD/14:05:52",
+            "txnid": "0"
+        },
+        {
+            "amount": 1000.0,
+            "balance": 33001.44,
+            "category": "loan_repayment",
+            "date": "2024-06-09",
+            "group": 15,
+            "narration": "POS-VISA/BROOK FIELD INTERNAT/416107800689/HYDERABAD/07:33:14",
+            "txnid": "0"
+        },
+        {
+            "amount": 30000.0,
+            "balance": 3001.44,
+            "category": "loan_repayment",
+            "date": "2024-06-19",
+            "group": 15,
+            "narration": "POS-VISA/BROOK FIELD INTERNAT/417110460369/HYDERABAD/10:00:30",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 4566.44,
+            "category": "expenses_fuel",
+            "date": "2024-07-27",
+            "group": 16,
+            "narration": "POS-VISA/HANUMAN FILLING STATIOKVRANGAR/4209143605/KVRANGAREDDY/14:28:15",
+            "txnid": "0"
+        },
+        {
+            "amount": 2620.31,
+            "balance": 105493.91,
+            "category": "expenses_fuel",
+            "date": "2025-01-12",
+            "group": 16,
+            "narration": "POS-VISA/HANUMAN FILLING STATIOKVRangar/5012124041/KVRangareddy/12:15:34",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 101493.91,
+            "category": "expenses_fuel",
+            "date": "2025-01-20",
+            "group": 17,
+            "narration": "POS-VISA/HANUMAN FILLING STATIORANGA RE/5020107133/RANGA REDDY/10:32:47",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 75715.78,
+            "category": "expenses_fuel",
+            "date": "2025-01-30",
+            "group": 17,
+            "narration": "POS-VISA/HANUMAN FILLING STATIORANGA RE/5030140322/RANGA REDDY/14:22:16",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 105001.44,
+            "category": "expenses_fuel",
+            "date": "2024-06-07",
+            "group": 18,
+            "narration": "POS-VISA/HPCL HANUMAN FILLING SHYDERABA/4159129414/HYDERABAD/12:59:31",
+            "txnid": "0"
+        },
+        {
+            "amount": 2000.0,
+            "balance": 1001.44,
+            "category": "expenses_fuel",
+            "date": "2024-06-21",
+            "group": 18,
+            "narration": "POS-VISA/HPCL HANUMAN FILLING SHYDERABA/4173103479/HYDERABAD/10:39:45",
+            "txnid": "0"
+        },
+        {
+            "amount": 434.0,
+            "balance": 6566.44,
+            "category": "loan_repayment",
+            "date": "2024-07-27",
+            "group": 19,
+            "narration": "POS-VISA/VIJAYADURGA GRAND/420914478544/HYDERABAD/14:17:44",
+            "txnid": "0"
+        },
+        {
+            "amount": 576.0,
+            "balance": 54.44,
+            "category": "loan_repayment",
+            "date": "2024-08-10",
+            "group": 19,
+            "narration": "POS-VISA/VIJAYADURGA GRAND/422314636417/HYDERABAD/14:20:09",
+            "txnid": "0"
+        }
+    ],
+    "salaryXns": [
+        {
+            "MODE": "NEFT/AXISP00476603078/SRI",
+            "amount": 58567.0,
+            "balance": 58567.87,
+            "category": "salary",
+            "date": "2024-03-02",
+            "narration": "NEFT/AXISP00476603078/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "TXN_4"
+        },
+        {
+            "MODE": "NEFT/AXISP00487479113/SRI",
+            "amount": 58567.0,
+            "balance": 73599.87,
+            "category": "salary",
+            "date": "2024-04-02",
+            "narration": "NEFT/AXISP00487479113/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "TXN_15"
+        },
+        {
+            "MODE": "NEFT/AXISP00496515872/SRI",
+            "amount": 58567.0,
+            "balance": 89361.44,
+            "category": "salary",
+            "date": "2024-05-03",
+            "narration": "NEFT/AXISP00496515872/SRI KALYANA CHAKRAVARTI MEMORIAL ED/UTIB0000289",
+            "txnid": "TXN_24"
+        },
+        {
+            "MODE": "IMPS-INET/Fund",
+            "amount": 108000.0,
+            "balance": 108001.44,
+            "category": "salary",
+            "date": "2024-06-06",
+            "narration": "IMPS-INET/Fund Trf/415817561491/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "TXN_39"
+        },
+        {
+            "MODE": "NEFT/36898934671DC/ACCOMPLISH",
+            "amount": 108000.0,
+            "balance": 108000.44,
+            "category": "salary",
+            "date": "2024-07-09",
+            "narration": "NEFT/36898934671DC/ACCOMPLISH EDUCATION/ICIC0SF0002",
+            "txnid": "TXN_51"
+        },
+        {
+            "MODE": "IMPS-INET/Fund",
+            "amount": 82000.0,
+            "balance": 82054.44,
+            "category": "salary",
+            "date": "2024-08-19",
+            "narration": "IMPS-INET/Fund Trf/423208534683/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "TXN_66"
+        },
+        {
+            "MODE": "IMPS-INET/Fund",
+            "amount": 104000.0,
+            "balance": 104023.44,
+            "category": "salary",
+            "date": "2024-10-05",
+            "narration": "IMPS-INET/Fund Trf/427914930579/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "TXN_83"
+        },
+        {
+            "MODE": "IMPS-INET/Fund",
+            "amount": 108000.0,
+            "balance": 216023.44,
+            "category": "salary",
+            "date": "2024-10-18",
+            "narration": "IMPS-INET/Fund Trf/429219786658/ACCOMPLISHEDUCA/426601001336/Salary",
+            "txnid": "TXN_85"
+        },
+        {
+            "MODE": "NEFT/BKIDY24332510136/ACCOMPLISH",
+            "amount": 108000.0,
+            "balance": 108000.44,
+            "category": "salary",
+            "date": "2024-11-27",
+            "narration": "NEFT/BKIDY24332510136/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0005663",
+            "txnid": "TXN_107"
+        },
+        {
+            "MODE": "NEFT/BKIDY24355543478/ACCOMPLISH",
+            "amount": 97200.0,
+            "balance": 97286.46,
+            "category": "salary",
+            "date": "2024-12-20",
+            "narration": "NEFT/BKIDY24355543478/ACCOMPLISH EDUCATIONAL SOCIETY/BKID0000200",
+            "txnid": "TXN_123"
+        }
+    ],
+    "statementdetails": [
+        {
+            "customerInfo": {
+                "address": "S/O,R. Venkat Reddy,4-7-10 / 4 / 4,Ragha,vendra Nagar,Near Johnson Grammar School,,Nacharam,Uppal,K.v. Rangareddy,500076",
+                "bank": "IDFC FIRST BANK",
+                "email": "ranabothu.krishna@gmail.com",
+                "landline": "NA",
+                "mobile": "9493839100",
+                "name": "Mr. Ranabothu Krishna Reddy",
+                "pan": "AZLPR6296D"
+            },
+            "statementAccounts": [
+                {
+                    "Pending_amount": "NA",
+                    "accType": "SAVINGS",
+                    "accountNo": "XXXXXXX2610",
+                    "accountType": "Bank",
+                    "balanceDateTime": "2025-02-08T17:52:07.845+00:00",
+                    "branch": "80231",
+                    "currency": "INR",
+                    "currentODLimit": "0.00",
+                    "drawingLimit": "0.00",
+                    "facility": "OD",
+                    "xnsEndDate": "2025-02-08",
+                    "xnsStartDate": "2024-02-01"
+                }
+            ]
+        }
+    ],
+    "summaryInfo": {
+        "accNo": "XXXXXXX2610",
+        "accType": "SAVINGS",
+        "average": {
+            "balAvg": 28578.69,
+            "balLast": 21599.62,
+            "balMax": 83311.53,
+            "balMin": 1531.7,
+            "balOpen": 16005.3,
+            "cashDeposits": 0.0,
+            "cashWithdrawals": 6.0,
+            "chqDeposits": 0.0,
+            "chqIssues": 0.0,
+            "credits": 3.0,
+            "creditsAPS": 3.0,
+            "creditsRev": 0.0,
+            "creditsSC": 0.0,
+            "creditsSelf": 0.0,
+            "debits": 8.0,
+            "debitsAPS": 10.0,
+            "debitsRev": 0.0,
+            "debitsSC": 0.0,
+            "debitsSelf": 1.42,
+            "emiEcsLoanIssues": 0.33,
+            "invIncomes": 0.0,
+            "inwBounces": 0.0,
+            "inwChqBounceNonTechnical": 0.0,
+            "inwEMIBounces": 0.0,
+            "loanDisbursals": 0.17,
+            "outwBounces": 0.0,
+            "salaries": 0.83,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 63321.17,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0.0,
+            "totalCredit": 84077.08,
+            "totalCreditAPS": 93410.42,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0.0,
+            "totalCreditSelf": 0.0,
+            "totalDebit": 70104.34,
+            "totalDebitAPS": 87799.93,
+            "totalDebitRev": 416.67,
+            "totalDebitSC": 2.08,
+            "totalDebitSelf": 17278.92,
+            "totalEmiEcsLoanIssue": 2667.5,
+            "totalInvIncome": 0.0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 9333.33,
+            "totalSalary": 74241.75
+        },
+        "fullMonthCount": 12,
+        "instName": "IDFC FIRST BANK, India",
+        "total": {
+            "balAvg": 342944.33,
+            "balLast": 259195.5,
+            "balMax": 999738.37,
+            "balMin": 18380.37,
+            "balOpen": 192063.59,
+            "cashDeposits": 0,
+            "cashWithdrawals": 76,
+            "chqDeposits": 0,
+            "chqIssues": 0,
+            "credits": 34,
+            "creditsAPS": 36,
+            "creditsRev": 0,
+            "creditsSC": 0,
+            "creditsSelf": 0,
+            "debits": 96,
+            "debitsAPS": 114,
+            "debitsRev": 1,
+            "debitsSC": 1,
+            "debitsSelf": 17,
+            "emiEcsLoanIssues": 4,
+            "invIncomes": 0,
+            "inwBounces": 0,
+            "inwChqBounceNonTechnical": 0,
+            "inwEMIBounces": 0,
+            "loanDisbursals": 2,
+            "outwBounces": 0,
+            "salaries": 10,
+            "totalCashDeposit": 0.0,
+            "totalCashWithdrawal": 759854.0,
+            "totalChqDeposit": 0.0,
+            "totalChqIssue": 0,
+            "totalCredit": 1008925.02,
+            "totalCreditAPS": 1120925.02,
+            "totalCreditRev": 0.0,
+            "totalCreditSC": 0,
+            "totalCreditSelf": 0,
+            "totalDebit": 841252.11,
+            "totalDebitAPS": 1053599.11,
+            "totalDebitRev": 5000.0,
+            "totalDebitSC": 25.0,
+            "totalDebitSelf": 207347.0,
+            "totalEmiEcsLoanIssue": 32010.0,
+            "totalInvIncome": 0,
+            "totalInwEMIBounce": 0.0,
+            "totalLoanDisbursal": 112000.0,
+            "totalSalary": 890901.0
+        }
+    },
+    "top5FundsReceived": [
+        {
+            "amount": 58567.0,
+            "category": "Neft Axisp Sri Kalyana Chakravarti Memorial Ed Utib",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 139.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 82000.0,
+            "category": "Imps Inet Fund Trf Accomplisheduca Salary",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 50001.0,
+            "category": "Upi Mob Upi",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 68.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 97200.0,
+            "category": "Neft Bkidy Accomplish Educational Society Bkid",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 40000.0,
+            "category": "Upi Mob Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 6000.0,
+            "category": "Upi Mob Na",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 3000.0,
+            "category": "Upi Mob Sent Using Paytm Upi",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 67.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 6.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Feb-24"
+        },
+        {
+            "amount": 108000.0,
+            "category": "Neft Bkidy Sree Sree Gayathri Educational Bkid",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 179.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 100.0,
+            "category": "Upi Mob Sent Using Paytm Upi",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 1.0,
+            "category": "Ift Perfios Software Sol Carsservicesprivatelimitedsellerteambankaccountvalidation",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 108000.0,
+            "category": "Neft Dc Accomplish Education Icicsf",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Nfs Withdrawal Reversed Madhura",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 64.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 108000.0,
+            "category": "Imps Inet Fund Trf Accomplisheduca Salary",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 53.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 1.0,
+            "category": "Imps Mob Fund Trf Accomplisheduca Impstransaction",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 58567.0,
+            "category": "Neft Axisp Sri Kalyana Chakravarti Memorial Ed Utib",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 13000.0,
+            "category": "Upi Mob Upi",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 62.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 58567.0,
+            "category": "Neft Axisp Sri Kalyana Chakravarti Memorial Ed Utib",
+            "month": "May-24"
+        },
+        {
+            "amount": 25.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "May-24"
+        },
+        {
+            "amount": 108000.0,
+            "category": "Neft Bkidy Accomplish Educational Society Bkid",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 36.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 216000.0,
+            "category": "Imps Inet Fund Trf Accomplisheduca Salary",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 175.0,
+            "category": "Monthly Savings Interest Credit",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 47.0,
+            "category": "Upi Mob Upi",
+            "month": "Oct-24"
+        }
+    ],
+    "top5FundsTransferred": [
+        {
+            "amount": 32100.0,
+            "category": "Imps Opm Fund Trf Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 2500.0,
+            "category": "Atm Nfs Cash Withdrawal Gollapudi Sel",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 444.43,
+            "category": "Pos Visa Avenue Supermarts Limivijayawa Vijayawada",
+            "month": "Apr-24"
+        },
+        {
+            "amount": 70000.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 50000.0,
+            "category": "Atm Nfs Cash Withdrawal Ubi Sham Sel",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Pos Visa Lakshmi Narasimha Fillhyderaba Hyderabad",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 576.0,
+            "category": "Pos Visa Vijayadurga Grand Hyderabad",
+            "month": "Aug-24"
+        },
+        {
+            "amount": 115700.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 58000.0,
+            "category": "Atm Nfs Cash Withdrawal The Principal Officer Hyde",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 43000.0,
+            "category": "Atm Nfs Cash Withdrawal Sbi Shamshabad Branch Ghmc",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 27250.0,
+            "category": "Pos Visa Bajaj Electronics Hyderabad",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Nfs Cash Withdrawal Rallaguda Hyde",
+            "month": "Dec-24"
+        },
+        {
+            "amount": 6500.0,
+            "category": "Imps Opm Fund Trf Sbin",
+            "month": "Feb-24"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Atm Nfs Cash Withdrawal Bhavani P Sel",
+            "month": "Feb-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Atm Nfs Cash Withdrawal Shamshabad Sham",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Atm Nfs Cash Withdrawal The Principal Officer Hyde",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 5000.0,
+            "category": "Atm Nfs Cash Withdrawal Shamshabad Hyde",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 4000.0,
+            "category": "Pos Visa Hanuman Filling Statioranga Re Ranga Reddy",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 2620.31,
+            "category": "Pos Visa Hanuman Filling Statiokvrangar Kvrangareddy",
+            "month": "Jan-25"
+        },
+        {
+            "amount": 57054.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 54000.0,
+            "category": "Atm Nfs Cash Withdrawal Madhura Self",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Pos Visa Hanuman Filling Statiokvrangar Kvrangareddy",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 434.0,
+            "category": "Pos Visa Vijayadurga Grand Hyderabad",
+            "month": "Jul-24"
+        },
+        {
+            "amount": 52025.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 31000.0,
+            "category": "Pos Visa Brook Field Internat Hyderabad",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Atm Nfs Cash Withdrawal Madhura Self",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 4000.0,
+            "category": "Pos Visa Hpcl Hanuman Filling Shyderaba Hyderabad",
+            "month": "Jun-24"
+        },
+        {
+            "amount": 47641.0,
+            "category": "Imps Opm Fund Trf Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 3000.0,
+            "category": "Atm Nfs Cash Withdrawal Bhavani P Sel",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 2500.0,
+            "category": "Atm Nfs Cash Withdrawal Gollapudi Sel",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 1000.0,
+            "category": "Atm Nfs Cash Withdrawal Panchayat Sel",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 430.0,
+            "category": "Pos Visa Avenue Supermarts Limivijayawa Vijayawada",
+            "month": "Mar-24"
+        },
+        {
+            "amount": 47000.0,
+            "category": "Atm Nfs Cash Withdrawal Gollapudi Sel",
+            "month": "May-24"
+        },
+        {
+            "amount": 32361.0,
+            "category": "Imps Opm Fund Trf Mr Ranabothu Krishna Reddy Sbin",
+            "month": "May-24"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Atm Nfs Cash Withdrawal Shamshab Sel",
+            "month": "May-24"
+        },
+        {
+            "amount": 245.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Nov-24"
+        },
+        {
+            "amount": 86000.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 80000.0,
+            "category": "Atm Nfs Cash Withdrawal Madhura Nagar Rang",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 50000.0,
+            "category": "Atm Nfs Cash Withdrawal Sbi Shamshabad Branch Ghmc",
+            "month": "Oct-24"
+        },
+        {
+            "amount": 10000.0,
+            "category": "Neft Idfbh Mr Ranabothu Krishna Reddy Sbin",
+            "month": "Sep-24"
+        },
+        {
+            "amount": 100.0,
+            "category": "Atm Nfs Cash Withdrawal Madhura Self",
+            "month": "Sep-24"
+        }
+    ]
+}
