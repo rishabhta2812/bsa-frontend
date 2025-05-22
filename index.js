@@ -129,8 +129,8 @@ async function loadDashboard() {
 
     document.getElementById('total-outstanding').innerText = `₹${totalOutstanding.toFixed(2)}`;
     document.getElementById('total-overdue').innerText = `₹${totalOverdue.toFixed(2)}`;
-    const avgDPD = overdueCount > 0 ? totalDPD / overdueCount : 0;
-    document.getElementById('avg-dpd').innerText = `${avgDPD.toFixed(1)} days`;
+    const totalActiveLoans = Object.values(groupData).reduce((sum, group) => sum + group.count, 0);
+    document.getElementById('total-active-loans').innerText = `${totalActiveLoans}`;
     const collectionEfficiency = totalRepaymentsExpected > 0 ? (totalRepaymentsReceived / totalRepaymentsExpected) * 100 : 0;
     document.getElementById('collection-efficiency').innerText = `${collectionEfficiency.toFixed(2)}%`;
 
@@ -204,7 +204,7 @@ async function loadDashboard() {
     highRiskCustomers.forEach(customer => {
         const li = document.createElement('li');
         li.className = 'list-group-item list-group-item-warning';
-        li.innerText = `Mobile: ${customer.mobile}, Group: ${customer.group}, Outstanding: ₹${customer.outstanding.toFixed(2)}, DPD: ${customer.dpd} days`;
+        li.innerText = `Mobile: ${customer.mobile}, Outstanding: ₹${customer.outstanding.toFixed(2)}`;
         highRiskList.appendChild(li);
     });
 }
